@@ -1,5 +1,7 @@
 # MI TZOMPANTEPEC · Episodios 02–20
 
+**[Descargar los 20 videos en un solo ZIP (1.4 GB)](https://github.com/davidghv85-ops/chat/raw/refs/heads/descarga-video-saludable/MI-TZOMPANTEPEC-20-VIDEOS.zip?download=1)**
+
 19 videos verticales de 90 segundos, con el personaje original, efectos de sonido propios y sin música ni voz.
 
 [Descargar todos los textos y descripciones](textos-y-descripciones.zip) · [Leerlos juntos](textos-y-descripciones.md) · [Fuentes y alcance](FUENTES-Y-ALCANCE.md)
