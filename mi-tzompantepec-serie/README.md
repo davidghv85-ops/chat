@@ -10,10 +10,10 @@
 | 03 | Un nombre en la arqueología | [Descargar](episodio-03/mi-tzompantepec-03-90s.mp4?raw=1) | [Texto](episodio-03/texto-de-corrido.txt) | [Descripción](episodio-03/descripcion.txt) |
 | 04 | Tzompantepec y los encuentros de 1519 | [Descargar](episodio-04/mi-tzompantepec-04-90s.mp4?raw=1) | [Texto](episodio-04/texto-de-corrido.txt) | [Descripción](episodio-04/descripcion.txt) |
 | 05 | Mirar el periodo virreinal | [Descargar](episodio-05/mi-tzompantepec-05-90s.mp4?raw=1) | [Texto](episodio-05/texto-de-corrido.txt) | [Descripción](episodio-05/descripcion.txt) |
-| 06 | Del pueblo al municipio | Pendiente de exportación | [Texto](episodio-06/texto-de-corrido.txt) | [Descripción](episodio-06/descripcion.txt) |
-| 07 | Un municipio, muchas comunidades | Pendiente de exportación | [Texto](episodio-07/texto-de-corrido.txt) | [Descripción](episodio-07/descripcion.txt) |
-| 08 | San Salvador y la memoria de la cabecera | Pendiente de exportación | [Texto](episodio-08/texto-de-corrido.txt) | [Descripción](episodio-08/descripcion.txt) |
-| 09 | Templos que guardan historia | Pendiente de exportación | [Texto](episodio-09/texto-de-corrido.txt) | [Descripción](episodio-09/descripcion.txt) |
+| 06 | Del pueblo al municipio | [Descargar](episodio-06/mi-tzompantepec-06-90s.mp4?raw=1) | [Texto](episodio-06/texto-de-corrido.txt) | [Descripción](episodio-06/descripcion.txt) |
+| 07 | Un municipio, muchas comunidades | [Descargar](episodio-07/mi-tzompantepec-07-90s.mp4?raw=1) | [Texto](episodio-07/texto-de-corrido.txt) | [Descripción](episodio-07/descripcion.txt) |
+| 08 | San Salvador y la memoria de la cabecera | [Descargar](episodio-08/mi-tzompantepec-08-90s.mp4?raw=1) | [Texto](episodio-08/texto-de-corrido.txt) | [Descripción](episodio-08/descripcion.txt) |
+| 09 | Templos que guardan historia | [Descargar](episodio-09/mi-tzompantepec-09-90s.mp4?raw=1) | [Texto](episodio-09/texto-de-corrido.txt) | [Descripción](episodio-09/descripcion.txt) |
 | 10 | La fiesta que reúne | Pendiente de exportación | [Texto](episodio-10/texto-de-corrido.txt) | [Descripción](episodio-10/descripcion.txt) |
 | 11 | El carnaval y sus protagonistas | Pendiente de exportación | [Texto](episodio-11/texto-de-corrido.txt) | [Descripción](episodio-11/descripcion.txt) |
 | 12 | Los sonidos de la comunidad | Pendiente de exportación | [Texto](episodio-12/texto-de-corrido.txt) | [Descripción](episodio-12/descripcion.txt) |
