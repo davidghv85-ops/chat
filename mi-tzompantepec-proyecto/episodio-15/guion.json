@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "DISTINTAS FORMAS DE TRABAJAR",
+    "dato": "ECONOMÍA LOCAL",
+    "texto": "La economía local combina actividades del campo, producción artesanal, comercio y servicios. No todas las comunidades tienen la misma distribución de ocupaciones.",
+    "diagrama": "mercado"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA PRESENCIA DEL CAMPO",
+    "dato": "AGRICULTURA",
+    "texto": "En dos mil diez, INEGI registró uso agrícola en cincuenta y uno punto setenta y uno por ciento del territorio municipal.",
+    "diagrama": "campo"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LOS CULTIVOS DE LA RESEÑA LOCAL",
+    "dato": "MAÍZ Y LEGUMBRES",
+    "texto": "La descripción económica compartida menciona maíz, cebada, frijol y haba. Son referencias de su actividad agrícola, sin atribuirles cantidades de producción no documentadas.",
+    "diagrama": "maiz"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "OTRA ACTIVIDAD DEL ENTORNO RURAL",
+    "dato": "CRÍA DE ANIMALES",
+    "texto": "La reseña local también menciona cría de ganado ovino y bovino. La escala de cada unidad productiva puede variar entre familias y comunidades.",
+    "diagrama": "animal"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "UN OFICIO CON PRODUCTOS CONCRETOS",
+    "dato": "ALFARERÍA",
+    "texto": "Comales, ollas y objetos de barro bruñido o rojo cocido forman parte de la producción artesanal documentada para Tzompantepec.",
+    "diagrama": "barro"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "TRANSFORMAR EL BARRO",
+    "dato": "DEL BARRO AL OBJETO",
+    "texto": "Modelar, secar, decorar y cocer una pieza requiere trabajo y conocimiento. La alfarería conecta materias primas, elaboración y venta de productos.",
+    "diagrama": "olla"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LA ACTIVIDAD DEL COMERCIO",
+    "dato": "NEGOCIOS LOCALES",
+    "texto": "El comercio acerca alimentos, utensilios y otros productos a los habitantes. Comprar en negocios locales mantiene relaciones económicas dentro de la comunidad.",
+    "diagrama": "mercado"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LOS SERVICIOS TAMBIÉN CUENTAN",
+    "dato": "TRANSPORTE Y ATENCIÓN",
+    "texto": "El transporte y otros servicios sostienen actividades cotidianas y conectan a las comunidades con sus lugares de estudio, trabajo y compra.",
+    "diagrama": "ruta"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LOS VÍNCULOS LABORALES CON LA REGIÓN",
+    "dato": "ENTORNO INDUSTRIAL",
+    "texto": "La cercanía con Apizaco y su entorno industrial forma parte de las conexiones laborales de Tzompantepec, junto al comercio y los oficios locales.",
+    "diagrama": "economia"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué oficio, taller o negocio de Tzompantepec te gustaría que más personas conocieran? Recomiéndalo en los comentarios y cuéntanos qué lo distingue.",
+    "diagrama": "pregunta"
+  }
+]

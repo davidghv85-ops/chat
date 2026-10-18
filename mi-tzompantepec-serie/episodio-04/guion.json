@@ -2,81 +2,81 @@
   {
     "inicio": 0,
     "fin": 9,
-    "titulo": "SEPTIEMBRE DE 1519",
-    "dato": "1519",
-    "pantalla": "Antes de la alianza hubo enfrentamientos.",
-    "narracion": "En mil quinientos diecinueve, la llegada de Hernán Cortés a Tlaxcala no comenzó con una alianza inmediata: primero hubo resistencia y enfrentamientos."
+    "titulo": "EL BARRO COMO IDENTIDAD",
+    "dato": "ALFARERÍA",
+    "texto": "Tzompantepec tiene una tradición alfarera documentada. El trabajo del barro reúne conocimientos de modelado, acabado, decoración y cocción transmitidos entre artesanos.",
+    "diagrama": "barro"
   },
   {
     "inicio": 9,
     "fin": 18,
-    "titulo": "DOS PROTAGONISTAS DEL RELATO",
-    "dato": "CORTÉS",
-    "pantalla": "Xicoténcatl el Joven dirigió fuerzas tlaxcaltecas.",
-    "narracion": "Las narraciones de aquellos combates mencionan a Hernán Cortés y a Xicoténcatl el Joven, quien dirigió fuerzas tlaxcaltecas en la resistencia."
+    "titulo": "UNO DE SUS PRODUCTOS EMBLEMÁTICOS",
+    "dato": "EL COMAL",
+    "texto": "Los comales de barro destacan entre los productos del municipio. Son utensilios que conectan el trabajo artesanal con la preparación cotidiana de alimentos.",
+    "diagrama": "comal"
   },
   {
     "inicio": 18,
     "fin": 27,
-    "titulo": "EL DOS DE SEPTIEMBRE",
-    "dato": "2 SEP",
-    "pantalla": "Los relatos sitúan un combate cerca de Tzompantepec.",
-    "narracion": "La síntesis histórica consultada sitúa el dos de septiembre un enfrentamiento en las cercanías de Tzompantepec, durante la marcha de la expedición."
+    "titulo": "UNA VARIEDAD DEL MATERIAL",
+    "dato": "BARRO ROJO COCIDO",
+    "texto": "La reseña artesanal de INEGI menciona barro rojo cocido. La cocción transforma la pieza y le da resistencia para su uso.",
+    "diagrama": "barro"
   },
   {
     "inicio": 27,
     "fin": 36,
-    "titulo": "UNA CAÑADA EN EL COMBATE",
-    "dato": "EL TERRENO",
-    "pantalla": "La cañada dificultó usar caballería y artillería.",
-    "narracion": "Según esos relatos, la persecución de una retirada condujo a la expedición hacia una cañada, un terreno difícil para maniobrar caballos y artillería."
+    "titulo": "UN ACABADO DISTINTIVO",
+    "dato": "BARRO BRUÑIDO",
+    "texto": "El barro bruñido también forma parte del registro local. Bruñir consiste en alisar y pulir la superficie para modificar su acabado.",
+    "diagrama": "barro"
   },
   {
     "inicio": 36,
     "fin": 45,
-    "titulo": "LA MANIOBRA TLAXCALTECA",
-    "dato": "RESISTENCIA",
-    "pantalla": "El espacio fue parte de la estrategia.",
-    "narracion": "La ubicación y las maniobras de las fuerzas tlaxcaltecas fueron decisivas para poner en dificultades a sus adversarios; el territorio también participó en la estrategia."
+    "titulo": "PIEZAS DE GRAN TAMAÑO",
+    "dato": "OLLAS",
+    "texto": "Además de comales, la documentación menciona ollas grandes. Su elaboración combina capacidad de modelado con el cuidado necesario durante el secado y la cocción.",
+    "diagrama": "olla"
   },
   {
     "inicio": 45,
     "fin": 54,
-    "titulo": "NO SOLO PARTICIPARON ESPAÑOLES",
-    "dato": "ALIADOS INDÍGENAS",
-    "pantalla": "La expedición llevaba otros contingentes indígenas.",
-    "narracion": "La expedición de Cortés también incluía aliados indígenas. Por eso, aquel proceso no puede describirse únicamente como una lucha entre españoles e indígenas."
+    "titulo": "DIBUJOS EN LA SUPERFICIE",
+    "dato": "ESGRAFIADO",
+    "texto": "El esgrafiado utiliza incisiones o raspados para crear decoración. Es uno de los acabados mencionados en las ollas elaboradas en el municipio.",
+    "diagrama": "olla"
   },
   {
     "inicio": 54,
     "fin": 63,
-    "titulo": "LAS ARMAS ERAN DISTINTAS",
-    "dato": "CABALLOS",
-    "pantalla": "También artillería, ballestas y armas de fuego.",
-    "narracion": "Los relatos destacan diferencias de armamento: caballería, artillería, ballestas y armas de fuego formaban parte del equipo de la expedición de Cortés."
+    "titulo": "OTRA FORMA DE DECORAR",
+    "dato": "PIEZAS PINTADAS",
+    "texto": "La pintura es otro recurso registrado. No todas las piezas tienen el mismo acabado: algunas se bruñen, otras se esgrafían o pintan.",
+    "diagrama": "paleta"
   },
   {
     "inicio": 63,
     "fin": 72,
-    "titulo": "LAS CIFRAS NO COINCIDEN",
-    "dato": "DISTINTAS CRÓNICAS",
-    "pantalla": "Los autores ofrecieron cantidades diferentes de combatientes.",
-    "narracion": "Las crónicas discrepan sobre el número de combatientes. Lo importante aquí es reconocer la resistencia y la mención de Tzompantepec en esos acontecimientos."
+    "titulo": "UN OBJETO TAMBIÉN CUENTA HISTORIAS",
+    "dato": "OFICIO Y COCINA",
+    "texto": "Un comal permite reconocer la relación entre alfarería y alimentación. La pieza artesanal tiene valor por su elaboración y por su utilidad.",
+    "diagrama": "comal"
   },
   {
     "inicio": 72,
     "fin": 81,
-    "titulo": "DESPUÉS LLEGÓ LA ALIANZA",
-    "dato": "UN PROCESO",
-    "pantalla": "Las relaciones cambiaron después de los combates.",
-    "narracion": "Después de los enfrentamientos se estableció la alianza entre los tlaxcaltecas y Cortés, una relación que sería fundamental en la conquista de México."
+    "titulo": "CONOCER EL TRABAJO ARTESANAL",
+    "dato": "HECHO EN BARRO",
+    "texto": "Observar el acabado, preguntar por la técnica y comprar directamente a quienes elaboran las piezas ayuda a valorar este oficio local.",
+    "diagrama": "barro"
   },
   {
     "inicio": 81,
     "fin": 90,
-    "titulo": "MI TZOMPANTEPEC",
-    "dato": "MEMORIA DE 1519",
-    "pantalla": "Nuestro territorio aparece en una historia decisiva.",
-    "narracion": "Por eso, cuando hablamos de Tzompantepec, también hablamos de un territorio mencionado en uno de los procesos más importantes de la historia mexicana."
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿En tu casa todavía usan comal de barro? Cuéntanos qué preparan en él o recomienda un taller de Tzompantepec en los comentarios.",
+    "diagrama": "pregunta"
   }
 ]

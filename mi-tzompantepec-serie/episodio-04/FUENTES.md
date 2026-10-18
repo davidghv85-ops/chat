@@ -1,5 +1,5 @@
-# 04. 1519: los enfrentamientos cerca de Tzompantepec — Fuentes
+# 04. El barro y la alfarería de Tzompantepec
 
-- [Síntesis secundaria: Batalla de Tlaxcala](https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala)
+- [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf)
 
-Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.
+Consultar FUENTES-Y-ALCANCE.md para la fecha y los límites de cada fuente.

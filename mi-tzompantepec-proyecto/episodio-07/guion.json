@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UN CERRO EN LA HISTORIA LOCAL",
+    "dato": "CHICHIMECATEUTLI",
+    "texto": "El cerro conocido localmente como Chichimecateutli se relaciona con la memoria de mil quinientos diecinueve, cuando el territorio tlaxcalteca enfrentó la expedición de Cortés.",
+    "diagrama": "cerro"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "EL CERRO COMO CAMPAMENTO",
+    "dato": "TZOMPANTEPEC, 1519",
+    "texto": "La síntesis histórica de Tlaxcala virreinal relata que el ejército español acampó en el cerro de Tzompantepec antes de los enfrentamientos de septiembre.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL DIRIGENTE TLAXCALTECA",
+    "dato": "XICOTÉNCATL AXAYACATZIN",
+    "texto": "Las fuerzas tlaxcaltecas estuvieron dirigidas por Xicoténcatl Axayacatzin, conocido como el Joven, protagonista de la resistencia a la expedición de Hernán Cortés.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UN GUERRERO EN EL RELATO",
+    "dato": "CHICHIMECATECUHTLI",
+    "texto": "La narración también menciona al guerrero local Chichimecatecuhtli como participante. Su nombre aparece en los relatos de la resistencia de aquellos días.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "EL EPISODIO DEL ESTANDARTE",
+    "dato": "UN RELATO DE BATALLA",
+    "texto": "Esa síntesis recoge que los tlaxcaltecas arrebataron un estandarte español y lo interpretaron como señal de victoria, de acuerdo con sus costumbres de guerra.",
+    "diagrama": "bandera"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "UN COMBATE EN SUS CERCANÍAS",
+    "dato": "2 DE SEPTIEMBRE",
+    "texto": "Otra síntesis sitúa un enfrentamiento cerca de Tzompantepec el dos de septiembre. Allí se describe una cañada que dificultaba maniobrar a caballos y artillería.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "EL TERRENO TAMBIÉN IMPORTABA",
+    "dato": "CERROS Y CAÑADAS",
+    "texto": "El campamento y las dificultades de movimiento muestran por qué el relieve era importante: no se combatía igual en una cañada que en terreno llano.",
+    "diagrama": "cerro"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "UNA EXPEDICIÓN CON ALIADOS",
+    "dato": "PARTICIPACIÓN INDÍGENA",
+    "texto": "Con Cortés también marchaban contingentes indígenas aliados. Esta historia reúne distintos actores y decisiones, no únicamente dos grupos uniformes enfrentados entre sí.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "DEL CONFLICTO A LA ALIANZA",
+    "dato": "UN CAMBIO DECISIVO",
+    "texto": "Después de los enfrentamientos se estableció la alianza entre tlaxcaltecas y Cortés. El cerro y su entorno forman parte de la memoria de ese proceso.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué historia conoces sobre el cerro Chichimecateutli y quién te la contó? Compártela en los comentarios y ayúdanos a reconocer la memoria local.",
+    "diagrama": "pregunta"
+  }
+]

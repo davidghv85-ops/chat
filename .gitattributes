@@ -1,2 +1,4 @@
 MI-TZOMPANTEPEC-20-VIDEOS.zip filter=lfs diff=lfs merge=lfs -text
 mi-tzompantepec-serie/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+mi-tzompantepec-01-90s.mp4 filter=lfs diff=lfs merge=lfs -text
+MI-TZOMPANTEPEC-20-TEMAS-CON-PREGUNTAS.zip filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UN ENTORNO QUE MERECE CONOCERSE",
+    "dato": "FLORA Y FAUNA",
+    "texto": "El entorno de Tzompantepec reúne árboles, plantas y animales. Conocer este paisaje también implica distinguir la vegetación silvestre de la cultivada.",
+    "diagrama": "hoja"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LOS ÁRBOLES MENCIONADOS",
+    "dato": "ENCINOS Y PINOS",
+    "texto": "Entre los árboles descritos aparecen encinos y pinos, incluidos el ocote chino y el pino blanco, asociados con ambientes de tierras altas.",
+    "diagrama": "arbol"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "OTROS ÁRBOLES DEL PAISAJE",
+    "dato": "SABINOS Y CAPULINES",
+    "texto": "La misma descripción menciona sabinos, capulines y pirules. Su presencia en un sitio concreto debe reconocerse mediante observación e identificación local.",
+    "diagrama": "arbol"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "PLANTAS MUY RECONOCIBLES",
+    "dato": "MAGUEYES Y NOPALES",
+    "texto": "Magueyes y nopales también forman parte del paisaje descrito. Son plantas relacionadas con usos alimentarios y culturales del centro de México.",
+    "diagrama": "maguey"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "UNA REFERENCIA DOCUMENTAL",
+    "dato": "BOSQUE: 4.43 %",
+    "texto": "El compendio de INEGI de dos mil diez registró bosque en cuatro punto cuarenta y tres por ciento del territorio municipal.",
+    "diagrama": "hoja"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "MAMÍFEROS DE LA RESEÑA LOCAL",
+    "dato": "CONEJOS Y LIEBRES",
+    "texto": "La descripción del entorno menciona conejos, liebres, tlacuaches, tuzas, ardillas y zorrillos. No significa que puedan observarse todos en cualquier recorrido.",
+    "diagrama": "animal"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LAS AVES TAMBIÉN IMPORTAN",
+    "dato": "LECHUZAS Y GAVILANES",
+    "texto": "Entre las aves mencionadas están lechuzas, gavilanes, codornices y colibríes, nombres que invitan a mirar el entorno con más atención.",
+    "diagrama": "ave"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "OBSERVAR SIN MOLESTAR",
+    "dato": "RESPETA SU ESPACIO",
+    "texto": "Al observar fauna, conserva la distancia, evita capturar animales y no alteres nidos ni madrigueras. Una buena observación también protege su hábitat.",
+    "diagrama": "hoja"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "CONOCER PARA CUIDAR",
+    "dato": "NO DEJES RESIDUOS",
+    "texto": "Evitar basura y extracción de plantas ayuda a cuidar el entorno. Fotografiar y compartir una observación es mejor que llevarse una especie.",
+    "diagrama": "arbol"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué planta o animal ves más en tu comunidad de Tzompantepec? Escribe su nombre y cuéntanos qué te gustaría conocer de él.",
+    "diagrama": "pregunta"
+  }
+]

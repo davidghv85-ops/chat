@@ -1,46 +1,36 @@
-# Fuentes y alcance — Edición corregida, episodios 02–20
+# Fuentes y observaciones de la edición temática
 
-Consulta documental: octubre de 2026. Se separan los registros estadísticos y geográficos de INEGI de las reseñas secundarias. Las cifras de 2010 y 2020 llevan su año y no representan mediciones actuales.
+La serie sigue los 20 temas enviados por el usuario y cierra cada episodio con una pregunta específica. El texto de corrido es la concatenación exacta de las explicaciones que aparecen en las diez escenas. Los MP4 no incluyen voz ni música.
 
-El significado «lugar para guardar los cráneos» se presenta como interpretación recogida por la reseña municipal. Explicar el tzompantli mesoamericano no implica afirmar que se haya excavado uno en el municipio. La fase arqueológica Tzompantepec describe una secuencia regional y no la fecha de fundación del municipio moderno.
+## Distinción de fuentes
 
-Las fechas administrativas de 1822 y 1995 y la fecha de fundación de Xaltianquisco son referencias de reseñas secundarias; no se afirma haber consultado sus decretos originales. Las interpretaciones toponímicas de las localidades se atribuyen a sus respectivas reseñas. No se incluyen leyendas inventadas ni biografías sin documentación.
+Los compendios de INEGI son fuentes primarias para geografía y estadísticas. Sus cuadros culturales recuperan descripciones de INAFED. Las reseñas de Wikipedia son fuentes secundarias; se consultaron sus textos mediante la API pública. La investigación aportada por el usuario se identifica como tal y no se califica automáticamente como verificada.
 
-La ficha de INEGI de 2010 reproduce descripciones culturales y monumentales de INAFED. Las características de templos, gastronomía y artesanías corresponden a ese registro; no constituyen una inspección física actual. Las celebraciones describen prácticas documentadas, no un programa anunciado para 2026. Los platillos no se presentan como exclusivos del municipio.
+Las cifras demográficas y educativas llevan el año del Censo 2020. Los datos geográficos, usos de suelo y descripciones monumentales del Compendio 2010 no representan un levantamiento físico de 2026. Las temperaturas de 12–16 °C de INEGI y los promedios de máxima/mínima de la reseña son indicadores distintos.
 
-Las ilustraciones y paneles son recursos simbólicos; no son fotografías históricas ni reconstrucciones arqueológicas verificadas. La música mencionada en los episodios de fiestas es parte del contenido cultural: las pistas de los videos contienen únicamente efectos, sin música ni narración.
+## Correcciones y límites relevantes
+
+- San Mateo Inophil y Xaltianquisco están identificados por separado en INEGI. No se conserva la equivalencia «San Mateo Inocentes (Xaltianquisco)». No se pudo corroborar «San José San Bartolo» como una de esas localidades. El Censo 2020 enumera 12 localidades, lo cual no equivale al número de presidencias de comunidad.
+- La traducción «lugar para guardar los cráneos» es una interpretación publicada. La relación de tzontli/pantli con el tzompantli y la explicación de tepec se presentan como explicación tradicional, sin inventar un hallazgo local de cráneos o una excavación del tzompantli.
+- Para el cerro se distingue el nombre usado en la reseña local de los relatos publicados que mencionan el cerro de Tzompantepec como campamento. El episodio del estandarte se atribuye expresamente a una narración histórica. No se afirman usos astronómicos ni un centro ceremonial local sin documentación arqueológica. No se presentan cifras controvertidas de combatientes.
+- La lista de flora y fauna y los cultivos de la reseña económica proceden del texto aportado por el usuario. No se afirma un inventario biológico de campo ni poblaciones actuales de cada especie. El porcentaje de bosque sí se respalda en INEGI 2010.
+- Las referencias a faenas y trueque proceden de la reseña comunitaria aportada; no se atribuye un mercado, calendario de faenas ni vigencia idéntica en todas las localidades.
+- Las alfombras y actividades complementarias de la feria provienen de la reseña aportada. Se describen como programa variable; no son un anuncio confirmado de una edición vigente.
+- No se conserva la longitud no corroborada del río Apizaco ni del arroyo. La hidrografía se explica con la clasificación verificable de INEGI y la corriente Amomoloc, registrada como intermitente.
+- No se anuncian distancias o tiempos de viaje fijos, rutas oficiales de ecoturismo, accesos autorizados a predios ni una ruta comercial de talleres que no se haya documentado.
+- La fecha de 1822 se presenta como referencia de reseñas secundarias. Es posterior a la Independencia; no se confunde con una fundación colonial.
+- Las ilustraciones son diagramas simbólicos, no fotografías históricas ni reconstrucciones arqueológicas. La lista secundaria de unidades médicas respalda la identificación del hospital; no confirma la disponibilidad actual de un servicio específico ni sustituye un directorio vigente.
 
 ## Bibliografía
 
 - **I10**: [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf).
-- **I20**: [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf).
-- **M**: [Reseña secundaria: Municipio de Tzompantepec](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec).
-- **T**: [Contexto mesoamericano: Tzompantli](https://es.wikipedia.org/wiki/Tzompantli).
-- **A**: [Síntesis secundaria: Historia prehispánica de Tlaxcala](https://es.wikipedia.org/wiki/Historia_prehisp%C3%A1nica_de_Tlaxcala).
-- **B**: [Síntesis secundaria: Batalla de Tlaxcala](https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala).
-- **J**: [Reseña secundaria: Municipio de San José Teacalco](https://es.wikipedia.org/wiki/Municipio_de_San_Jos%C3%A9_Teacalco).
-- **SA**: [Reseña secundaria: San Andrés Ahuashuatepec](https://es.wikipedia.org/wiki/San_Andr%C3%A9s_Ahuashuatepec).
-- **SJ**: [Reseña secundaria: San Juan Quetzalcoapan](https://es.wikipedia.org/wiki/San_Juan_Quetzalcoapan).
-- **X**: [Reseña secundaria: Xaltianquisco](https://es.wikipedia.org/wiki/Xaltianquisco).
-
-## Asignación por episodio
-
-- **02. Tzompantepec: lugar para guardar los cráneos**: M, T, A, B.
-- **03. Las primeras aldeas y la fase Tzompantepec**: A.
-- **04. 1519: los enfrentamientos cerca de Tzompantepec**: B.
-- **05. 1681, siglo XVIII y siglo XIX: capas de historia**: I10.
-- **06. 1822 y 1995: el municipio y sus cambios**: I10, I20, M, J.
-- **07. Las doce localidades y sus habitantes**: I20, M.
-- **08. San Salvador y la parroquia del Divino Salvador**: I10.
-- **09. San Andrés y San Juan: arquitectura en piedra**: I10.
-- **10. Agosto y la fiesta del Divino Salvador**: M.
-- **11. Carnaval: huehues, cuadrillas y vestuario**: M.
-- **12. Los sonidos del carnaval y de la fiesta**: M.
-- **13. La cocina de Tzompantepec: sabores con nombre**: I10.
-- **14. Maíz, campo y comales de barro**: I10, A.
-- **15. El agua, el clima y los lomeríos**: I10.
-- **16. Barro rojo, bruñido y comales de Tzompantepec**: I10.
-- **17. San Andrés Ahuashuatepec: el cerro de los ahuehuetes**: SA, I10, I20.
-- **18. San Juan Quetzalcoapan: nombre, templo y población**: SJ, I10, I20.
-- **19. Xaltianquisco: en el mercado del arenal**: X.
-- **20. Tzompantepec en cifras: de 2010 a 2020**: I10, I20.
+- **I20**: [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038, pp. 122–123](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf).
+- **M**: [Wikipedia, Municipio de Tzompantepec, reseña secundaria consultada mediante API](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec).
+- **T**: [Wikipedia, Tzompantli, contexto mesoamericano y etimología](https://es.wikipedia.org/wiki/Tzompantli).
+- **B**: [Wikipedia, Batalla de Tlaxcala, síntesis de los combates de septiembre de 1519](https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala).
+- **V**: [Wikipedia, Tlaxcala virreinal, relato del campamento y los enfrentamientos](https://es.wikipedia.org/wiki/Tlaxcala_virreinal).
+- **A**: [Wikipedia, Historia prehispánica de Tlaxcala, secuencia y alimentación regional](https://es.wikipedia.org/wiki/Historia_prehisp%C3%A1nica_de_Tlaxcala).
+- **E**: [Wikipedia, Instituto Tecnológico de Apizaco, historia del predio y creación](https://es.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_Apizaco).
+- **H**: [Inventario secundario de unidades médicas: tabla de infraestructura en Wikipedia, Aborto en Tlaxcala; se consultó únicamente para identificar el hospital y su municipio](https://es.wikipedia.org/wiki/Aborto_en_Tlaxcala).
+- **L**: [Wikipedia, La Malinche (volcán), ubicación regional](https://es.wikipedia.org/wiki/La_Malinche_(volc%C3%A1n)).
+- **U**: Reseña de 20 temas proporcionada por el usuario en esta conversación; fuente aportada, no equivalente a una verificación independiente de cada afirmación.

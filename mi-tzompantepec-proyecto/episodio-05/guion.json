@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UNA CELEBRACIÓN DE LA CABECERA",
+    "dato": "EL DIVINO SALVADOR",
+    "texto": "La fiesta patronal del Divino Salvador forma parte de las tradiciones de San Salvador Tzompantepec y reúne expresiones religiosas y participación comunitaria.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA REFERENCIA DEL CALENDARIO",
+    "dato": "6 DE AGOSTO",
+    "texto": "La celebración se relaciona con el seis de agosto, fecha de la Transfiguración de Jesús. Las reseñas también mencionan festejos el día siete.",
+    "diagrama": "calendario"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL INICIO DE LA JORNADA",
+    "dato": "5 DE LA MAÑANA",
+    "texto": "La reseña de la festividad describe el canto de las Mañanitas a las cinco de la mañana, dedicado al patrono del lugar.",
+    "diagrama": "reloj"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "EL ACOMPAÑAMIENTO MUSICAL",
+    "dato": "MARIACHI",
+    "texto": "En ese momento, los habitantes aparecen acompañados por un mariachi. La música forma parte del homenaje religioso descrito para esta celebración.",
+    "diagrama": "fiesta"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "UNA COMISIÓN DE VOLUNTARIOS",
+    "dato": "RECIBIR LA IMAGEN",
+    "texto": "La documentación menciona una comisión que sale a las afueras del pueblo para recibir una imagen de San Salvador durante los festejos.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "LA PARTICIPACIÓN DE LA COMUNIDAD",
+    "dato": "RECEPCIÓN Y HONORES",
+    "texto": "La recepción de la imagen y los honores preparados para ella muestran que la celebración requiere organización y colaboración de sus habitantes.",
+    "diagrama": "fiesta"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "EL PATRONO EN LA ARQUITECTURA",
+    "dato": "LA TRANSFIGURACIÓN",
+    "texto": "La fachada parroquial representa a Jesús resplandeciente con apóstoles y profetas, un conjunto relacionado con la advocación del Divino Salvador.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LA PARTE RELIGIOSA DE LA FERIA",
+    "dato": "MISAS Y PROCESIONES",
+    "texto": "La reseña de la feria menciona misas, procesiones y alfombras de aserrín y flores, expresiones de devoción cuyo programa puede variar entre ediciones.",
+    "diagrama": "fiesta"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LOS ENCUENTROS DE LA FERIA",
+    "dato": "CULTURA Y CELEBRACIÓN",
+    "texto": "También se describen eventos culturales, bailes populares y pirotecnia. Consulta el programa vigente para conocer qué actividades se realizarán en cada edición.",
+    "diagrama": "fiesta"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué momento de la fiesta del Divino Salvador es el más especial para ti? Comparte un recuerdo de la feria en los comentarios.",
+    "diagrama": "pregunta"
+  }
+]

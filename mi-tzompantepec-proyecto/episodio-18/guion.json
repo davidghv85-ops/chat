@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UNA HISTORIA ANTERIOR AL MUNICIPIO",
+    "dato": "RAÍCES PREHISPÁNICAS",
+    "texto": "El poblamiento de la región es anterior a la creación del municipio moderno. La arqueología utiliza incluso una fase regional denominada Tzompantepec.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UN NOMBRE EN LA ARQUEOLOGÍA",
+    "dato": "FASE TZOMPANTEPEC",
+    "texto": "La fase Tzompantepec forma parte de la secuencia cultural utilizada para estudiar Tlaxcala. No corresponde a una fecha de fundación administrativa actual.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LA ALIMENTACIÓN DE LAS ALDEAS",
+    "dato": "MAÍZ, FRIJOL Y CALABAZA",
+    "texto": "Los estudios regionales de Amomoloc y Tetel mencionan maíz, frijol y calabaza, además del aprovechamiento de otras plantas en la alimentación.",
+    "diagrama": "maiz"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UN CAMBIO DECISIVO",
+    "dato": "1519",
+    "texto": "La llegada de la expedición de Hernán Cortés encontró resistencia tlaxcalteca. Las cercanías de Tzompantepec aparecen en los relatos de aquellos combates.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "DESPUÉS DE LOS ENFRENTAMIENTOS",
+    "dato": "LA ALIANZA",
+    "texto": "La relación entre tlaxcaltecas y Cortés cambió después de los combates. La alianza posterior influyó en la conquista y en la historia regional.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "EL PATRIMONIO DEL VIRREINATO",
+    "dato": "1681",
+    "texto": "La pintura de ánimas de Antonio Caro, fechada en mil seiscientos ochenta y uno, es una referencia del arte virreinal conservado en la parroquia.",
+    "diagrama": "paleta"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "DOS TEMPLOS DE OTRA ETAPA",
+    "dato": "SIGLO XVIII",
+    "texto": "Los templos de San Andrés y San Juan corresponden al siglo dieciocho, según el compendio, y forman parte del patrimonio histórico del municipio.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "DEL VIRREINATO A LA VIDA MUNICIPAL",
+    "dato": "1822",
+    "texto": "Las reseñas sitúan la formación municipal en mil ochocientos veintidós, ya después de la Independencia de México, no durante la etapa colonial.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "DISTINTAS CAPAS DEL PASADO",
+    "dato": "LENGUA, ARTE Y TERRITORIO",
+    "texto": "El nombre náhuatl, los relatos de mil quinientos diecinueve y las obras religiosas permiten reconocer distintas etapas sin confundirlas con una sola fecha.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué parte de la historia de Tzompantepec te gustaría conocer con más detalle? Déjanos tu pregunta en los comentarios para seguir explorando.",
+    "diagrama": "pregunta"
+  }
+]

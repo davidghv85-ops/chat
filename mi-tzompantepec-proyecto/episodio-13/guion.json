@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "SABORES CON NOMBRE PROPIO",
+    "dato": "COCINA LOCAL",
+    "texto": "La gastronomía documentada de Tzompantepec incluye ingredientes del campo, sopas, quesadillas, legumbres, carnes y dulces que también se comparten con la región.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "INGREDIENTES DEL MAGUEY",
+    "dato": "GUSANOS BLANCOS Y ROJOS",
+    "texto": "La reseña gastronómica registra gusanos de maguey blancos y rojos, un ejemplo del aprovechamiento alimentario de productos relacionados con esta planta.",
+    "diagrama": "maguey"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "UN REPERTORIO DE SOPAS",
+    "dato": "HONGOS, TORTILLA Y ELOTE",
+    "texto": "Las sopas de hongos, tortilla y elote aparecen en el compendio, junto con preparaciones de flor de calabaza, chícharo y nopales.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "DOS RELLENOS TRADICIONALES",
+    "dato": "FLOR Y HUITLACOCHE",
+    "texto": "La flor de calabaza y el huitlacoche se mencionan como rellenos de quesadillas, preparaciones compartidas con otras cocinas del centro de México.",
+    "diagrama": "comal"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LAS LEGUMBRES EN LA MESA",
+    "dato": "TLATLAPAS Y HABAS",
+    "texto": "Las tlatlapas y el caldo de habas también forman parte del registro gastronómico municipal, ampliando la variedad de preparaciones de su cocina.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "LAS PREPARACIONES DE CARNE",
+    "dato": "CARNERO EN MIXIOTE",
+    "texto": "El compendio menciona barbacoa de carnero en mixiote, una preparación que forma parte del repertorio documentado para el municipio.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "OTRO PLATILLO REGISTRADO",
+    "dato": "POLLO A LA TOCATLÁN",
+    "texto": "El pollo a la tocatlán aparece junto a esas preparaciones. Conocer estos nombres permite reconocer la relación entre la cocina municipal y la regional.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL MOMENTO DE LO DULCE",
+    "dato": "MUÉGANOS CON PANELA",
+    "texto": "Los muéganos con panela y los buñuelos con miel de abeja se encuentran entre los postres descritos para Tzompantepec.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "FRUTAS Y CALABAZA",
+    "dato": "DULCES Y CONSERVAS",
+    "texto": "El dulce de calabaza y las conservas de frutas completan la descripción. Las recetas pueden cambiar entre familias y no son exclusivas del municipio.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué platillo de Tzompantepec recomendarías probar primero y quién lo prepara mejor? Comparte tu recomendación o una receta familiar en los comentarios.",
+    "diagrama": "pregunta"
+  }
+]

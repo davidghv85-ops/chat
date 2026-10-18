@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "ESTO ES MI TZOMPANTEPEC",
+    "dato": "TLAXCALA",
+    "texto": "Tzompantepec está en la región central oriental de Tlaxcala. Aquí conviven historia, comunidades, patrimonio religioso y una tradición artesanal ligada al barro.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UN TERRITORIO CONECTADO",
+    "dato": "APIZACO Y HUAMANTLA",
+    "texto": "Entre sus vecinos están Apizaco, Huamantla y Santa Cruz Tlaxcala. Estas conexiones ayudan a entender su ubicación dentro del territorio tlaxcalteca.",
+    "diagrama": "ruta"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "UN NOMBRE CON HISTORIA",
+    "dato": "RAÍZ NÁHUATL",
+    "texto": "Su nombre se relaciona con los cráneos y el tzompantli mesoamericano. En el siguiente episodio conoceremos el significado con más detalle.",
+    "diagrama": "craneo"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "LA CABECERA MUNICIPAL",
+    "dato": "SAN SALVADOR",
+    "texto": "San Salvador Tzompantepec es la cabecera. En ella destaca la parroquia del Divino Salvador, una referencia del patrimonio y la celebración comunitaria.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "MUCHAS COMUNIDADES",
+    "dato": "UN MUNICIPIO",
+    "texto": "San Andrés Ahuashuatepec, San Juan Quetzalcoapan, San Mateo Inophil y Xaltianquisco forman parte de la diversidad de lugares que integra Tzompantepec.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "EL BARRO NOS IDENTIFICA",
+    "dato": "COMALES Y OLLAS",
+    "texto": "La producción de comales de barro, ollas grandes y piezas decoradas está documentada entre las artesanías del municipio.",
+    "diagrama": "barro"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "UNA HISTORIA DECISIVA",
+    "dato": "1519",
+    "texto": "Las cercanías de Tzompantepec aparecen en los relatos de los enfrentamientos entre fuerzas tlaxcaltecas y la expedición de Hernán Cortés.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "FIESTA Y CARNAVAL",
+    "dato": "CULTURA VIVA",
+    "texto": "El carnaval con camadas de huehues y la celebración del Divino Salvador son dos expresiones documentadas de la vida cultural local.",
+    "diagrama": "fiesta"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "NUESTRA SERIE",
+    "dato": "20 ENCUENTROS",
+    "texto": "En esta serie recorreremos nombres, comunidades, cocina, paisajes y patrimonio. Cada episodio se concentrará en un tema para conocerlo mejor.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué es lo primero que le mostrarías a alguien que visita Tzompantepec? Escríbelo en los comentarios y acompáñanos en este recorrido.",
+    "diagrama": "pregunta"
+  }
+]

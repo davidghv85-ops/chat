@@ -1,0 +1,142 @@
+[
+  {
+    "numero": 1,
+    "titulo": "Bienvenidos a Mi Tzompantepec",
+    "tema": "mapa",
+    "ruta": "episodio-01",
+    "pregunta": "¿Qué es lo primero que le mostrarías a alguien que visita Tzompantepec? Escríbelo en los comentarios y acompáñanos en este recorrido."
+  },
+  {
+    "numero": 2,
+    "titulo": "Qué significa Tzompantepec",
+    "tema": "craneo",
+    "ruta": "episodio-02",
+    "pregunta": "¿Ya conocías este significado de Tzompantepec o te habían contado otra interpretación? Compártela en los comentarios para conocer las versiones de nuestra comunidad."
+  },
+  {
+    "numero": 3,
+    "titulo": "Las comunidades y localidades de Tzompantepec",
+    "tema": "red",
+    "ruta": "episodio-03",
+    "pregunta": "¿De qué comunidad de Tzompantepec eres y qué lugar de ella recomiendas conocer? Cuéntanos en los comentarios y representa a tu comunidad."
+  },
+  {
+    "numero": 4,
+    "titulo": "El barro y la alfarería de Tzompantepec",
+    "tema": "barro",
+    "ruta": "episodio-04",
+    "pregunta": "¿En tu casa todavía usan comal de barro? Cuéntanos qué preparan en él o recomienda un taller de Tzompantepec en los comentarios."
+  },
+  {
+    "numero": 5,
+    "titulo": "La feria y fiesta del Divino Salvador",
+    "tema": "fiesta",
+    "ruta": "episodio-05",
+    "pregunta": "¿Qué momento de la fiesta del Divino Salvador es el más especial para ti? Comparte un recuerdo de la feria en los comentarios."
+  },
+  {
+    "numero": 6,
+    "titulo": "El carnaval de Tzompantepec",
+    "tema": "fiesta",
+    "ruta": "episodio-06",
+    "pregunta": "¿Has bailado en una camada o tienes una favorita de Tzompantepec? Escribe su nombre y tu mejor recuerdo del carnaval en los comentarios."
+  },
+  {
+    "numero": 7,
+    "titulo": "El cerro Chichimecateutli y la memoria de 1519",
+    "tema": "cerro",
+    "ruta": "episodio-07",
+    "pregunta": "¿Qué historia conoces sobre el cerro Chichimecateutli y quién te la contó? Compártela en los comentarios y ayúdanos a reconocer la memoria local."
+  },
+  {
+    "numero": 8,
+    "titulo": "Ubicación geográfica y colindancias",
+    "tema": "mapa",
+    "ruta": "episodio-08",
+    "pregunta": "¿Desde qué municipio llegas a Tzompantepec y por dónde entras normalmente? Cuéntanos en los comentarios cómo se conecta tu comunidad con la nuestra."
+  },
+  {
+    "numero": 9,
+    "titulo": "El clima de Tzompantepec",
+    "tema": "clima",
+    "ruta": "episodio-09",
+    "pregunta": "¿Qué disfrutas más de Tzompantepec: las mañanas frescas, los días soleados o la temporada de lluvias? Cuéntanos por qué en los comentarios."
+  },
+  {
+    "numero": 10,
+    "titulo": "Flora y fauna del entorno de Tzompantepec",
+    "tema": "naturaleza",
+    "ruta": "episodio-10",
+    "pregunta": "¿Qué planta o animal ves más en tu comunidad de Tzompantepec? Escribe su nombre y cuéntanos qué te gustaría conocer de él."
+  },
+  {
+    "numero": 11,
+    "titulo": "La población de Tzompantepec",
+    "tema": "censo",
+    "ruta": "episodio-11",
+    "pregunta": "¿Qué cambio has notado en tu comunidad desde hace diez años? Comparte en los comentarios cómo has visto crecer y transformarse Tzompantepec."
+  },
+  {
+    "numero": 12,
+    "titulo": "Los templos y monumentos históricos",
+    "tema": "templo",
+    "ruta": "episodio-12",
+    "pregunta": "¿Cuál de estos templos conoces mejor y qué detalle te llama la atención? Cuéntanos en los comentarios qué patrimonio te gustaría mostrar."
+  },
+  {
+    "numero": 13,
+    "titulo": "La gastronomía tradicional de Tzompantepec",
+    "tema": "cocina",
+    "ruta": "episodio-13",
+    "pregunta": "¿Qué platillo de Tzompantepec recomendarías probar primero y quién lo prepara mejor? Comparte tu recomendación o una receta familiar en los comentarios."
+  },
+  {
+    "numero": 14,
+    "titulo": "El agua y los recursos naturales",
+    "tema": "agua",
+    "ruta": "episodio-14",
+    "pregunta": "¿Qué arroyo, barranca o punto de agua reconoces en tu comunidad? Cuéntanos su nombre y qué podríamos hacer para cuidarlo mejor."
+  },
+  {
+    "numero": 15,
+    "titulo": "La economía y los oficios del municipio",
+    "tema": "economia",
+    "ruta": "episodio-15",
+    "pregunta": "¿Qué oficio, taller o negocio de Tzompantepec te gustaría que más personas conocieran? Recomiéndalo en los comentarios y cuéntanos qué lo distingue."
+  },
+  {
+    "numero": 16,
+    "titulo": "Conectividad y caminos de Tzompantepec",
+    "tema": "ruta",
+    "ruta": "episodio-16",
+    "pregunta": "¿Qué ruta usas más para llegar a Tzompantepec o moverte entre sus comunidades? Comparte una referencia útil para quienes nos visitan."
+  },
+  {
+    "numero": 17,
+    "titulo": "Educación y salud en Tzompantepec",
+    "tema": "salud",
+    "ruta": "episodio-17",
+    "pregunta": "¿Qué escuela de Tzompantepec forma parte de tu historia? Comparte su nombre y un recuerdo positivo de tu comunidad escolar en los comentarios."
+  },
+  {
+    "numero": 18,
+    "titulo": "La historia prehispánica y colonial",
+    "tema": "historia",
+    "ruta": "episodio-18",
+    "pregunta": "¿Qué parte de la historia de Tzompantepec te gustaría conocer con más detalle? Déjanos tu pregunta en los comentarios para seguir explorando."
+  },
+  {
+    "numero": 19,
+    "titulo": "Paisajes y actividades al aire libre",
+    "tema": "cerro",
+    "ruta": "episodio-19",
+    "pregunta": "¿Qué lugar de Tzompantepec recomiendas para caminar o disfrutar el paisaje? Cuéntanos qué lo hace especial y cómo visitarlo con respeto."
+  },
+  {
+    "numero": 20,
+    "titulo": "Vida comunitaria, costumbres y actualidad",
+    "tema": "red",
+    "ruta": "episodio-20",
+    "pregunta": "¿Qué costumbre de tu comunidad te gustaría que conservaran las próximas generaciones? Compártela en los comentarios: esa historia también forma parte de Mi Tzompantepec."
+  }
+]

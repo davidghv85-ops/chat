@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "ASÍ SE CLASIFICA SU CLIMA",
+    "dato": "TEMPLADO SUBHÚMEDO",
+    "texto": "El clima de Tzompantepec se clasifica como templado subhúmedo con lluvias en verano. Esta descripción corresponde al comportamiento climático general del territorio.",
+    "diagrama": "clima"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "EL DATO DE TEMPERATURA",
+    "dato": "12–16 °C",
+    "texto": "El compendio geográfico de INEGI registra un rango de temperatura de doce a dieciséis grados Celsius para el municipio.",
+    "diagrama": "termometro"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LA CANTIDAD DE LLUVIA",
+    "dato": "700–900 mm",
+    "texto": "La misma ficha registra precipitaciones entre setecientos y novecientos milímetros. Es un intervalo climático, no la lluvia de un día específico.",
+    "diagrama": "lluvia"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "LOS MESES MÁS CALUROSOS",
+    "dato": "ABRIL Y MAYO",
+    "texto": "La reseña municipal identifica abril y mayo como los meses más calurosos, antes de buena parte de la temporada de lluvias.",
+    "diagrama": "sol"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "OTRAS TEMPERATURAS DEL REGISTRO",
+    "dato": "22.6 °C Y 4.7 °C",
+    "texto": "La reseña menciona promedios de máximas de veintidós punto seis grados y de mínimas de cuatro punto siete; no son pronósticos actuales.",
+    "diagrama": "termometro"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "NO SON LA MISMA MEDICIÓN",
+    "dato": "PROMEDIOS Y RANGOS",
+    "texto": "Un rango climático y los promedios de máximas y mínimas describen cosas distintas. No deben mezclarse como si fueran una sola temperatura.",
+    "diagrama": "clima"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "UNA CLAVE ES LA ALTITUD",
+    "dato": "TIERRAS ALTAS",
+    "texto": "El territorio se encuentra entre dos mil cuatrocientos y dos mil seiscientos metros de altitud. Esa ubicación forma parte de su contexto climático.",
+    "diagrama": "cerro"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LA LLUVIA Y EL TERRITORIO",
+    "dato": "CAMPO Y AGUA",
+    "texto": "La temporada de lluvias se relaciona con la disponibilidad de agua y las labores del campo, aunque las condiciones cambian entre años.",
+    "diagrama": "lluvia"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "PARA PLANEAR TU DÍA",
+    "dato": "CONSULTA EL PRONÓSTICO",
+    "texto": "La información climática ayuda a conocer el municipio. Para organizar una salida o una actividad específica, revisa también el pronóstico del día.",
+    "diagrama": "clima"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué disfrutas más de Tzompantepec: las mañanas frescas, los días soleados o la temporada de lluvias? Cuéntanos por qué en los comentarios.",
+    "diagrama": "pregunta"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UN MUNICIPIO QUE SE TRANSFORMA",
+    "dato": "MI TZOMPANTEPEC",
+    "texto": "La vida de Tzompantepec reúne comunidades, actividades del campo, zonas urbanizadas y tradiciones. Sus cambios se entienden mejor al mirar también sus continuidades.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "EL CAMBIO DE POBLACIÓN",
+    "dato": "2010 A 2020",
+    "texto": "Entre los censos de dos mil diez y dos mil veinte, la población pasó de catorce mil seiscientos once a dieciocho mil seis habitantes.",
+    "diagrama": "grafica"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL TERRITORIO TAMBIÉN CAMBIA",
+    "dato": "CRECIMIENTO URBANO",
+    "texto": "INEGI describió zonas urbanas creciendo sobre terrenos antes agrícolas. Esa transformación forma parte del contexto en que se desarrolla la vida municipal.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "EL TRABAJO PARA LA COMUNIDAD",
+    "dato": "FAENAS COMUNITARIAS",
+    "texto": "Las faenas son trabajos compartidos para atender necesidades del lugar. Reúnen colaboración y organización entre habitantes, según las prácticas de cada comunidad.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "UNA TRADICIÓN QUE REÚNE",
+    "dato": "LA FIESTA PATRONAL",
+    "texto": "La celebración del Divino Salvador muestra participación de habitantes y voluntarios. Recibir la imagen y organizar los honores son formas documentadas de colaboración.",
+    "diagrama": "fiesta"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "OTRA FORMA DE PARTICIPAR",
+    "dato": "LAS CAMADAS",
+    "texto": "El carnaval reúne danzantes organizados en camadas. Sus cuadrillas, vestuario y preparación expresan una tradición que necesita trabajo colectivo.",
+    "diagrama": "mascara"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "EL CONOCIMIENTO EN LAS MANOS",
+    "dato": "EL BARRO",
+    "texto": "Comales, ollas y piezas decoradas permiten reconocer la continuidad de un oficio. La producción artesanal también conecta conocimientos, trabajo y vida cotidiana.",
+    "diagrama": "barro"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LA CULTURA EN LA MESA",
+    "dato": "SABORES Y FAMILIAS",
+    "texto": "Las preparaciones gastronómicas documentadas se encuentran con las versiones familiares de cada receta. Compartir comida también puede ser una forma de transmitir recuerdos.",
+    "diagrama": "plato"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "OTRA FORMA DE INTERCAMBIO",
+    "dato": "EL TRUEQUE",
+    "texto": "El trueque es el intercambio de productos sin dinero. La reseña local lo menciona entre las costumbres relacionadas con los encuentros comunitarios.",
+    "diagrama": "mercado"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué costumbre de tu comunidad te gustaría que conservaran las próximas generaciones? Compártela en los comentarios: esa historia también forma parte de Mi Tzompantepec.",
+    "diagrama": "pregunta"
+  }
+]

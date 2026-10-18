@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "EL BARRO COMO IDENTIDAD",
+    "dato": "ALFARERÍA",
+    "texto": "Tzompantepec tiene una tradición alfarera documentada. El trabajo del barro reúne conocimientos de modelado, acabado, decoración y cocción transmitidos entre artesanos.",
+    "diagrama": "barro"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UNO DE SUS PRODUCTOS EMBLEMÁTICOS",
+    "dato": "EL COMAL",
+    "texto": "Los comales de barro destacan entre los productos del municipio. Son utensilios que conectan el trabajo artesanal con la preparación cotidiana de alimentos.",
+    "diagrama": "comal"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "UNA VARIEDAD DEL MATERIAL",
+    "dato": "BARRO ROJO COCIDO",
+    "texto": "La reseña artesanal de INEGI menciona barro rojo cocido. La cocción transforma la pieza y le da resistencia para su uso.",
+    "diagrama": "barro"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UN ACABADO DISTINTIVO",
+    "dato": "BARRO BRUÑIDO",
+    "texto": "El barro bruñido también forma parte del registro local. Bruñir consiste en alisar y pulir la superficie para modificar su acabado.",
+    "diagrama": "barro"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "PIEZAS DE GRAN TAMAÑO",
+    "dato": "OLLAS",
+    "texto": "Además de comales, la documentación menciona ollas grandes. Su elaboración combina capacidad de modelado con el cuidado necesario durante el secado y la cocción.",
+    "diagrama": "olla"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "DIBUJOS EN LA SUPERFICIE",
+    "dato": "ESGRAFIADO",
+    "texto": "El esgrafiado utiliza incisiones o raspados para crear decoración. Es uno de los acabados mencionados en las ollas elaboradas en el municipio.",
+    "diagrama": "olla"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "OTRA FORMA DE DECORAR",
+    "dato": "PIEZAS PINTADAS",
+    "texto": "La pintura es otro recurso registrado. No todas las piezas tienen el mismo acabado: algunas se bruñen, otras se esgrafían o pintan.",
+    "diagrama": "paleta"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "UN OBJETO TAMBIÉN CUENTA HISTORIAS",
+    "dato": "OFICIO Y COCINA",
+    "texto": "Un comal permite reconocer la relación entre alfarería y alimentación. La pieza artesanal tiene valor por su elaboración y por su utilidad.",
+    "diagrama": "comal"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "CONOCER EL TRABAJO ARTESANAL",
+    "dato": "HECHO EN BARRO",
+    "texto": "Observar el acabado, preguntar por la técnica y comprar directamente a quienes elaboran las piezas ayuda a valorar este oficio local.",
+    "diagrama": "barro"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿En tu casa todavía usan comal de barro? Cuéntanos qué preparan en él o recomienda un taller de Tzompantepec en los comentarios.",
+    "diagrama": "pregunta"
+  }
+]

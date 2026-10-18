@@ -1,7 +1,8 @@
-# 17. San Andrés Ahuashuatepec: el cerro de los ahuehuetes — Fuentes
+# 17. Educación y salud en Tzompantepec
 
-- [Reseña secundaria: San Andrés Ahuashuatepec](https://es.wikipedia.org/wiki/San_Andr%C3%A9s_Ahuashuatepec)
-- [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf)
-- [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf)
+- [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038, pp. 122–123](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf)
+- [Wikipedia, Instituto Tecnológico de Apizaco, historia del predio y creación](https://es.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_Apizaco)
+- [Inventario secundario de unidades médicas: tabla de infraestructura en Wikipedia, Aborto en Tlaxcala; se consultó únicamente para identificar el hospital y su municipio](https://es.wikipedia.org/wiki/Aborto_en_Tlaxcala)
+- Reseña de 20 temas proporcionada por el usuario en esta conversación; fuente aportada, no equivalente a una verificación independiente de cada afirmación
 
-Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.
+Consultar FUENTES-Y-ALCANCE.md para la fecha y los límites de cada fuente.

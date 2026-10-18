@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "EN EL ALTIPLANO TLAXCALTECA",
+    "dato": "TZOMPANTEPEC",
+    "texto": "Tzompantepec se encuentra en Tlaxcala, dentro del Eje Neovolcánico y de la subprovincia de Lagos y Volcanes de Anáhuac, según INEGI.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LAS COORDENADAS DEL MUNICIPIO",
+    "dato": "19°21′–19°24′ N",
+    "texto": "El compendio sitúa su territorio entre diecinueve grados veintiún minutos y diecinueve grados veinticuatro minutos de latitud norte.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "SU POSICIÓN DE ESTE A OESTE",
+    "dato": "98°01′–98°08′ O",
+    "texto": "Sus longitudes se ubican entre noventa y ocho grados un minuto y noventa y ocho grados ocho minutos al oeste del meridiano de Greenwich.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UN TERRITORIO DE TIERRAS ALTAS",
+    "dato": "2 400–2 600 m",
+    "texto": "INEGI registra altitudes entre dos mil cuatrocientos y dos mil seiscientos metros sobre el nivel del mar, no una única altura para todo el municipio.",
+    "diagrama": "cerro"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LOS VECINOS AL NORTE",
+    "dato": "APIZACO Y XALOZTOC",
+    "texto": "Al norte, la ficha geográfica identifica a Apizaco y Xaloztoc. Estas colindancias forman parte de la ubicación regional del municipio.",
+    "diagrama": "brujula"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "LOS VECINOS AL ESTE",
+    "dato": "TOCATLÁN Y HUAMANTLA",
+    "texto": "Al este aparecen Xaloztoc, Tocatlán y Huamantla en el compendio. Las colindancias pueden abarcar más de un municipio por cada orientación.",
+    "diagrama": "brujula"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LOS VECINOS AL SUR",
+    "dato": "TEACALCO Y CUAXOMULCO",
+    "texto": "Al sur, INEGI registra Huamantla, San José Teacalco, Cuaxomulco y Santa Cruz Tlaxcala como municipios colindantes con Tzompantepec.",
+    "diagrama": "brujula"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LOS VECINOS AL OESTE",
+    "dato": "SANTA CRUZ Y APIZACO",
+    "texto": "Al oeste aparecen Cuaxomulco, Santa Cruz Tlaxcala y Apizaco. Reconocerlos ayuda a entender cómo se conecta el territorio con sus alrededores.",
+    "diagrama": "brujula"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LA SUPERFICIE MUNICIPAL",
+    "dato": "38.4 km²",
+    "texto": "El panorama censal de dos mil veinte registra una superficie de treinta y ocho punto cuatro kilómetros cuadrados, aproximadamente uno por ciento del estado.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Desde qué municipio llegas a Tzompantepec y por dónde entras normalmente? Cuéntanos en los comentarios cómo se conecta tu comunidad con la nuestra.",
+    "diagrama": "pregunta"
+  }
+]

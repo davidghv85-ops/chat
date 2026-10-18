@@ -1,5 +1,6 @@
-# 11. Carnaval: huehues, cuadrillas y vestuario — Fuentes
+# 11. La población de Tzompantepec
 
-- [Reseña secundaria: Municipio de Tzompantepec](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec)
+- [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf)
+- [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038, pp. 122–123](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf)
 
-Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.
+Consultar FUENTES-Y-ALCANCE.md para la fecha y los límites de cada fuente.

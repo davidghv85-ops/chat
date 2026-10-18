@@ -1,0 +1,8 @@
+**/assets/efectos.wav
+**/renders/
+**/snapshots/
+**/*.log
+**/verificado.json
+estado.json
+__pycache__/
+.venv/

@@ -2,81 +2,81 @@
   {
     "inicio": 0,
     "fin": 9,
-    "titulo": "DOS CENSOS PARA COMPARAR",
-    "dato": "2010 → 2020",
-    "pantalla": "Diez años de diferencia entre los registros.",
-    "narracion": "Cerramos este recorrido con datos concretos de Tzompantepec: dos censos que permiten observar cambios en su población y conocer algunas características del municipio."
+    "titulo": "UN MUNICIPIO QUE SE TRANSFORMA",
+    "dato": "MI TZOMPANTEPEC",
+    "texto": "La vida de Tzompantepec reúne comunidades, actividades del campo, zonas urbanizadas y tradiciones. Sus cambios se entienden mejor al mirar también sus continuidades.",
+    "diagrama": "red"
   },
   {
     "inicio": 9,
     "fin": 18,
-    "titulo": "LA POBLACIÓN DE 2010",
-    "dato": "14 611",
-    "pantalla": "Habitantes registrados en el Censo 2010.",
-    "narracion": "El Censo de dos mil diez registró catorce mil seiscientos once habitantes, la cifra que aparece en el compendio geográfico municipal de ese periodo."
+    "titulo": "EL CAMBIO DE POBLACIÓN",
+    "dato": "2010 A 2020",
+    "texto": "Entre los censos de dos mil diez y dos mil veinte, la población pasó de catorce mil seiscientos once a dieciocho mil seis habitantes.",
+    "diagrama": "grafica"
   },
   {
     "inicio": 18,
     "fin": 27,
-    "titulo": "LA POBLACIÓN DE 2020",
-    "dato": "18 006",
-    "pantalla": "Habitantes registrados en el Censo 2020.",
-    "narracion": "Diez años después, el Censo de dos mil veinte registró dieciocho mil seis habitantes. Ambas cifras corresponden a sus respectivos momentos censales."
+    "titulo": "EL TERRITORIO TAMBIÉN CAMBIA",
+    "dato": "CRECIMIENTO URBANO",
+    "texto": "INEGI describió zonas urbanas creciendo sobre terrenos antes agrícolas. Esa transformación forma parte del contexto en que se desarrolla la vida municipal.",
+    "diagrama": "mapa"
   },
   {
     "inicio": 27,
     "fin": 36,
-    "titulo": "LA DIFERENCIA ENTRE LOS CENSOS",
-    "dato": "+3 395",
-    "pantalla": "Aumento entre 2010 y 2020.",
-    "narracion": "La diferencia entre esos registros es de tres mil trescientos noventa y cinco habitantes, aproximadamente un veintitrés por ciento respecto a la población de dos mil diez."
+    "titulo": "EL TRABAJO PARA LA COMUNIDAD",
+    "dato": "FAENAS COMUNITARIAS",
+    "texto": "Las faenas son trabajos compartidos para atender necesidades del lugar. Reúnen colaboración y organización entre habitantes, según las prácticas de cada comunidad.",
+    "diagrama": "red"
   },
   {
     "inicio": 36,
     "fin": 45,
-    "titulo": "LA EDAD MEDIANA",
-    "dato": "28 AÑOS",
-    "pantalla": "La mitad tenía esa edad o menos en 2020.",
-    "narracion": "El panorama de dos mil veinte registra una edad mediana de veintiocho años: la mitad de la población tenía esa edad o menos."
+    "titulo": "UNA TRADICIÓN QUE REÚNE",
+    "dato": "LA FIESTA PATRONAL",
+    "texto": "La celebración del Divino Salvador muestra participación de habitantes y voluntarios. Recibir la imagen y organizar los honores son formas documentadas de colaboración.",
+    "diagrama": "fiesta"
   },
   {
     "inicio": 45,
     "fin": 54,
-    "titulo": "MUJERES Y HOMBRES",
-    "dato": "51.5 %",
-    "pantalla": "Mujeres: 51.5 % · Hombres: 48.5 % (Censo 2020).",
-    "narracion": "En ese mismo censo, las mujeres representaron el cincuenta y uno punto cinco por ciento y los hombres el cuarenta y ocho punto cinco por ciento."
+    "titulo": "OTRA FORMA DE PARTICIPAR",
+    "dato": "LAS CAMADAS",
+    "texto": "El carnaval reúne danzantes organizados en camadas. Sus cuadrillas, vestuario y preparación expresan una tradición que necesita trabajo colectivo.",
+    "diagrama": "mascara"
   },
   {
     "inicio": 54,
     "fin": 63,
-    "titulo": "LAS VIVIENDAS HABITADAS",
-    "dato": "5 078",
-    "pantalla": "Viviendas particulares habitadas registradas en 2020.",
-    "narracion": "El registro de dos mil veinte incluye cinco mil setenta y ocho viviendas particulares habitadas, con un promedio de tres punto cinco ocupantes por vivienda."
+    "titulo": "EL CONOCIMIENTO EN LAS MANOS",
+    "dato": "EL BARRO",
+    "texto": "Comales, ollas y piezas decoradas permiten reconocer la continuidad de un oficio. La producción artesanal también conecta conocimientos, trabajo y vida cotidiana.",
+    "diagrama": "barro"
   },
   {
     "inicio": 63,
     "fin": 72,
-    "titulo": "LAS LOCALIDADES DEL MUNICIPIO",
-    "dato": "12",
-    "pantalla": "San Andrés Ahuashuatepec era la más poblada.",
-    "narracion": "El municipio tenía doce localidades en ese censo. San Andrés Ahuashuatepec era la más poblada, mientras Tzompantepec mantenía la función de cabecera municipal."
+    "titulo": "LA CULTURA EN LA MESA",
+    "dato": "SABORES Y FAMILIAS",
+    "texto": "Las preparaciones gastronómicas documentadas se encuentran con las versiones familiares de cada receta. Compartir comida también puede ser una forma de transmitir recuerdos.",
+    "diagrama": "plato"
   },
   {
     "inicio": 72,
     "fin": 81,
-    "titulo": "UN TERRITORIO COMPACTO",
-    "dato": "38.4 km²",
-    "pantalla": "468.9 habitantes por kilómetro cuadrado en 2020.",
-    "narracion": "La superficie registrada fue de treinta y ocho punto cuatro kilómetros cuadrados, con una densidad de cuatrocientos sesenta y ocho punto nueve habitantes por kilómetro cuadrado."
+    "titulo": "OTRA FORMA DE INTERCAMBIO",
+    "dato": "EL TRUEQUE",
+    "texto": "El trueque es el intercambio de productos sin dinero. La reseña local lo menciona entre las costumbres relacionadas con los encuentros comunitarios.",
+    "diagrama": "mercado"
   },
   {
     "inicio": 81,
     "fin": 90,
-    "titulo": "MI TZOMPANTEPEC",
-    "dato": "HISTORIA + CULTURA",
-    "pantalla": "Nombres, comunidades y patrimonio de nuestro municipio.",
-    "narracion": "Detrás de las cifras están las personas y sus comunidades. Nuestro recorrido une toponimia, historia, fiestas, cocina, alfarería y patrimonio: esto es Mi Tzompantepec."
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué costumbre de tu comunidad te gustaría que conservaran las próximas generaciones? Compártela en los comentarios: esa historia también forma parte de Mi Tzompantepec.",
+    "diagrama": "pregunta"
   }
 ]

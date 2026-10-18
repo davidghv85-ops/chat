@@ -1,0 +1,7 @@
+MI TZOMPANTEPEC — 20 TEMAS CON PREGUNTAS
+
+Cada carpeta episodio-XX contiene el video MP4 de 90 segundos, su texto de corrido, su descripción para publicar y su pregunta de cierre.
+
+Los videos tienen solo efectos de sonido, sin música ni voz. Los textos incluyen las explicaciones completas en pantalla y terminan con la misma pregunta.
+
+En textos-y-descripciones.md están reunidos los 20 textos y las 20 descripciones. PREGUNTAS-DE-CIERRE.md reúne las 20 preguntas. FUENTES-Y-ALCANCE.md documenta los datos, las correcciones y las referencias.

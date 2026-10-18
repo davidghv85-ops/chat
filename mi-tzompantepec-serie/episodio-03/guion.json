@@ -2,81 +2,81 @@
   {
     "inicio": 0,
     "fin": 9,
-    "titulo": "UN NOMBRE EN LA ARQUEOLOGÍA",
-    "dato": "FASE TZOMPANTEPEC",
-    "pantalla": "Una etapa de la historia regional.",
-    "narracion": "Mucho antes del municipio actual, la región tlaxcalteca tuvo aldeas agrícolas. Una de las fases utilizadas para estudiar ese pasado se llama Tzompantepec."
+    "titulo": "MUCHOS LUGARES, UN MUNICIPIO",
+    "dato": "COMUNIDADES",
+    "texto": "Tzompantepec reúne diversas comunidades. Para conocerlas conviene distinguir la cabecera, las localidades del censo y la organización administrativa municipal.",
+    "diagrama": "red"
   },
   {
     "inicio": 9,
     "fin": 18,
-    "titulo": "QUIÉN ORGANIZÓ LA SECUENCIA",
-    "dato": "GARCÍA COOK",
-    "pantalla": "Siete fases culturales para estudiar Tlaxcala.",
-    "narracion": "El arqueólogo Ángel García Cook propuso una secuencia de siete fases para ordenar los cambios en los asentamientos y los materiales de Tlaxcala."
+    "titulo": "EL CENTRO ADMINISTRATIVO",
+    "dato": "SAN SALVADOR",
+    "texto": "San Salvador Tzompantepec es la cabecera municipal, vinculada con la administración, el patrimonio religioso y la celebración del Divino Salvador.",
+    "diagrama": "templo"
   },
   {
     "inicio": 18,
     "fin": 27,
-    "titulo": "LAS SIETE FASES",
-    "dato": "TZOMPANTEPEC",
-    "pantalla": "Tlatempa · Texoloc · Tezoquipan · Tenanyecac · Texcalac · Tlaxcala.",
-    "narracion": "La secuencia comienza con Tzompantepec y continúa con Tlatempa, Texoloc, Tezoquipan, Tenanyecac, Texcalac y Tlaxcala, cada una relacionada con diferentes cambios culturales."
+    "titulo": "LA LOCALIDAD MÁS POBLADA",
+    "dato": "SAN ANDRÉS",
+    "texto": "San Andrés Ahuashuatepec registró doce mil seiscientos veintiocho habitantes en dos mil veinte: aproximadamente siete de cada diez habitantes del municipio.",
+    "diagrama": "censo"
   },
   {
     "inicio": 27,
     "fin": 36,
-    "titulo": "ALDEAS ANTES QUE GRANDES CIUDADES",
-    "dato": "ALDEAS AGRÍCOLAS",
-    "pantalla": "Las primeras comunidades tuvieron escala reducida.",
-    "narracion": "Los estudios de las etapas tempranas describen comunidades de escala reducida, diferentes de los grandes centros urbanos que aparecerían después en la región."
+    "titulo": "UNA COMUNIDAD CON PATRIMONIO",
+    "dato": "SAN JUAN",
+    "texto": "San Juan Quetzalcoapan registró mil trescientos cincuenta y cuatro habitantes en ese censo. Su templo del siglo dieciocho destaca por su planta de cruz latina.",
+    "diagrama": "templo"
   },
   {
     "inicio": 36,
     "fin": 45,
-    "titulo": "TRES ALIMENTOS FUNDAMENTALES",
-    "dato": "MAÍZ",
-    "pantalla": "También frijol y calabaza.",
-    "narracion": "Los restos vegetales estudiados en Amomoloc y Tetel muestran una alimentación centrada en maíz, frijol y calabaza durante aquellas fases regionales."
+    "titulo": "UN NOMBRE PROPIO EN EL MAPA",
+    "dato": "SAN MATEO INOPHIL",
+    "texto": "San Mateo Inophil aparece identificado en la cartografía de INEGI como un lugar distinto de Xaltianquisco. Ambos deben nombrarse por separado.",
+    "diagrama": "mapa"
   },
   {
     "inicio": 45,
     "fin": 54,
-    "titulo": "NO SOLO HABÍA CULTIVOS",
-    "dato": "QUELITES",
-    "pantalla": "También nopales y otras plantas aprovechadas.",
-    "narracion": "Los estudios mencionan además quelites, nopales y chía silvestre, mostrando que la alimentación combinaba cultivos con el aprovechamiento de otras plantas."
+    "titulo": "OTRA COMUNIDAD DEL MUNICIPIO",
+    "dato": "XALTIANQUISCO",
+    "texto": "Xaltianquisco también forma parte del municipio. Su nombre se interpreta como en el mercado del arenal, una referencia de origen náhuatl.",
+    "diagrama": "mercado"
   },
   {
     "inicio": 54,
     "fin": 63,
-    "titulo": "LA CERÁMICA AYUDA A FECHAR",
-    "dato": "CERÁMICA",
-    "pantalla": "Formas y estilos permiten comparar etapas.",
-    "narracion": "Las formas y los estilos de las vasijas ayudan a comparar asentamientos y reconocer cambios. La cerámica fue fundamental para construir esa secuencia."
+    "titulo": "LA CABECERA EN EL CENSO",
+    "dato": "2 102 HABITANTES",
+    "texto": "La localidad de Tzompantepec registró dos mil ciento dos habitantes en dos mil veinte. Ser cabecera no implica ser la localidad más poblada.",
+    "diagrama": "censo"
   },
   {
     "inicio": 63,
     "fin": 72,
-    "titulo": "LA OBSIDIANA CONECTABA REGIONES",
-    "dato": "INTERCAMBIO",
-    "pantalla": "Los materiales revelan relaciones entre comunidades.",
-    "narracion": "Los estudios de materiales de obsidiana también muestran conexiones e intercambio entre distintas zonas, incluso cuando las aldeas todavía tenían dimensiones pequeñas."
+    "titulo": "EL REGISTRO COMPLETO",
+    "dato": "12 LOCALIDADES",
+    "texto": "El Censo dos mil veinte registró doce localidades en el municipio. Esta cifra no debe confundirse con un número de presidencias de comunidad.",
+    "diagrama": "red"
   },
   {
     "inicio": 72,
     "fin": 81,
-    "titulo": "DOS TIEMPOS DIFERENTES",
-    "dato": "REGIÓN ANTIGUA",
-    "pantalla": "La fase no es la fundación del municipio moderno.",
-    "narracion": "Esta fase arqueológica pertenece al estudio del pasado regional; no representa la fecha de creación del municipio ni sus límites administrativos actuales."
+    "titulo": "NOMBRES QUE IMPORTAN",
+    "dato": "IDENTIDAD LOCAL",
+    "texto": "Cada localidad tiene nombre e identidad propios. Conocerlos permite hablar del municipio completo, sin reducir Tzompantepec únicamente a su cabecera.",
+    "diagrama": "mapa"
   },
   {
     "inicio": 81,
     "fin": 90,
-    "titulo": "MI TZOMPANTEPEC",
-    "dato": "RAÍCES ANTIGUAS",
-    "pantalla": "Nuestro nombre también ayuda a estudiar el pasado.",
-    "narracion": "Así, Tzompantepec no solo aparece en un mapa actual: también forma parte del vocabulario con el que se estudia la historia antigua de Tlaxcala."
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿De qué comunidad de Tzompantepec eres y qué lugar de ella recomiendas conocer? Cuéntanos en los comentarios y representa a tu comunidad.",
+    "diagrama": "pregunta"
   }
 ]

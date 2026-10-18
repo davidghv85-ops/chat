@@ -1,8 +1,7 @@
-# 02. Tzompantepec: lugar para guardar los cráneos — Fuentes
+# 02. Qué significa Tzompantepec
 
-- [Reseña secundaria: Municipio de Tzompantepec](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec)
-- [Contexto mesoamericano: Tzompantli](https://es.wikipedia.org/wiki/Tzompantli)
-- [Síntesis secundaria: Historia prehispánica de Tlaxcala](https://es.wikipedia.org/wiki/Historia_prehisp%C3%A1nica_de_Tlaxcala)
-- [Síntesis secundaria: Batalla de Tlaxcala](https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala)
+- [Wikipedia, Municipio de Tzompantepec, reseña secundaria consultada mediante API](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec)
+- [Wikipedia, Tzompantli, contexto mesoamericano y etimología](https://es.wikipedia.org/wiki/Tzompantli)
+- Reseña de 20 temas proporcionada por el usuario en esta conversación; fuente aportada, no equivalente a una verificación independiente de cada afirmación
 
-Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.
+Consultar FUENTES-Y-ALCANCE.md para la fecha y los límites de cada fuente.

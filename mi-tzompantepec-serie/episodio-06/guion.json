@@ -2,81 +2,81 @@
   {
     "inicio": 0,
     "fin": 9,
-    "titulo": "LA FECHA QUE RECOGEN LAS RESEÑAS",
-    "dato": "1822",
-    "pantalla": "Una referencia sobre la formación municipal.",
-    "narracion": "Las reseñas municipales sitúan la fundación de Tzompantepec en mil ochocientos veintidós, una referencia sobre su organización administrativa y no sobre el inicio de su poblamiento."
+    "titulo": "UNA EXPRESIÓN DE COLOR Y BAILE",
+    "dato": "CARNAVAL",
+    "texto": "El carnaval de Tzompantepec tiene entre sus protagonistas a las camadas de huehues, grupos de danzantes que participan en esta expresión festiva.",
+    "diagrama": "mascara"
   },
   {
     "inicio": 9,
     "fin": 18,
-    "titulo": "UN MUNICIPIO DE TLAXCALA",
-    "dato": "60 MUNICIPIOS",
-    "pantalla": "Tzompantepec forma parte del territorio estatal.",
-    "narracion": "Tzompantepec es uno de los sesenta municipios de Tlaxcala. Su cabecera lleva el mismo nombre, aunque otra localidad concentra más habitantes."
+    "titulo": "LA DANZA SE ORGANIZA EN GRUPO",
+    "dato": "CUADRILLAS",
+    "texto": "Las camadas bailan cuadrillas. Sus integrantes realizan desplazamientos y figuras de conjunto que necesitan atención, práctica y coordinación entre los participantes.",
+    "diagrama": "red"
   },
   {
     "inicio": 18,
     "fin": 27,
-    "titulo": "LA SUPERFICIE DEL MUNICIPIO",
-    "dato": "38.4 km²",
-    "pantalla": "Superficie registrada en el panorama censal de 2020.",
-    "narracion": "El panorama de INEGI de dos mil veinte registra una superficie municipal de treinta y ocho punto cuatro kilómetros cuadrados, alrededor del uno por ciento del estado."
+    "titulo": "EL MATERIAL DEL VESTUARIO",
+    "dato": "TERCIOPELO MULTICOLOR",
+    "texto": "La descripción municipal menciona pantaloncillo y camisa de terciopelo multicolor, parte de la apariencia característica del traje carnavalesco registrado.",
+    "diagrama": "paleta"
   },
   {
     "inicio": 27,
     "fin": 36,
-    "titulo": "LA CLAVE QUE LO IDENTIFICA",
-    "dato": "29038",
-    "pantalla": "29 corresponde a Tlaxcala; 038, al municipio.",
-    "narracion": "Su clave geoestadística es veintinueve cero treinta y ocho: veintinueve identifica a Tlaxcala y cero treinta y ocho al municipio de Tzompantepec."
+    "titulo": "UN ELEMENTO AL FRENTE",
+    "dato": "PECHERA BORDADA",
+    "texto": "La pechera aparece decorada con motivos religiosos bordados. Este detalle permite observar cómo la imagen y la devoción se incorporan al vestuario.",
+    "diagrama": "mascara"
   },
   {
     "inicio": 36,
     "fin": 45,
-    "titulo": "UN CAMBIO TERRITORIAL EN 1995",
-    "dato": "1995",
-    "pantalla": "San José Teacalco se constituyó como otro municipio.",
-    "narracion": "La historia municipal de San José Teacalco registra su separación de Tzompantepec en mil novecientos noventa y cinco, durante la creación de nuevos municipios tlaxcaltecas."
+    "titulo": "EL ROSTRO DE LA DANZA",
+    "dato": "MÁSCARA DE MADERA",
+    "texto": "La máscara de madera tallada es otro elemento del traje. Su elaboración transforma un material natural en una pieza de la representación festiva.",
+    "diagrama": "mascara"
   },
   {
     "inicio": 45,
     "fin": 54,
-    "titulo": "EL DIECIOCHO DE AGOSTO",
-    "dato": "18 AGO",
-    "pantalla": "La reseña refiere un decreto de 1995.",
-    "narracion": "Esa reseña vincula el cambio con el decreto del dieciocho de agosto de mil novecientos noventa y cinco, una referencia para entender los límites actuales."
+    "titulo": "UN ACCESORIO QUE SUENA",
+    "dato": "CASTAÑUELAS",
+    "texto": "Las castañuelas también figuran en el vestuario descrito. Acompañan la presencia de los danzantes y aportan una dimensión sonora a sus movimientos.",
+    "diagrama": "sonido"
   },
   {
     "inicio": 54,
     "fin": 63,
-    "titulo": "LOS VECINOS DEL MUNICIPIO",
-    "dato": "APIZACO",
-    "pantalla": "También Xaloztoc, Tocatlán y Huamantla.",
-    "narracion": "La ficha geográfica identifica entre sus colindantes a Apizaco, Xaloztoc, Tocatlán y Huamantla, conectando a Tzompantepec con varios municipios de la región."
+    "titulo": "EL CALZADO DEL TRAJE",
+    "dato": "ZAPATOS NEGROS",
+    "texto": "Los zapatos negros completan la descripción de este traje local. Cada elemento participa en la presentación del danzante y de la camada.",
+    "diagrama": "mascara"
   },
   {
     "inicio": 63,
     "fin": 72,
-    "titulo": "OTRAS COLINDANCIAS",
-    "dato": "TEACALCO",
-    "pantalla": "Cuaxomulco y Santa Cruz Tlaxcala también son vecinos.",
-    "narracion": "San José Teacalco, Cuaxomulco y Santa Cruz Tlaxcala también aparecen en sus colindancias. Los límites se entienden mejor al reconocer a todas estas comunidades vecinas."
+    "titulo": "EL REPERTORIO MUSICAL",
+    "dato": "ORIGEN DIVERSO",
+    "texto": "La reseña no restringe el acompañamiento a un género: menciona canciones y melodías populares difundidas por la radio y la televisión.",
+    "diagrama": "sonido"
   },
   {
     "inicio": 72,
     "fin": 81,
-    "titulo": "LA CABECERA NO ES TODA LA POBLACIÓN",
-    "dato": "12 LOCALIDADES",
-    "pantalla": "Número registrado por el Censo 2020.",
-    "narracion": "El Censo de dos mil veinte registró doce localidades. La cabecera es una de ellas: el municipio reúne a un conjunto más amplio de habitantes y lugares."
+    "titulo": "VESTUARIO Y MOVIMIENTO",
+    "dato": "UNA EXPRESIÓN COLECTIVA",
+    "texto": "Cuadrillas, terciopelo, bordados, máscaras y castañuelas se reúnen en una tradición que se sostiene mediante la participación organizada de los danzantes.",
+    "diagrama": "fiesta"
   },
   {
     "inicio": 81,
     "fin": 90,
-    "titulo": "MI TZOMPANTEPEC",
-    "dato": "UN TERRITORIO CON HISTORIA",
-    "pantalla": "Las fechas ayudan a comprender sus cambios.",
-    "narracion": "Mil ochocientos veintidós y mil novecientos noventa y cinco nos ayudan a distinguir dos momentos de la historia administrativa de este territorio."
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Has bailado en una camada o tienes una favorita de Tzompantepec? Escribe su nombre y tu mejor recuerdo del carnaval en los comentarios.",
+    "diagrama": "pregunta"
   }
 ]

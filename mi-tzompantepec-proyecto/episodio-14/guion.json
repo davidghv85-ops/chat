@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "EL AGUA NOS CONECTA",
+    "dato": "REGIÓN DEL BALSAS",
+    "texto": "INEGI ubica a Tzompantepec dentro de la región hidrológica del Balsas. Los sistemas de agua se extienden más allá de los límites municipales.",
+    "diagrama": "agua"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UNA CUENCA MAYOR",
+    "dato": "RÍO ATOYAC",
+    "texto": "Dentro de esa clasificación, el municipio pertenece a la cuenca del Atoyac. Una cuenca reúne territorios relacionados por el escurrimiento del agua.",
+    "diagrama": "agua"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LA SUBCUENCA PRINCIPAL",
+    "dato": "ZAHUAPAN",
+    "texto": "La subcuenca del río Zahuapan comprende noventa y nueve punto ochenta y cuatro por ciento del municipio en la ficha geográfica consultada.",
+    "diagrama": "grafica"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UNA PEQUEÑA PROPORCIÓN RESTANTE",
+    "dato": "TOTOLZINGO",
+    "texto": "El cero punto dieciséis por ciento restante corresponde a la subcuenca de la laguna de Totolzingo, según el mismo compendio.",
+    "diagrama": "agua"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "UNA CORRIENTE CON NOMBRE",
+    "dato": "AMOMOLOC",
+    "texto": "Amomoloc aparece identificado como una corriente intermitente. Su clasificación no equivale a la de un río con flujo permanente durante todo el año.",
+    "diagrama": "agua"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "LO QUE SIGNIFICA INTERMITENTE",
+    "dato": "EL FLUJO CAMBIA",
+    "texto": "Una corriente intermitente puede presentar agua en determinadas temporadas y disminuir o interrumpir su flujo en otras, dependiendo de sus condiciones.",
+    "diagrama": "lluvia"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "EL CONTEXTO DE LAS LLUVIAS",
+    "dato": "700–900 mm",
+    "texto": "La ficha registra precipitaciones entre setecientos y novecientos milímetros y un clima con lluvias en verano, parte del contexto hidrológico municipal.",
+    "diagrama": "lluvia"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "AGUA PARA LA VIDA DIARIA",
+    "dato": "HOGARES Y CAMPO",
+    "texto": "El abastecimiento doméstico y las actividades del campo dependen del agua. Cuidar su calidad y evitar desperdicios beneficia a toda la comunidad.",
+    "diagrama": "casa"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LOS CAUCES NO SON BASUREROS",
+    "dato": "CUIDEMOS EL AGUA",
+    "texto": "Depositar residuos en cauces y barrancas puede afectar el paso y la calidad del agua. Mantenerlos libres de basura es una acción concreta.",
+    "diagrama": "agua"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué arroyo, barranca o punto de agua reconoces en tu comunidad? Cuéntanos su nombre y qué podríamos hacer para cuidarlo mejor.",
+    "diagrama": "pregunta"
+  }
+]

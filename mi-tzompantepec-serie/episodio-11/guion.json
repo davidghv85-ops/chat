@@ -2,81 +2,81 @@
   {
     "inicio": 0,
     "fin": 9,
-    "titulo": "LAS CAMADAS DE HUEHUES",
-    "dato": "CARNAVAL",
-    "pantalla": "Una expresión registrada en Tzompantepec.",
-    "narracion": "En el carnaval de Tzompantepec, la reseña municipal destaca la participación de camadas de huehues y el baile de cuadrillas como elementos de sus festejos."
+    "titulo": "UNA CIFRA CON FECHA",
+    "dato": "CENSO 2020",
+    "texto": "El Censo de Población y Vivienda de dos mil veinte registró dieciocho mil seis habitantes en el municipio de Tzompantepec.",
+    "diagrama": "censo"
   },
   {
     "inicio": 9,
     "fin": 18,
-    "titulo": "BAILAR EN CUADRILLA",
-    "dato": "COORDINACIÓN",
-    "pantalla": "Los participantes realizan figuras en grupo.",
-    "narracion": "La cuadrilla es una forma de baile colectivo que organiza a sus integrantes mediante figuras y desplazamientos coordinados. El grupo es parte de su fuerza visual."
+    "titulo": "DIEZ AÑOS ANTES",
+    "dato": "14 611 HABITANTES",
+    "texto": "En dos mil diez se registraron catorce mil seiscientos once habitantes. Comparar censos permite observar cambios sin presentar esas cifras como mediciones actuales.",
+    "diagrama": "censo"
   },
   {
     "inicio": 18,
     "fin": 27,
-    "titulo": "TERCIOPELO MULTICOLOR",
-    "dato": "EL TRAJE",
-    "pantalla": "La descripción menciona camisa y pantaloncillo.",
-    "narracion": "El vestuario descrito incluye camisa y pantaloncillo de terciopelo multicolor, prendas que dan color y presencia a quienes participan en esta expresión carnavalesca."
+    "titulo": "LA DIFERENCIA ENTRE REGISTROS",
+    "dato": "3 395 PERSONAS MÁS",
+    "texto": "De dos mil diez a dos mil veinte, la población registrada aumentó en tres mil trescientas noventa y cinco personas, aproximadamente veintitrés por ciento.",
+    "diagrama": "grafica"
   },
   {
     "inicio": 27,
     "fin": 36,
-    "titulo": "UNA PECHERA CON BORDADOS",
-    "dato": "BORDADOS",
-    "pantalla": "La reseña menciona motivos religiosos.",
-    "narracion": "Al frente del traje se encuentra una pechera con motivos religiosos bordados, un detalle que la descripción municipal identifica como parte del conjunto."
+    "titulo": "LA LOCALIDAD MÁS POBLADA",
+    "dato": "SAN ANDRÉS",
+    "texto": "San Andrés Ahuashuatepec concentraba doce mil seiscientos veintiocho habitantes en dos mil veinte, aproximadamente setenta por ciento de la población municipal.",
+    "diagrama": "red"
   },
   {
     "inicio": 36,
     "fin": 45,
-    "titulo": "LA MÁSCARA DE MADERA",
-    "dato": "MÁSCARA",
-    "pantalla": "Un elemento tallado del vestuario.",
-    "narracion": "La máscara de madera tallada es otro elemento señalado en la reseña. Su presencia transforma el rostro visible del danzante durante la representación."
+    "titulo": "LA CABECERA Y SAN JUAN",
+    "dato": "2 102 Y 1 354",
+    "texto": "Tzompantepec registró dos mil ciento dos habitantes y San Juan Quetzalcoapan mil trescientos cincuenta y cuatro, según el panorama censal.",
+    "diagrama": "censo"
   },
   {
     "inicio": 45,
     "fin": 54,
-    "titulo": "LAS CASTAÑUELAS",
-    "dato": "PERCUSIÓN",
-    "pantalla": "El sonido acompaña los movimientos del baile.",
-    "narracion": "Las castañuelas también aparecen en el conjunto descrito. Son un instrumento de percusión cuyo sonido se produce al golpear entre sí sus piezas."
+    "titulo": "LA DISTRIBUCIÓN POR SEXO",
+    "dato": "51.5 % MUJERES",
+    "texto": "En ese censo, las mujeres representaron cincuenta y uno punto cinco por ciento de la población y los hombres cuarenta y ocho punto cinco.",
+    "diagrama": "grafica"
   },
   {
     "inicio": 54,
     "fin": 63,
-    "titulo": "EL CALZADO",
-    "dato": "ZAPATOS NEGROS",
-    "pantalla": "Un detalle del traje registrado.",
-    "narracion": "La descripción incluye zapatos negros, completando un vestuario en el que las prendas, la máscara y los accesorios construyen una imagen colectiva del carnaval."
+    "titulo": "LA EDAD MEDIANA",
+    "dato": "28 AÑOS",
+    "texto": "La edad mediana fue de veintiocho años. Esto significa que la mitad de la población tenía esa edad o menos en dos mil veinte.",
+    "diagrama": "reloj"
   },
   {
     "inicio": 63,
     "fin": 72,
-    "titulo": "UN REPERTORIO QUE CAMBIA",
-    "dato": "DISTINTAS MELODÍAS",
-    "pantalla": "La fuente menciona músicas de origen diverso.",
-    "narracion": "El acompañamiento musical no se limita a un único género. La reseña menciona melodías populares y repertorios de distintos orígenes utilizados en el baile."
+    "titulo": "LAS VIVIENDAS HABITADAS",
+    "dato": "5 078",
+    "texto": "El municipio registró cinco mil setenta y ocho viviendas particulares habitadas, con un promedio de tres punto cinco ocupantes por vivienda.",
+    "diagrama": "casa"
   },
   {
     "inicio": 72,
     "fin": 81,
-    "titulo": "VESTUARIO Y MOVIMIENTO",
-    "dato": "UNA CAMADA",
-    "pantalla": "La tradición combina imagen, sonido y coordinación.",
-    "narracion": "En conjunto, el carnaval reúne vestuario, música y movimiento colectivo. La descripción corresponde a la expresión registrada para Tzompantepec, sin uniformar a todos los grupos actuales."
+    "titulo": "CÓMO LEER ESTOS DATOS",
+    "dato": "PERSONAS Y COMUNIDADES",
+    "texto": "Las cifras describen el censo de dos mil veinte. Detrás de ellas están familias y comunidades de distintos tamaños dentro del mismo municipio.",
+    "diagrama": "red"
   },
   {
     "inicio": 81,
     "fin": 90,
-    "titulo": "MI TZOMPANTEPEC",
-    "dato": "NUESTRO CARNAVAL",
-    "pantalla": "Una tradición que se ve y se escucha.",
-    "narracion": "Cuando observes una camada, podrás reconocer estos elementos: terciopelo, pechera, máscara, castañuelas y baile en cuadrilla, parte de la cultura documentada de nuestro municipio."
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué cambio has notado en tu comunidad desde hace diez años? Comparte en los comentarios cómo has visto crecer y transformarse Tzompantepec.",
+    "diagrama": "pregunta"
   }
 ]

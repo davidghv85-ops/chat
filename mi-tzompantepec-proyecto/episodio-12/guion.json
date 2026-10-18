@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "TRES REFERENCIAS DEL PATRIMONIO",
+    "dato": "ARQUITECTURA LOCAL",
+    "texto": "La parroquia del Divino Salvador y los templos de San Andrés y San Juan son referencias arquitectónicas documentadas del municipio.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA PARROQUIA DE LA CABECERA",
+    "dato": "SIGLO XIX",
+    "texto": "El compendio sitúa la construcción del Divino Salvador en el siglo diecinueve y describe una fachada con pilastras estípites y figuras religiosas.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "UNA ESCENA EN LA FACHADA",
+    "dato": "JESÚS RESPLANDECIENTE",
+    "texto": "La fachada representa a Jesús con Pedro, Santiago y Juan, además de Elías y Moisés: personajes relacionados con la Transfiguración.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UNA OBRA ANTERIOR AL EDIFICIO",
+    "dato": "ANTONIO CARO, 1681",
+    "texto": "En el interior se registra una pintura de ánimas realizada por Antonio Caro en mil seiscientos ochenta y uno, anterior a la datación parroquial.",
+    "diagrama": "paleta"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "EL TEMPLO DE SAN ANDRÉS",
+    "dato": "SIGLO XVIII",
+    "texto": "San Andrés fue edificado en el siglo dieciocho. Su fachada combina aplanado, azulejo y ladrillo, de acuerdo con la descripción del compendio.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "EL ESPESOR DE SU ESTRUCTURA",
+    "dato": "MUROS DE UN METRO",
+    "texto": "Los muros de San Andrés son de piedra y tienen un metro de espesor. Su cubierta también se describe en piedra, con bóveda de arista.",
+    "diagrama": "muro"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "OTROS ESPACIOS DE SAN ANDRÉS",
+    "dato": "BAPTISTERIO Y ATRIO",
+    "texto": "La descripción incluye un baptisterio con yesería policromada, atrio y casa cural, elementos que permiten reconocer la amplitud del conjunto.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL TEMPLO DE SAN JUAN",
+    "dato": "CRUZ LATINA",
+    "texto": "San Juan también corresponde al siglo dieciocho. Su planta tiene forma de cruz latina y sus muros de piedra alcanzan noventa centímetros de espesor.",
+    "diagrama": "cruz"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "UNA TORRE CARACTERÍSTICA",
+    "dato": "TRES CUERPOS",
+    "texto": "La reseña de San Juan describe una torre de tres cuerpos rematada por una cúpula esférica con tambor, un detalle distintivo de su arquitectura.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Cuál de estos templos conoces mejor y qué detalle te llama la atención? Cuéntanos en los comentarios qué patrimonio te gustaría mostrar.",
+    "diagrama": "pregunta"
+  }
+]

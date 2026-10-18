@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UNA EXPRESIÓN DE COLOR Y BAILE",
+    "dato": "CARNAVAL",
+    "texto": "El carnaval de Tzompantepec tiene entre sus protagonistas a las camadas de huehues, grupos de danzantes que participan en esta expresión festiva.",
+    "diagrama": "mascara"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA DANZA SE ORGANIZA EN GRUPO",
+    "dato": "CUADRILLAS",
+    "texto": "Las camadas bailan cuadrillas. Sus integrantes realizan desplazamientos y figuras de conjunto que necesitan atención, práctica y coordinación entre los participantes.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL MATERIAL DEL VESTUARIO",
+    "dato": "TERCIOPELO MULTICOLOR",
+    "texto": "La descripción municipal menciona pantaloncillo y camisa de terciopelo multicolor, parte de la apariencia característica del traje carnavalesco registrado.",
+    "diagrama": "paleta"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UN ELEMENTO AL FRENTE",
+    "dato": "PECHERA BORDADA",
+    "texto": "La pechera aparece decorada con motivos religiosos bordados. Este detalle permite observar cómo la imagen y la devoción se incorporan al vestuario.",
+    "diagrama": "mascara"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "EL ROSTRO DE LA DANZA",
+    "dato": "MÁSCARA DE MADERA",
+    "texto": "La máscara de madera tallada es otro elemento del traje. Su elaboración transforma un material natural en una pieza de la representación festiva.",
+    "diagrama": "mascara"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "UN ACCESORIO QUE SUENA",
+    "dato": "CASTAÑUELAS",
+    "texto": "Las castañuelas también figuran en el vestuario descrito. Acompañan la presencia de los danzantes y aportan una dimensión sonora a sus movimientos.",
+    "diagrama": "sonido"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "EL CALZADO DEL TRAJE",
+    "dato": "ZAPATOS NEGROS",
+    "texto": "Los zapatos negros completan la descripción de este traje local. Cada elemento participa en la presentación del danzante y de la camada.",
+    "diagrama": "mascara"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL REPERTORIO MUSICAL",
+    "dato": "ORIGEN DIVERSO",
+    "texto": "La reseña no restringe el acompañamiento a un género: menciona canciones y melodías populares difundidas por la radio y la televisión.",
+    "diagrama": "sonido"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "VESTUARIO Y MOVIMIENTO",
+    "dato": "UNA EXPRESIÓN COLECTIVA",
+    "texto": "Cuadrillas, terciopelo, bordados, máscaras y castañuelas se reúnen en una tradición que se sostiene mediante la participación organizada de los danzantes.",
+    "diagrama": "fiesta"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Has bailado en una camada o tienes una favorita de Tzompantepec? Escribe su nombre y tu mejor recuerdo del carnaval en los comentarios.",
+    "diagrama": "pregunta"
+  }
+]

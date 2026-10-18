@@ -1,7 +1,9 @@
-# 18. San Juan Quetzalcoapan: nombre, templo y población — Fuentes
+# 18. La historia prehispánica y colonial
 
-- [Reseña secundaria: San Juan Quetzalcoapan](https://es.wikipedia.org/wiki/San_Juan_Quetzalcoapan)
+- [Wikipedia, Historia prehispánica de Tlaxcala, secuencia y alimentación regional](https://es.wikipedia.org/wiki/Historia_prehisp%C3%A1nica_de_Tlaxcala)
+- [Wikipedia, Batalla de Tlaxcala, síntesis de los combates de septiembre de 1519](https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala)
+- [Wikipedia, Tlaxcala virreinal, relato del campamento y los enfrentamientos](https://es.wikipedia.org/wiki/Tlaxcala_virreinal)
 - [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf)
-- [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf)
+- [Wikipedia, Municipio de Tzompantepec, reseña secundaria consultada mediante API](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec)
 
-Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.
+Consultar FUENTES-Y-ALCANCE.md para la fecha y los límites de cada fuente.

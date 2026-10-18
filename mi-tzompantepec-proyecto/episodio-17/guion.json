@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "DOS SERVICIOS PARA LA COMUNIDAD",
+    "dato": "EDUCACIÓN Y SALUD",
+    "texto": "Escuelas y servicios de salud forman parte de la vida del municipio. Conocer su historia y sus indicadores permite mirar más allá de un listado.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UN VÍNCULO CON LA EDUCACIÓN SUPERIOR",
+    "dato": "SAN ANDRÉS",
+    "texto": "La historia del Tecnológico de Apizaco relaciona su creación con terrenos aportados por treinta y dos familias campesinas de San Andrés Ahuashuatepec.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "UNA REFERENCIA REGIONAL",
+    "dato": "1975 Y 1976",
+    "texto": "El Tecnológico inició actividades el primero de octubre de mil novecientos setenta y cinco y fue inaugurado en octubre de mil novecientos setenta y seis.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "LA ASISTENCIA A LA ESCUELA",
+    "dato": "94.5 %",
+    "texto": "En el Censo dos mil veinte, noventa y cuatro punto cinco por ciento de la población municipal de seis a once años asistía a la escuela.",
+    "diagrama": "grafica"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LA EDUCACIÓN MEDIA Y SUPERIOR",
+    "dato": "28.7 % Y 20.2 %",
+    "texto": "Entre la población de quince años y más, veintiocho punto siete por ciento tenía educación media superior y veinte punto dos por ciento educación superior.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "UNA REFERENCIA DE ATENCIÓN MÉDICA",
+    "dato": "HOSPITAL REGIONAL",
+    "texto": "Tzompantepec cuenta con el Hospital General Regional Emilio Sánchez Piedras, una referencia de infraestructura hospitalaria para la atención de la población de la región.",
+    "diagrama": "salud"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LA ATENCIÓN DE PRIMER NIVEL",
+    "dato": "CENTROS DE SALUD",
+    "texto": "Los centros de salud realizan funciones de atención básica y prevención. Son distintos de un hospital regional, por su capacidad y tipo de servicios.",
+    "diagrama": "salud"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LA AFILIACIÓN EN EL CENSO",
+    "dato": "74.3 %",
+    "texto": "En dos mil veinte, setenta y cuatro punto tres por ciento de la población estaba afiliada a servicios de salud. Este indicador no mide la disponibilidad actual.",
+    "diagrama": "grafica"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "PARA ACUDIR A UN SERVICIO",
+    "dato": "CONFIRMA LA ATENCIÓN",
+    "texto": "Los horarios, requisitos y servicios pueden cambiar. Antes de acudir a una unidad, confirma su ubicación y las condiciones de atención que ofrece.",
+    "diagrama": "salud"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué escuela de Tzompantepec forma parte de tu historia? Comparte su nombre y un recuerdo positivo de tu comunidad escolar en los comentarios.",
+    "diagrama": "pregunta"
+  }
+]

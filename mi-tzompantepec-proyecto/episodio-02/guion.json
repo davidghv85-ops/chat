@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "EL SIGNIFICADO DE TZOMPANTEPEC",
+    "dato": "LUGAR DE CRÁNEOS",
+    "texto": "Tzompantepec es un nombre de origen náhuatl. Su interpretación más difundida es lugar para guardar los cráneos, vinculada con el tzompantli.",
+    "diagrama": "craneo"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "PRIMER ELEMENTO DEL NOMBRE",
+    "dato": "TZONTLI",
+    "texto": "La explicación tradicional relaciona tzontli con cabeza o cráneo. Esta referencia es la que permanece en las traducciones más conocidas del nombre.",
+    "diagrama": "craneo"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL ELEMENTO DE LA HILERA",
+    "dato": "PANTLI",
+    "texto": "Pantli puede referirse a hilera, muro o bandera según el contexto. En la explicación del topónimo se relaciona con una disposición ordenada.",
+    "diagrama": "linea"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "EL ELEMENTO DEL LUGAR",
+    "dato": "TEPEC",
+    "texto": "Tepec se relaciona con tepetl, cerro, y su uso locativo. Por eso algunas interpretaciones del nombre incorporan la referencia al cerro.",
+    "diagrama": "cerro"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LA IDEA CENTRAL",
+    "dato": "EL TZOMPANTLI",
+    "texto": "Al explicar el nombre también se utiliza lugar del tzompantli. Ambas formulaciones mantienen la asociación con cráneos dispuestos en una estructura.",
+    "diagrama": "craneo"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "¿QUÉ ERA UN TZOMPANTLI?",
+    "dato": "ESTRUCTURA CEREMONIAL",
+    "texto": "En Mesoamérica, el tzompantli era una estructura utilizada para exhibir cráneos humanos dentro de prácticas rituales de aquellos pueblos.",
+    "diagrama": "craneo"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "UN CONTEXTO RELIGIOSO",
+    "dato": "MUNDO MESOAMERICANO",
+    "texto": "Estas estructuras pertenecían a sistemas de creencias y ceremonias prehispánicas, en los que también se practicaba el sacrificio humano.",
+    "diagrama": "historia"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "CÓMO ENTENDER LA TRADUCCIÓN",
+    "dato": "LENGUA E HISTORIA",
+    "texto": "El nombre conserva una referencia cultural antigua. Las traducciones son interpretaciones del topónimo, no una descripción de cómo es hoy el municipio.",
+    "diagrama": "libro"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LA IDEA PARA RECORDAR",
+    "dato": "LUGAR DEL TZOMPANTLI",
+    "texto": "Cuando escuches Tzompantepec, recuerda su asociación con el tzompantli y con la interpretación lugar para guardar los cráneos.",
+    "diagrama": "craneo"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Ya conocías este significado de Tzompantepec o te habían contado otra interpretación? Compártela en los comentarios para conocer las versiones de nuestra comunidad.",
+    "diagrama": "pregunta"
+  }
+]

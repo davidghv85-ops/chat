@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UN MUNICIPIO CONECTADO CON LA REGIÓN",
+    "dato": "CAMINOS Y LOCALIDADES",
+    "texto": "Tzompantepec comparte límites con varios municipios. Su red de caminos y carreteras permite relacionar comunidades, actividades y servicios dentro de la región.",
+    "diagrama": "ruta"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UNA CONEXIÓN IMPORTANTE",
+    "dato": "APIZACO",
+    "texto": "Apizaco es uno de sus municipios colindantes. La cercanía geográfica ayuda a entender los vínculos de movilidad entre ambos territorios.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "OTRA RELACIÓN HACIA EL ORIENTE",
+    "dato": "HUAMANTLA",
+    "texto": "Huamantla también aparece entre sus vecinos. La ubicación regional conecta a Tzompantepec con distintas localidades del centro oriental de Tlaxcala.",
+    "diagrama": "brujula"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "LO QUE MUESTRA LA CARTOGRAFÍA",
+    "dato": "CARRETERAS Y CALLES",
+    "texto": "El mapa de INEGI distingue carreteras de más de dos carriles, carreteras de dos carriles y calles, diferentes componentes de la infraestructura de transporte.",
+    "diagrama": "ruta"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LA RED TAMBIÉN TIENE HISTORIA",
+    "dato": "VÍA DE FERROCARRIL",
+    "texto": "La cartografía municipal incluye la vía de ferrocarril entre sus elementos. Su presencia en el mapa no implica que exista servicio de pasajeros disponible.",
+    "diagrama": "ruta"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "LOS VIAJES DENTRO DEL MUNICIPIO",
+    "dato": "ENTRE COMUNIDADES",
+    "texto": "Los recorridos cotidianos relacionan la cabecera y las demás comunidades. La distancia de un viaje depende del punto de origen y del destino.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "PARA LLEGAR A UN SERVICIO",
+    "dato": "UBICACIÓN COMPLETA",
+    "texto": "Un lugar se identifica mejor con localidad, calle y referencia. Decir únicamente Tzompantepec puede resultar insuficiente cuando el destino está en otra comunidad.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "NO HAY UN SOLO TIEMPO DE VIAJE",
+    "dato": "DEPENDE DE LA RUTA",
+    "texto": "Los tiempos y las distancias por carretera varían según el recorrido y las condiciones. Conviene revisar la ruta antes de salir.",
+    "diagrama": "reloj"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LA CONECTIVIDAD EN LA VIDA DIARIA",
+    "dato": "ESCUELA, TRABAJO Y COMERCIO",
+    "texto": "Estudiar, trabajar, comprar y acudir a servicios implica desplazamientos. Los caminos son parte de la relación cotidiana entre las comunidades del municipio.",
+    "diagrama": "ruta"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué ruta usas más para llegar a Tzompantepec o moverte entre sus comunidades? Comparte una referencia útil para quienes nos visitan.",
+    "diagrama": "pregunta"
+  }
+]

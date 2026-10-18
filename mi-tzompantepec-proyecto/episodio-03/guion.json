@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "MUCHOS LUGARES, UN MUNICIPIO",
+    "dato": "COMUNIDADES",
+    "texto": "Tzompantepec reúne diversas comunidades. Para conocerlas conviene distinguir la cabecera, las localidades del censo y la organización administrativa municipal.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "EL CENTRO ADMINISTRATIVO",
+    "dato": "SAN SALVADOR",
+    "texto": "San Salvador Tzompantepec es la cabecera municipal, vinculada con la administración, el patrimonio religioso y la celebración del Divino Salvador.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LA LOCALIDAD MÁS POBLADA",
+    "dato": "SAN ANDRÉS",
+    "texto": "San Andrés Ahuashuatepec registró doce mil seiscientos veintiocho habitantes en dos mil veinte: aproximadamente siete de cada diez habitantes del municipio.",
+    "diagrama": "censo"
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UNA COMUNIDAD CON PATRIMONIO",
+    "dato": "SAN JUAN",
+    "texto": "San Juan Quetzalcoapan registró mil trescientos cincuenta y cuatro habitantes en ese censo. Su templo del siglo dieciocho destaca por su planta de cruz latina.",
+    "diagrama": "templo"
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "UN NOMBRE PROPIO EN EL MAPA",
+    "dato": "SAN MATEO INOPHIL",
+    "texto": "San Mateo Inophil aparece identificado en la cartografía de INEGI como un lugar distinto de Xaltianquisco. Ambos deben nombrarse por separado.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "OTRA COMUNIDAD DEL MUNICIPIO",
+    "dato": "XALTIANQUISCO",
+    "texto": "Xaltianquisco también forma parte del municipio. Su nombre se interpreta como en el mercado del arenal, una referencia de origen náhuatl.",
+    "diagrama": "mercado"
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LA CABECERA EN EL CENSO",
+    "dato": "2 102 HABITANTES",
+    "texto": "La localidad de Tzompantepec registró dos mil ciento dos habitantes en dos mil veinte. Ser cabecera no implica ser la localidad más poblada.",
+    "diagrama": "censo"
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL REGISTRO COMPLETO",
+    "dato": "12 LOCALIDADES",
+    "texto": "El Censo dos mil veinte registró doce localidades en el municipio. Esta cifra no debe confundirse con un número de presidencias de comunidad.",
+    "diagrama": "red"
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "NOMBRES QUE IMPORTAN",
+    "dato": "IDENTIDAD LOCAL",
+    "texto": "Cada localidad tiene nombre e identidad propios. Conocerlos permite hablar del municipio completo, sin reducir Tzompantepec únicamente a su cabecera.",
+    "diagrama": "mapa"
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿De qué comunidad de Tzompantepec eres y qué lugar de ella recomiendas conocer? Cuéntanos en los comentarios y representa a tu comunidad.",
+    "diagrama": "pregunta"
+  }
+]

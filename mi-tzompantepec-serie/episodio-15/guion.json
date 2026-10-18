@@ -2,81 +2,81 @@
   {
     "inicio": 0,
     "fin": 9,
-    "titulo": "EL TERRITORIO TAMBIÉN SE PUEDE LEER",
-    "dato": "LOMERÍOS",
-    "pantalla": "INEGI describe llanuras aluviales con lomerío.",
-    "narracion": "El paisaje de Tzompantepec incluye llanuras aluviales con lomerío. Esta descripción del relieve ayuda a reconocer las formas del terreno que ocupa el municipio."
+    "titulo": "DISTINTAS FORMAS DE TRABAJAR",
+    "dato": "ECONOMÍA LOCAL",
+    "texto": "La economía local combina actividades del campo, producción artesanal, comercio y servicios. No todas las comunidades tienen la misma distribución de ocupaciones.",
+    "diagrama": "mercado"
   },
   {
     "inicio": 9,
     "fin": 18,
-    "titulo": "UNA REGIÓN DE VOLCANES",
-    "dato": "EJE NEOVOLCÁNICO",
-    "pantalla": "La provincia fisiográfica del municipio.",
-    "narracion": "INEGI ubica al municipio en la provincia del Eje Neovolcánico y en la subprovincia de Lagos y Volcanes de Anáhuac, dentro de su descripción fisiográfica."
+    "titulo": "LA PRESENCIA DEL CAMPO",
+    "dato": "AGRICULTURA",
+    "texto": "En dos mil diez, INEGI registró uso agrícola en cincuenta y uno punto setenta y uno por ciento del territorio municipal.",
+    "diagrama": "campo"
   },
   {
     "inicio": 18,
     "fin": 27,
-    "titulo": "UN TERRITORIO DE TIERRAS ALTAS",
-    "dato": "2 400–2 600 m",
-    "pantalla": "Intervalo de altitud registrado en el compendio.",
-    "narracion": "El compendio registra altitudes entre dos mil cuatrocientos y dos mil seiscientos metros sobre el nivel del mar: un territorio de tierras altas."
+    "titulo": "LOS CULTIVOS DE LA RESEÑA LOCAL",
+    "dato": "MAÍZ Y LEGUMBRES",
+    "texto": "La descripción económica compartida menciona maíz, cebada, frijol y haba. Son referencias de su actividad agrícola, sin atribuirles cantidades de producción no documentadas.",
+    "diagrama": "maiz"
   },
   {
     "inicio": 27,
     "fin": 36,
-    "titulo": "UN CLIMA TEMPLADO",
-    "dato": "LLUVIAS EN VERANO",
-    "pantalla": "La caracterización es templada subhúmeda.",
-    "narracion": "El clima está clasificado como templado subhúmedo con lluvias en verano. Es una descripción de su comportamiento climático general, no del tiempo de un día."
+    "titulo": "OTRA ACTIVIDAD DEL ENTORNO RURAL",
+    "dato": "CRÍA DE ANIMALES",
+    "texto": "La reseña local también menciona cría de ganado ovino y bovino. La escala de cada unidad productiva puede variar entre familias y comunidades.",
+    "diagrama": "animal"
   },
   {
     "inicio": 36,
     "fin": 45,
-    "titulo": "EL INTERVALO DE TEMPERATURA",
-    "dato": "12–16 °C",
-    "pantalla": "Rango climático de la ficha geográfica.",
-    "narracion": "La ficha geográfica registra un rango de temperatura de doce a dieciséis grados Celsius, un dato que debe leerse como información climática del territorio."
+    "titulo": "UN OFICIO CON PRODUCTOS CONCRETOS",
+    "dato": "ALFARERÍA",
+    "texto": "Comales, ollas y objetos de barro bruñido o rojo cocido forman parte de la producción artesanal documentada para Tzompantepec.",
+    "diagrama": "barro"
   },
   {
     "inicio": 45,
     "fin": 54,
-    "titulo": "LA PRECIPITACIÓN",
-    "dato": "700–900 mm",
-    "pantalla": "Intervalo anual registrado por INEGI.",
-    "narracion": "El rango de precipitación que aparece en el compendio es de setecientos a novecientos milímetros, asociado con ese clima y su temporada de lluvias."
+    "titulo": "TRANSFORMAR EL BARRO",
+    "dato": "DEL BARRO AL OBJETO",
+    "texto": "Modelar, secar, decorar y cocer una pieza requiere trabajo y conocimiento. La alfarería conecta materias primas, elaboración y venta de productos.",
+    "diagrama": "olla"
   },
   {
     "inicio": 54,
     "fin": 63,
-    "titulo": "UNA REGIÓN HIDROLÓGICA MAYOR",
-    "dato": "BALSAS",
-    "pantalla": "La cuenca registrada es la del Atoyac.",
-    "narracion": "En hidrografía, el municipio se ubica en la región del Balsas y en la cuenca del río Atoyac, conexiones que trascienden los límites municipales."
+    "titulo": "LA ACTIVIDAD DEL COMERCIO",
+    "dato": "NEGOCIOS LOCALES",
+    "texto": "El comercio acerca alimentos, utensilios y otros productos a los habitantes. Comprar en negocios locales mantiene relaciones económicas dentro de la comunidad.",
+    "diagrama": "mercado"
   },
   {
     "inicio": 63,
     "fin": 72,
-    "titulo": "LA SUBCUENCA PREDOMINANTE",
-    "dato": "ZAHUAPAN",
-    "pantalla": "Es la principal subcuenca de la ficha.",
-    "narracion": "La subcuenca del río Zahuapan abarca prácticamente todo el municipio en la clasificación consultada, mostrando otra escala de conexión dentro de ese sistema hidrológico."
+    "titulo": "LOS SERVICIOS TAMBIÉN CUENTAN",
+    "dato": "TRANSPORTE Y ATENCIÓN",
+    "texto": "El transporte y otros servicios sostienen actividades cotidianas y conectan a las comunidades con sus lugares de estudio, trabajo y compra.",
+    "diagrama": "ruta"
   },
   {
     "inicio": 72,
     "fin": 81,
-    "titulo": "UNA CORRIENTE CON NOMBRE",
-    "dato": "AMOMOLOC",
-    "pantalla": "La ficha la identifica como intermitente.",
-    "narracion": "El compendio también identifica a Amomoloc como una corriente intermitente. Intermitente significa que su flujo no se mantiene de la misma manera durante todo el año."
+    "titulo": "LOS VÍNCULOS LABORALES CON LA REGIÓN",
+    "dato": "ENTORNO INDUSTRIAL",
+    "texto": "La cercanía con Apizaco y su entorno industrial forma parte de las conexiones laborales de Tzompantepec, junto al comercio y los oficios locales.",
+    "diagrama": "economia"
   },
   {
     "inicio": 81,
     "fin": 90,
-    "titulo": "MI TZOMPANTEPEC",
-    "dato": "ALTURA, RELIEVE Y AGUA",
-    "pantalla": "Tres claves para conocer nuestro paisaje.",
-    "narracion": "Altitud, lomeríos, lluvias y cuencas permiten comprender el territorio de Tzompantepec con datos concretos, además de reconocer la belleza de sus paisajes."
+    "titulo": "AHORA CUÉNTANOS TÚ",
+    "dato": "TE LEEMOS",
+    "texto": "¿Qué oficio, taller o negocio de Tzompantepec te gustaría que más personas conocieran? Recomiéndalo en los comentarios y cuéntanos qué lo distingue.",
+    "diagrama": "pregunta"
   }
 ]
