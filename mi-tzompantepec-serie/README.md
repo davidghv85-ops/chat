@@ -22,8 +22,8 @@
 | 15 | Agua, clima y paisaje | [Descargar](episodio-15/mi-tzompantepec-15-90s.mp4?raw=1) | [Texto](episodio-15/texto-de-corrido.txt) | [Descripción](episodio-15/descripcion.txt) |
 | 16 | El barro y las manos que crean | [Descargar](episodio-16/mi-tzompantepec-16-90s.mp4?raw=1) | [Texto](episodio-16/texto-de-corrido.txt) | [Descripción](episodio-16/descripcion.txt) |
 | 17 | Recordar en familia | [Descargar](episodio-17/mi-tzompantepec-17-90s.mp4?raw=1) | [Texto](episodio-17/texto-de-corrido.txt) | [Descripción](episodio-17/descripcion.txt) |
-| 18 | Lo que cuentan los abuelos | Pendiente de exportación | [Texto](episodio-18/texto-de-corrido.txt) | [Descripción](episodio-18/descripcion.txt) |
-| 19 | Personas que dejan huella | Pendiente de exportación | [Texto](episodio-19/texto-de-corrido.txt) | [Descripción](episodio-19/descripcion.txt) |
+| 18 | Lo que cuentan los abuelos | [Descargar](episodio-18/mi-tzompantepec-18-90s.mp4?raw=1) | [Texto](episodio-18/texto-de-corrido.txt) | [Descripción](episodio-18/descripcion.txt) |
+| 19 | Personas que dejan huella | [Descargar](episodio-19/mi-tzompantepec-19-90s.mp4?raw=1) | [Texto](episodio-19/texto-de-corrido.txt) | [Descripción](episodio-19/descripcion.txt) |
 | 20 | Tzompantepec de ayer a hoy | Pendiente de exportación | [Texto](episodio-20/texto-de-corrido.txt) | [Descripción](episodio-20/descripcion.txt) |
 
 Todas las descripciones comienzan con #MiTzompantepec #Tzompantepec y contienen 20 hashtags. No se atribuye una cifra de menciones ni un alcance garantizado.
