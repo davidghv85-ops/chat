@@ -4,6 +4,8 @@
 
 [Descargar todos los textos y descripciones](textos-y-descripciones.zip) · [Leerlos juntos](textos-y-descripciones.md) · [Fuentes y alcance](FUENTES-Y-ALCANCE.md)
 
+El [episodio 01](../mi-tzompantepec-01-90s.mp4?raw=1) y su [texto](../mi-tzompantepec-01-texto.txt) también están disponibles.
+
 | Episodio | Tema | Video MP4 | Texto de corrido | Descripción |
 |---|---|---|---|---|
 | 02 | El nombre que nos identifica | [Descargar](episodio-02/mi-tzompantepec-02-90s.mp4?raw=1) | [Texto](episodio-02/texto-de-corrido.txt) | [Descripción](episodio-02/descripcion.txt) |
@@ -24,7 +26,7 @@
 | 17 | Recordar en familia | [Descargar](episodio-17/mi-tzompantepec-17-90s.mp4?raw=1) | [Texto](episodio-17/texto-de-corrido.txt) | [Descripción](episodio-17/descripcion.txt) |
 | 18 | Lo que cuentan los abuelos | [Descargar](episodio-18/mi-tzompantepec-18-90s.mp4?raw=1) | [Texto](episodio-18/texto-de-corrido.txt) | [Descripción](episodio-18/descripcion.txt) |
 | 19 | Personas que dejan huella | [Descargar](episodio-19/mi-tzompantepec-19-90s.mp4?raw=1) | [Texto](episodio-19/texto-de-corrido.txt) | [Descripción](episodio-19/descripcion.txt) |
-| 20 | Tzompantepec de ayer a hoy | Pendiente de exportación | [Texto](episodio-20/texto-de-corrido.txt) | [Descripción](episodio-20/descripcion.txt) |
+| 20 | Tzompantepec de ayer a hoy | [Descargar](episodio-20/mi-tzompantepec-20-90s.mp4?raw=1) | [Texto](episodio-20/texto-de-corrido.txt) | [Descripción](episodio-20/descripcion.txt) |
 
 Todas las descripciones comienzan con #MiTzompantepec #Tzompantepec y contienen 20 hashtags. No se atribuye una cifra de menciones ni un alcance garantizado.
 

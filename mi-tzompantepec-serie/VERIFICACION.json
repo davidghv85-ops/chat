@@ -1,0 +1,217 @@
+{
+  "videos": 19,
+  "duracion_total_segundos": 1710,
+  "musica": false,
+  "voz": false,
+  "archivos": [
+    {
+      "episodio": 2,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-02/mi-tzompantepec-02-90s.mp4",
+      "sha256": "bc5bc7e391ecc0118eb1392dbcff5569fa02155ee5dec0a3ba8ab8148a006b96",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 3,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-03/mi-tzompantepec-03-90s.mp4",
+      "sha256": "02270fbb8c4c1f1217853d1893c164337370ca2c175cc38c8d6b4f978cc2ea7b",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 4,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-04/mi-tzompantepec-04-90s.mp4",
+      "sha256": "469a9a35e7268d1cfe3300347a6f74980cd7595a6b764973b1e642743b7889fd",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 5,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-05/mi-tzompantepec-05-90s.mp4",
+      "sha256": "38290b129cdfbdfe160663c212717011b8221f6f0209cc924bdccfa51cbceb0f",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 6,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-06/mi-tzompantepec-06-90s.mp4",
+      "sha256": "df524e67d40553ffbef22b09922b4b482f2a899d7c8a10511deba30f908fbcae",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 7,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-07/mi-tzompantepec-07-90s.mp4",
+      "sha256": "ce2c42151c1d44039da366c2cab61fe09b1e9a17a01cbcb15d2e3df04bcf1912",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 8,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-08/mi-tzompantepec-08-90s.mp4",
+      "sha256": "9c49df9dc64ee9bfc03efa8480af00804622659ecd7c6f1cccf85acc013e7b54",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 9,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-09/mi-tzompantepec-09-90s.mp4",
+      "sha256": "ba1ed5ce31db7d95e6d09c5106bd1d8827e87da3c18e1e81b6d5cc2578e52a4a",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 10,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-10/mi-tzompantepec-10-90s.mp4",
+      "sha256": "59bfb93dca0db6e03440072249de9af97f5b3593b1ab51dbb98630905b500da5",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 11,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-11/mi-tzompantepec-11-90s.mp4",
+      "sha256": "7a4a6e38206bef54289a833f753238f0c20257b53e5eb735d600302b35dc00bd",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 12,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-12/mi-tzompantepec-12-90s.mp4",
+      "sha256": "54fd7a58f6f0554b0080f12d32f0c1e5435def583d5c5766d05048b9ccd6d038",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 13,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-13/mi-tzompantepec-13-90s.mp4",
+      "sha256": "c6ee92d4dd31e34d4b88acc262f41973bc1c104336ff120dc0700402901c767f",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 14,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-14/mi-tzompantepec-14-90s.mp4",
+      "sha256": "f6228f6136e906ded639423f26cc156d9874bda7c8645397447744567f6ae39b",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 15,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-15/mi-tzompantepec-15-90s.mp4",
+      "sha256": "c57cb6229b016bc070cdd4d26e8c5777ae6b556db757a8796a89a647c570cb37",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 16,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-16/mi-tzompantepec-16-90s.mp4",
+      "sha256": "6e9bf0b5725158253c82d1df8050ca31d45e923b5691fb300372391856c03e89",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 17,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-17/mi-tzompantepec-17-90s.mp4",
+      "sha256": "b892e9bb0c328afd55277d39c6ed7a645836ff71ecc02bfc1fe135eb962575d9",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 18,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-18/mi-tzompantepec-18-90s.mp4",
+      "sha256": "db1c32a540573c50c7db2d476b9d6822c4aaa164a5131568c02a6774acf3a71a",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 19,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-19/mi-tzompantepec-19-90s.mp4",
+      "sha256": "49145ea331acd523de7529247e2eb893dc603add80ba832d4c257c580ef63f8d",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    },
+    {
+      "episodio": 20,
+      "duracion_segundos": 90,
+      "resolucion": "1080x1920",
+      "fps": 30,
+      "archivo": "episodio-20/mi-tzompantepec-20-90s.mp4",
+      "sha256": "554e4df5374f47758255992c13addd3d9768479a4e2fa5412b03bc9c02eb4ea3",
+      "reproduccion_completa": "correcta",
+      "revision_visual": "realizada",
+      "hashtags": 20
+    }
+  ]
+}
