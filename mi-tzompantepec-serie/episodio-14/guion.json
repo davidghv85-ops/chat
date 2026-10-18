@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "LA TIERRA Y LA MESA",
+    "dato": "MAÍZ",
+    "pantalla": "Dos dimensiones de la vida cultural.",
+    "narracion": "En Tzompantepec, el campo y la cocina se conectan con los utensilios de barro. El maíz permite recorrer esas relaciones entre territorio y cultura."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA SUPERFICIE AGRÍCOLA",
+    "dato": "51.71 %",
+    "pantalla": "Uso agrícola registrado por INEGI en 2010.",
+    "narracion": "El compendio geográfico de dos mil diez registró uso agrícola en el cincuenta y uno punto setenta y uno por ciento del territorio municipal."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "OTROS USOS DEL TERRITORIO",
+    "dato": "43.86 %",
+    "pantalla": "Zona urbana: 43.86 % · Bosque: 4.43 % (INEGI 2010).",
+    "narracion": "En esa misma información, la zona urbana representó el cuarenta y tres punto ochenta y seis por ciento, mientras el bosque ocupó el cuatro punto cuarenta y tres."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "LOS PAISAJES CAMBIAN",
+    "dato": "DATOS DE 2010",
+    "pantalla": "Son una referencia histórica, no una medición actual.",
+    "narracion": "Estos porcentajes describen el territorio de dos mil diez. Su fecha importa para comprender cómo convivían entonces el uso agrícola, la urbanización y la vegetación."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "EL MAÍZ EN LA COCINA REGISTRADA",
+    "dato": "ELOTE",
+    "pantalla": "La sopa de elote aparece en la gastronomía municipal.",
+    "narracion": "La presencia del maíz también se reconoce en la cocina documentada: la reseña gastronómica menciona sopa de elote y sopa de tortilla, entre otras preparaciones."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "UNA HISTORIA REGIONAL MUY ANTIGUA",
+    "dato": "MAÍZ + FRIJOL",
+    "pantalla": "La calabaza completa una base alimentaria temprana.",
+    "narracion": "Los estudios arqueobotánicos regionales de Amomoloc y Tetel identifican maíz, frijol y calabaza en la alimentación de antiguas comunidades agrícolas de Tlaxcala."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "DEL GRANO A LOS ALIMENTOS",
+    "dato": "EL MAÍZ SE TRANSFORMA",
+    "pantalla": "Tortillas y otros alimentos muestran sus usos.",
+    "narracion": "El maíz puede transformarse en distintos alimentos, y esa diversidad ayuda a entender por qué tiene un lugar importante en la historia alimentaria de México."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL COMAL DE BARRO",
+    "dato": "UN UTENSILIO LOCAL",
+    "pantalla": "La fuente registra su elaboración en Tzompantepec.",
+    "narracion": "Los comales de barro aparecen entre las artesanías elaboradas en Tzompantepec. Son utensilios que vinculan el trabajo artesanal con la preparación de alimentos."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "CAMPO, COCINA Y ALFARERÍA",
+    "dato": "TRES CONEXIONES",
+    "pantalla": "Territorio, alimentos y objetos de uso cotidiano.",
+    "narracion": "Así, el recorrido no termina en un cultivo: continúa en los alimentos y en los objetos que se utilizan para prepararlos en la vida cotidiana."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "UNA RELACIÓN VIVA",
+    "pantalla": "Conocer el campo también es conocer la cultura.",
+    "narracion": "La relación entre campo, cocina y alfarería ofrece una manera concreta de entender Tzompantepec: un territorio cuya cultura también se expresa alrededor de la comida."
+  }
+]

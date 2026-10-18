@@ -1,9 +1,5 @@
-# Episodio 11 · El carnaval y sus protagonistas
+# 11. Carnaval: huehues, cuadrillas y vestuario — Fuentes
 
-Consultar [fuentes y alcance de la serie](../FUENTES-Y-ALCANCE.md).
+- [Reseña secundaria: Municipio de Tzompantepec](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec)
 
-# Fuentes y alcance
-
-- archivo de investigación: wiki-muni.txt
-
-Las ilustraciones son recursos gráficos simbólicos, no fotografías documentales. INEGI 2010 y Censo 2020 se identifican por año; no se presentan como datos de 2026. Fuentes secundarias se distinguen de las primarias en el índice general.
+Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.

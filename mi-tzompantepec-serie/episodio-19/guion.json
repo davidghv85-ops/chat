@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "EN EL MERCADO DEL ARENAL",
+    "dato": "XALTIANQUISCO",
+    "pantalla": "Esa es la interpretación de su nombre.",
+    "narracion": "Xaltianquisco se interpreta como en el mercado del arenal. Su nombre reúne palabras náhuatl que relacionan un lugar con la arena y el mercado."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA PALABRA ARENA",
+    "dato": "XALLI",
+    "pantalla": "Uno de los elementos del topónimo.",
+    "narracion": "La reseña toponímica identifica xalli como arena. Es el primer elemento para comprender por qué aparece un arenal en la interpretación del nombre."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL MERCADO O TIANGUIS",
+    "dato": "TIANQUIZTLI",
+    "pantalla": "Una palabra que también está detrás de tianguis.",
+    "narracion": "Tianquiztli significa mercado o tianguis; co funciona como referencia de lugar. Juntos, estos elementos explican la interpretación del nombre de la comunidad."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UNA FECHA EN SU RESEÑA",
+    "dato": "18 OCT 1961",
+    "pantalla": "La ficha consultada sitúa ahí su fundación.",
+    "narracion": "La reseña de Xaltianquisco sitúa su fundación el dieciocho de octubre de mil novecientos sesenta y uno, una referencia de su historia local."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "SU POBLACIÓN EN 1980",
+    "dato": "451",
+    "pantalla": "Habitantes registrados en ese censo.",
+    "narracion": "La serie demográfica publicada registra cuatrocientos cincuenta y un habitantes en mil novecientos ochenta, un punto de comparación para observar su evolución posterior."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "AL CAMBIO DE SIGLO",
+    "dato": "630",
+    "pantalla": "Población registrada en el año 2000.",
+    "narracion": "Para el año dos mil, la misma serie registra seiscientos treinta habitantes. Las cifras muestran una comunidad que fue aumentando su población entre los censos."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "EL CENSO DE 2010",
+    "dato": "884",
+    "pantalla": "Habitantes registrados en 2010.",
+    "narracion": "En dos mil diez se registraron ochocientos ochenta y cuatro habitantes, una cifra mayor que la registrada diez años antes en la localidad."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL CENSO DE 2020",
+    "dato": "1 046",
+    "pantalla": "Habitantes registrados en 2020.",
+    "narracion": "En dos mil veinte, Xaltianquisco alcanzó mil cuarenta y seis habitantes. Esa cifra la colocó entre las localidades con mayor población del municipio."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "CUARENTA AÑOS DE COMPARACIÓN",
+    "dato": "451 → 1 046",
+    "pantalla": "De 1980 a 2020, más del doble.",
+    "narracion": "Al comparar mil novecientos ochenta con dos mil veinte, su población registrada fue más del doble. Los números describen esos censos, no una medición actual."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "EL MERCADO DEL ARENAL",
+    "pantalla": "Lengua y población forman parte de su historia.",
+    "narracion": "El mercado del arenal: un nombre con raíces náhuatl y una comunidad con su propia trayectoria. Así conocemos un poco más de Xaltianquisco en Mi Tzompantepec."
+  }
+]

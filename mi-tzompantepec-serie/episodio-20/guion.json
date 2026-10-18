@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "DOS CENSOS PARA COMPARAR",
+    "dato": "2010 → 2020",
+    "pantalla": "Diez años de diferencia entre los registros.",
+    "narracion": "Cerramos este recorrido con datos concretos de Tzompantepec: dos censos que permiten observar cambios en su población y conocer algunas características del municipio."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA POBLACIÓN DE 2010",
+    "dato": "14 611",
+    "pantalla": "Habitantes registrados en el Censo 2010.",
+    "narracion": "El Censo de dos mil diez registró catorce mil seiscientos once habitantes, la cifra que aparece en el compendio geográfico municipal de ese periodo."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LA POBLACIÓN DE 2020",
+    "dato": "18 006",
+    "pantalla": "Habitantes registrados en el Censo 2020.",
+    "narracion": "Diez años después, el Censo de dos mil veinte registró dieciocho mil seis habitantes. Ambas cifras corresponden a sus respectivos momentos censales."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "LA DIFERENCIA ENTRE LOS CENSOS",
+    "dato": "+3 395",
+    "pantalla": "Aumento entre 2010 y 2020.",
+    "narracion": "La diferencia entre esos registros es de tres mil trescientos noventa y cinco habitantes, aproximadamente un veintitrés por ciento respecto a la población de dos mil diez."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LA EDAD MEDIANA",
+    "dato": "28 AÑOS",
+    "pantalla": "La mitad tenía esa edad o menos en 2020.",
+    "narracion": "El panorama de dos mil veinte registra una edad mediana de veintiocho años: la mitad de la población tenía esa edad o menos."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "MUJERES Y HOMBRES",
+    "dato": "51.5 %",
+    "pantalla": "Mujeres: 51.5 % · Hombres: 48.5 % (Censo 2020).",
+    "narracion": "En ese mismo censo, las mujeres representaron el cincuenta y uno punto cinco por ciento y los hombres el cuarenta y ocho punto cinco por ciento."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LAS VIVIENDAS HABITADAS",
+    "dato": "5 078",
+    "pantalla": "Viviendas particulares habitadas registradas en 2020.",
+    "narracion": "El registro de dos mil veinte incluye cinco mil setenta y ocho viviendas particulares habitadas, con un promedio de tres punto cinco ocupantes por vivienda."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LAS LOCALIDADES DEL MUNICIPIO",
+    "dato": "12",
+    "pantalla": "San Andrés Ahuashuatepec era la más poblada.",
+    "narracion": "El municipio tenía doce localidades en ese censo. San Andrés Ahuashuatepec era la más poblada, mientras Tzompantepec mantenía la función de cabecera municipal."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "UN TERRITORIO COMPACTO",
+    "dato": "38.4 km²",
+    "pantalla": "468.9 habitantes por kilómetro cuadrado en 2020.",
+    "narracion": "La superficie registrada fue de treinta y ocho punto cuatro kilómetros cuadrados, con una densidad de cuatrocientos sesenta y ocho punto nueve habitantes por kilómetro cuadrado."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "HISTORIA + CULTURA",
+    "pantalla": "Nombres, comunidades y patrimonio de nuestro municipio.",
+    "narracion": "Detrás de las cifras están las personas y sus comunidades. Nuestro recorrido une toponimia, historia, fiestas, cocina, alfarería y patrimonio: esto es Mi Tzompantepec."
+  }
+]

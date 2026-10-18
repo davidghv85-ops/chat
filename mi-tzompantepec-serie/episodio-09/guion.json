@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "DOS TEMPLOS DEL SIGLO XVIII",
+    "dato": "SIGLO XVIII",
+    "pantalla": "San Andrés y San Juan.",
+    "narracion": "Los templos de San Andrés y San Juan están registrados como construcciones del siglo dieciocho. Sus materiales y formas permiten reconocer diferencias entre ambos."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "SAN ANDRÉS: AZULEJO Y LADRILLO",
+    "dato": "SAN ANDRÉS",
+    "pantalla": "La fachada combina distintos acabados.",
+    "narracion": "En San Andrés, la descripción destaca una fachada que combina aplanado, azulejo y ladrillo, mientras la piedra constituye una parte importante de su estructura."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "MUROS DE UN METRO",
+    "dato": "1 m",
+    "pantalla": "Espesor descrito para San Andrés.",
+    "narracion": "El compendio señala muros de piedra de un metro de espesor en San Andrés, un dato que ayuda a imaginar la solidez de la construcción."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "BÓVEDAS DE ARISTA",
+    "dato": "BÓVEDAS",
+    "pantalla": "La cubierta también se describe en piedra.",
+    "narracion": "Su cubierta abovedada se describe como bóveda de arista. Este tipo de solución produce aristas en el encuentro de superficies curvas de la cubierta."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "ORNAMENTACIÓN EN SAN ANDRÉS",
+    "dato": "YESERÍA",
+    "pantalla": "El baptisterio tiene ornamentación policromada.",
+    "narracion": "La fuente también menciona un baptisterio con yesería policromada, además de casa cural y atrio, mostrando que el conjunto reúne varios espacios relacionados."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "SAN JUAN: UNA CRUZ LATINA",
+    "dato": "SAN JUAN",
+    "pantalla": "La planta arquitectónica tiene esa forma.",
+    "narracion": "En San Juan, la planta arquitectónica adopta la forma de una cruz latina: una nave longitudinal atravesada por brazos transversales de menor desarrollo."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "MUROS DE NOVENTA CENTÍMETROS",
+    "dato": "90 cm",
+    "pantalla": "Espesor registrado para San Juan.",
+    "narracion": "Los muros de San Juan aparecen descritos en piedra, con un espesor de noventa centímetros; su cubierta también está identificada como una bóveda de arista."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LA ENTRADA Y EL CORO",
+    "dato": "ARCO DE MEDIO PUNTO",
+    "pantalla": "Una ventana superior ilumina el coro.",
+    "narracion": "La puerta de acceso de San Juan es de medio punto. Encima se ubica una ventana que permite iluminar el espacio del coro."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "UNA TORRE DE TRES CUERPOS",
+    "dato": "3 CUERPOS",
+    "pantalla": "La descripción distingue la torre de San Juan.",
+    "narracion": "La torre de San Juan se describe con tres cuerpos: los dos primeros cuadrangulares y el tercero rematado por una cúpula esférica con tambor."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "DOS HISTORIAS",
+    "pantalla": "Piedra, bóvedas y ornamentación del patrimonio local.",
+    "narracion": "Estos detalles hacen que cada templo tenga identidad propia. San Andrés y San Juan conservan referencias valiosas de la arquitectura histórica de nuestro municipio."
+  }
+]

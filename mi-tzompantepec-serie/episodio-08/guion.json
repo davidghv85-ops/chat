@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "SAN SALVADOR TZOMPANTEPEC",
+    "dato": "LA CABECERA",
+    "pantalla": "Un nombre presente en las reseñas culturales.",
+    "narracion": "La documentación cultural utiliza San Salvador Tzompantepec para referirse a la comunidad de la cabecera, donde destaca la parroquia del Divino Salvador."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UNA PARROQUIA DEL SIGLO XIX",
+    "dato": "SIGLO XIX",
+    "pantalla": "Datación del compendio municipal de INEGI.",
+    "narracion": "El compendio municipal de INEGI sitúa su construcción en el siglo diecinueve y describe una fachada con personajes bíblicos y pilastras estípites."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "¿QUÉ ES UNA PILASTRA ESTÍPITE?",
+    "dato": "ESTÍPITES",
+    "pantalla": "Un soporte con formas geométricas que se estrechan.",
+    "narracion": "Una pilastra estípite es un tipo de soporte decorativo que combina formas geométricas y se estrecha en parte de su desarrollo, produciendo un perfil característico."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "JESÚS RESPLANDECIENTE",
+    "dato": "EL SALVADOR",
+    "pantalla": "La fachada contiene una escena religiosa.",
+    "narracion": "La descripción de la fachada destaca a Jesús resplandeciente, acompañado por los apóstoles Pedro, Santiago y Juan, protagonistas del relato de la Transfiguración."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "DOS PROFETAS EN EL CONJUNTO",
+    "dato": "ELÍAS Y MOISÉS",
+    "pantalla": "También aparecen en la descripción de la fachada.",
+    "narracion": "Elías y Moisés completan ese grupo bíblico. Identificar a los personajes ayuda a comprender que la decoración del templo comunica una historia religiosa."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "OTROS DOS PERSONAJES",
+    "dato": "SANTA ANA",
+    "pantalla": "San Joaquín también forma parte del conjunto.",
+    "narracion": "La fuente menciona asimismo a Santa Ana y San Joaquín, padres de la Virgen María, como parte de la explicación artística de esta fachada."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "UNA PINTURA FECHADA EN 1681",
+    "dato": "ANTONIO CARO",
+    "pantalla": "La parroquia conserva una obra de ánimas.",
+    "narracion": "En el interior se registra un cuadro de ánimas realizado por Antonio Caro en mil seiscientos ochenta y uno, anterior a la datación de la construcción."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "OTRA OBRA, DE AUTOR ANÓNIMO",
+    "dato": "NIÑO JESÚS",
+    "pantalla": "Representado con sus padres y abuelos.",
+    "narracion": "También se menciona una pintura anónima que representa al Niño Jesús acompañado de sus padres y abuelos, otra referencia del arte conservado en la parroquia."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "EL ATRIO Y SU BARDA",
+    "dato": "ARCOS INVERTIDOS",
+    "pantalla": "Así describe la fuente el cerramiento del atrio.",
+    "narracion": "La reseña describe un atrio utilizado como cementerio y rodeado por una barda de arcos invertidos, elementos que forman parte de su caracterización histórica."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "ARTE Y MEMORIA",
+    "pantalla": "La cabecera guarda más que una fachada.",
+    "narracion": "Por su arquitectura, sus imágenes y las obras que conserva, el Divino Salvador es una referencia concreta para conocer la memoria artística de Tzompantepec."
+  }
+]

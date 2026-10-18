@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UN MUNICIPIO CON DOCE LOCALIDADES",
+    "dato": "12",
+    "pantalla": "Registro del Censo 2020.",
+    "narracion": "El Censo de dos mil veinte registró doce localidades y dieciocho mil seis habitantes en Tzompantepec. Hoy conoceremos cómo se distribuía esa población."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "LA LOCALIDAD MÁS POBLADA",
+    "dato": "12 628",
+    "pantalla": "San Andrés Ahuashuatepec, Censo 2020.",
+    "narracion": "San Andrés Ahuashuatepec tenía doce mil seiscientos veintiocho habitantes. Era la localidad más poblada y reunía aproximadamente siete de cada diez habitantes del municipio."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LA CABECERA MUNICIPAL",
+    "dato": "2 102",
+    "pantalla": "Tzompantepec, Censo 2020.",
+    "narracion": "La localidad de Tzompantepec, cabecera municipal, registró dos mil ciento dos habitantes. Ser cabecera no significa necesariamente ser el lugar más poblado."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "SAN JUAN QUETZALCOAPAN",
+    "dato": "1 354",
+    "pantalla": "Población registrada en 2020.",
+    "narracion": "San Juan Quetzalcoapan contaba con mil trescientos cincuenta y cuatro habitantes, la tercera cifra más alta de las localidades registradas en ese censo."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "XALTIANQUISCO",
+    "dato": "1 046",
+    "pantalla": "Población registrada en 2020.",
+    "narracion": "Xaltianquisco registró mil cuarenta y seis habitantes. Su nombre de origen náhuatl conserva una referencia al mercado y a un arenal."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "EL DIVINO SALVADOR",
+    "dato": "535",
+    "pantalla": "Otra localidad del registro censal.",
+    "narracion": "El Divino Salvador aparece con quinientos treinta y cinco habitantes en el listado censal, como una localidad diferenciada de la cabecera municipal."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "SAN MATEO INOPHIL",
+    "dato": "304",
+    "pantalla": "Población registrada en 2020.",
+    "narracion": "San Mateo Inophil registró trescientos cuatro habitantes. Su presencia también forma parte de la diversidad territorial y comunitaria que integra al municipio."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LAS LOCALIDADES MÁS PEQUEÑAS",
+    "dato": "CUAYECATL",
+    "pantalla": "También Mazapa y Amoltepec.",
+    "narracion": "El registro incluye localidades pequeñas como Cuayecatl, Mazapa y Amoltepec. Sus poblaciones eran reducidas, pero también contaban en el total municipal."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "TRES NOMBRES MÁS DEL REGISTRO",
+    "dato": "CRUZTITLA",
+    "pantalla": "La Providencia las Huertas y Lucas Flores.",
+    "narracion": "La Providencia las Huertas, Cruztitla y Lucas Flores completan las doce localidades del registro de dos mil veinte, junto con las mencionadas anteriormente."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "18 006",
+    "pantalla": "Muchas localidades forman un mismo municipio.",
+    "narracion": "Estas cifras corresponden al Censo de dos mil veinte. Juntas muestran que Tzompantepec es un municipio con comunidades de tamaños y trayectorias diferentes."
+  }
+]

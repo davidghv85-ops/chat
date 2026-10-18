@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "EL DIVINO SALVADOR",
+    "dato": "AGOSTO",
+    "pantalla": "Una celebración patronal de la cabecera.",
+    "narracion": "La fiesta del Divino Salvador es una de las celebraciones descritas para Tzompantepec. Su referencia principal está asociada con los primeros días de agosto."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "EL SEIS DE AGOSTO",
+    "dato": "6 AGO",
+    "pantalla": "Fecha vinculada con la Transfiguración de Jesús.",
+    "narracion": "El seis de agosto corresponde en el calendario católico a la Transfiguración de Jesús, el episodio que ayuda a comprender la advocación del Divino Salvador."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "UNA ESCENA EN LA FACHADA",
+    "dato": "TRANSFIGURACIÓN",
+    "pantalla": "Jesús, apóstoles y profetas.",
+    "narracion": "La fachada de la parroquia representa a Jesús resplandeciente con Pedro, Santiago, Juan, Elías y Moisés: personajes relacionados con esa misma escena religiosa."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "LAS MAÑANITAS DE MADRUGADA",
+    "dato": "5:00 h",
+    "pantalla": "Así lo describe la reseña de la festividad.",
+    "narracion": "La reseña municipal describe que las Mañanitas al patrono comienzan a las cinco de la mañana, una actividad que marca el inicio de la jornada."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "EL ACOMPAÑAMIENTO DEL MARIACHI",
+    "dato": "MARIACHI",
+    "pantalla": "La música aparece en la celebración descrita.",
+    "narracion": "En esa descripción, los habitantes cantan acompañados por un mariachi. La música forma parte de los honores dedicados a la imagen del patrono."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "UNA COMISIÓN SALE A RECIBIR LA IMAGEN",
+    "dato": "VOLUNTARIOS",
+    "pantalla": "La reseña menciona una recepción fuera del pueblo.",
+    "narracion": "La misma reseña menciona una comisión de voluntarios que sale a las afueras del pueblo para recibir una imagen de San Salvador."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "RECIBIR Y ACOMPAÑAR",
+    "dato": "LA IMAGEN",
+    "pantalla": "La recepción forma parte de los honores descritos.",
+    "narracion": "La recepción de la imagen y los honores dedicados al patrono muestran una dimensión comunitaria de la fiesta, además de su significado religioso."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL NOMBRE SAN SALVADOR",
+    "dato": "IDENTIDAD",
+    "pantalla": "La advocación también está en el nombre de la comunidad.",
+    "narracion": "Esta celebración ayuda a entender por qué el nombre San Salvador aparece junto a Tzompantepec en las descripciones culturales de la cabecera municipal."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LA CELEBRACIÓN TIENE SU PROGRAMA",
+    "dato": "CADA AÑO",
+    "pantalla": "Las actividades actuales pueden cambiar.",
+    "narracion": "Estos elementos proceden de una reseña de la festividad; el programa, los recorridos y los horarios actuales deben confirmarse en la convocatoria de cada año."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "UNA FIESTA LOCAL",
+    "pantalla": "Patrimonio religioso y participación comunitaria.",
+    "narracion": "Conocer la fecha, la advocación y las actividades descritas permite acercarnos con más claridad a una de las celebraciones patronales de Mi Tzompantepec."
+  }
+]

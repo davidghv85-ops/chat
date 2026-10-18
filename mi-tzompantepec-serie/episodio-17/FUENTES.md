@@ -1,9 +1,7 @@
-# Episodio 17 · Recordar en familia
+# 17. San Andrés Ahuashuatepec: el cerro de los ahuehuetes — Fuentes
 
-Consultar [fuentes y alcance de la serie](../FUENTES-Y-ALCANCE.md).
+- [Reseña secundaria: San Andrés Ahuashuatepec](https://es.wikipedia.org/wiki/San_Andr%C3%A9s_Ahuashuatepec)
+- [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf)
+- [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf)
 
-# Fuentes y alcance
-
-Episodio participativo sobre documentación de memoria e historias personales. No afirma una leyenda, biografía ni costumbre local específica no documentada.
-
-Las ilustraciones son recursos gráficos simbólicos, no fotografías documentales. INEGI 2010 y Censo 2020 se identifican por año; no se presentan como datos de 2026. Fuentes secundarias se distinguen de las primarias en el índice general.
+Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.

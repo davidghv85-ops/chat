@@ -1,9 +1,5 @@
-# Episodio 04 · Tzompantepec y los encuentros de 1519
+# 04. 1519: los enfrentamientos cerca de Tzompantepec — Fuentes
 
-Consultar [fuentes y alcance de la serie](../FUENTES-Y-ALCANCE.md).
+- [Síntesis secundaria: Batalla de Tlaxcala](https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala)
 
-# Fuentes y alcance
-
-- archivo de investigación: tema-1.txt
-
-Las ilustraciones son recursos gráficos simbólicos, no fotografías documentales. INEGI 2010 y Censo 2020 se identifican por año; no se presentan como datos de 2026. Fuentes secundarias se distinguen de las primarias en el índice general.
+Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.

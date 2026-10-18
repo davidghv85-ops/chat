@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "UNA ARTESANÍA DOCUMENTADA",
+    "dato": "BARRO",
+    "pantalla": "La alfarería forma parte del registro cultural municipal.",
+    "narracion": "El compendio municipal identifica la elaboración de objetos de barro entre las artesanías de San Salvador Tzompantepec, una actividad ligada a utensilios y piezas decoradas."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "EL BARRO ROJO COCIDO",
+    "dato": "BARRO ROJO",
+    "pantalla": "Una de las variedades mencionadas en la fuente.",
+    "narracion": "La descripción menciona el barro rojo cocido. El nombre se relaciona con el aspecto del material después de su transformación mediante la cocción."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL BARRO BRUÑIDO",
+    "dato": "BRUÑIDO",
+    "pantalla": "El pulido distingue este acabado.",
+    "narracion": "También se registra barro bruñido. Bruñir significa alisar y pulir una superficie, un trabajo que modifica su apariencia y permite reconocer un acabado diferente."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "OLLAS DE GRAN TAMAÑO",
+    "dato": "OLLAS",
+    "pantalla": "La fuente destaca piezas grandes.",
+    "narracion": "Las ollas grandes aparecen expresamente en el compendio, mostrando que la producción descrita no se limita a pequeños adornos, sino que incluye objetos de uso."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LA DECORACIÓN ESGRAFIADA",
+    "dato": "ESGRAFIADO",
+    "pantalla": "El dibujo se realiza mediante incisiones en la superficie.",
+    "narracion": "El esgrafiado es una forma de decoración que utiliza incisiones o raspados sobre la superficie. La reseña lo menciona entre los acabados de las ollas."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "LA DECORACIÓN PINTADA",
+    "dato": "PINTURA",
+    "pantalla": "Otra forma de decorar las piezas.",
+    "narracion": "La pintura aparece como otro recurso decorativo. Esgrafiar y pintar son procedimientos distintos, aunque ambos pueden dar identidad visual a una pieza de barro."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LOS COMALES",
+    "dato": "COMALES DE BARRO",
+    "pantalla": "Un producto destacado del municipio.",
+    "narracion": "Los comales de barro son uno de los productos destacados para Tzompantepec. Su forma sirve a la preparación de alimentos, especialmente sobre una superficie caliente."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "DE LA ALFARERÍA A LA COCINA",
+    "dato": "UN OBJETO ÚTIL",
+    "pantalla": "El utensilio conecta oficios y alimentos.",
+    "narracion": "El comal conecta el trabajo del barro con la cocina. Por eso, al hablar de alimentos también podemos hablar de los objetos que permiten prepararlos."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "NO TODAS LAS PIEZAS SON IGUALES",
+    "dato": "ACABADOS DIFERENTES",
+    "pantalla": "Barro rojo, bruñido, esgrafiado y pintado.",
+    "narracion": "Estas palabras describen materiales y acabados diferentes. Reconocerlas permite apreciar más detalles que limitarse a observar el tamaño o el color de una pieza."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "MANOS QUE TRANSFORMAN",
+    "pantalla": "Una tradición artesanal con productos reconocibles.",
+    "narracion": "Barro rojo, barro bruñido, ollas y comales: cuatro referencias concretas para reconocer la alfarería documentada de Tzompantepec y el trabajo que hay detrás de sus objetos."
+  }
+]

@@ -1,19 +1,46 @@
-# Fuentes y alcance editorial
-Consulta realizada el 17 de octubre de 2026. Se obtuvieron los documentos siguientes mediante sus destinos normales; las páginas que devolvieron errores no se presentan como leídas.
+# Fuentes y alcance — Edición corregida, episodios 02–20
 
-## Fuentes primarias
-- INEGI, Compendio de información geográfica municipal 2010, Tzompantepec (clave 29038): https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf . Incluye ubicación, clima, altitudes, hidrografía, uso del suelo y cuadros de monumentos, artesanías y gastronomía; estos últimos reproducen la Enciclopedia de INAFED. Datos identificados como de 2010, sin convertirlos en observaciones de 2026.
-- INEGI, Panorama sociodemográfico de Tlaxcala 2020, publicado 2021, ficha 038: https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf . Censo 2020: población 18,006, 12 localidades. Comparación con 14,611 habitantes del Censo 2010: diferencia 3,395.
+Consulta documental: octubre de 2026. Se separan los registros estadísticos y geográficos de INEGI de las reseñas secundarias. Las cifras de 2010 y 2020 llevan su año y no representan mediciones actuales.
 
-## Fuentes secundarias consultadas
-- https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec (versión HTML y extracción API). Nombres de localidades, carnaval, festividad y referencia de fundación en 1822. Se atribuye esta última a la reseña, no a un decreto que no se pudo consultar.
-- https://es.wikipedia.org/wiki/Historia_prehisp%C3%A1nica_de_Tlaxcala (API). Fase arqueológica Tzompantepec: contexto regional, sin convertirla en fecha de fundación municipal. No se fijan fechas del periodo por sus variaciones bibliográficas.
-- https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala (API). Enfrentamientos de 1519, menciones de las cercanías de Tzompantepec, discrepancias entre fuentes. No se reproducen cifras de combatientes ni reconstrucciones de precisión no contrastadas.
-- https://es.wikipedia.org/wiki/Tlaxcala_virreinal (API). Contexto regional, expresamente distinguido de afirmaciones locales.
+El significado «lugar para guardar los cráneos» se presenta como interpretación recogida por la reseña municipal. Explicar el tzompantli mesoamericano no implica afirmar que se haya excavado uno en el municipio. La fase arqueológica Tzompantepec describe una secuencia regional y no la fecha de fundación del municipio moderno.
 
-## Alcance que se conserva en los episodios
-No se afirma una traducción lingüística definitiva del topónimo con una sola fuente. Los episodios 17–19 son participativos: memoria familiar, documentación de relatos y reconocimiento de personas. No narran leyendas inventadas, no atribuyen prácticas universales a todas las familias ni publican biografías sin respaldo. Se necesitarían testimonios y documentos locales para desarrollar posteriormente esas historias particulares.
-Las escenografías SVG son simbólicas y no simulan fotografías históricas, retratos de personas reales ni fachadas fieles de monumentos. Los programas actuales de fiestas no se deducen de las reseñas antiguas.
+Las fechas administrativas de 1822 y 1995 y la fecha de fundación de Xaltianquisco son referencias de reseñas secundarias; no se afirma haber consultado sus decretos originales. Las interpretaciones toponímicas de las localidades se atribuyen a sus respectivas reseñas. No se incluyen leyendas inventadas ni biografías sin documentación.
 
-## Material entregado por el usuario
-Personaje original en once poses PNG, Downloads.rar. Se conserva su apariencia. Cada episodio tiene una escenografía específica y un archivo de efectos nuevo, sin música ni voz.
+La ficha de INEGI de 2010 reproduce descripciones culturales y monumentales de INAFED. Las características de templos, gastronomía y artesanías corresponden a ese registro; no constituyen una inspección física actual. Las celebraciones describen prácticas documentadas, no un programa anunciado para 2026. Los platillos no se presentan como exclusivos del municipio.
+
+Las ilustraciones y paneles son recursos simbólicos; no son fotografías históricas ni reconstrucciones arqueológicas verificadas. La música mencionada en los episodios de fiestas es parte del contenido cultural: las pistas de los videos contienen únicamente efectos, sin música ni narración.
+
+## Bibliografía
+
+- **I10**: [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf).
+- **I20**: [INEGI, Panorama sociodemográfico de Tlaxcala, Censo 2020, ficha 038](https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825198022.pdf).
+- **M**: [Reseña secundaria: Municipio de Tzompantepec](https://es.wikipedia.org/wiki/Municipio_de_Tzompantepec).
+- **T**: [Contexto mesoamericano: Tzompantli](https://es.wikipedia.org/wiki/Tzompantli).
+- **A**: [Síntesis secundaria: Historia prehispánica de Tlaxcala](https://es.wikipedia.org/wiki/Historia_prehisp%C3%A1nica_de_Tlaxcala).
+- **B**: [Síntesis secundaria: Batalla de Tlaxcala](https://es.wikipedia.org/wiki/Batalla_de_Tlaxcala).
+- **J**: [Reseña secundaria: Municipio de San José Teacalco](https://es.wikipedia.org/wiki/Municipio_de_San_Jos%C3%A9_Teacalco).
+- **SA**: [Reseña secundaria: San Andrés Ahuashuatepec](https://es.wikipedia.org/wiki/San_Andr%C3%A9s_Ahuashuatepec).
+- **SJ**: [Reseña secundaria: San Juan Quetzalcoapan](https://es.wikipedia.org/wiki/San_Juan_Quetzalcoapan).
+- **X**: [Reseña secundaria: Xaltianquisco](https://es.wikipedia.org/wiki/Xaltianquisco).
+
+## Asignación por episodio
+
+- **02. Tzompantepec: lugar para guardar los cráneos**: M, T, A, B.
+- **03. Las primeras aldeas y la fase Tzompantepec**: A.
+- **04. 1519: los enfrentamientos cerca de Tzompantepec**: B.
+- **05. 1681, siglo XVIII y siglo XIX: capas de historia**: I10.
+- **06. 1822 y 1995: el municipio y sus cambios**: I10, I20, M, J.
+- **07. Las doce localidades y sus habitantes**: I20, M.
+- **08. San Salvador y la parroquia del Divino Salvador**: I10.
+- **09. San Andrés y San Juan: arquitectura en piedra**: I10.
+- **10. Agosto y la fiesta del Divino Salvador**: M.
+- **11. Carnaval: huehues, cuadrillas y vestuario**: M.
+- **12. Los sonidos del carnaval y de la fiesta**: M.
+- **13. La cocina de Tzompantepec: sabores con nombre**: I10.
+- **14. Maíz, campo y comales de barro**: I10, A.
+- **15. El agua, el clima y los lomeríos**: I10.
+- **16. Barro rojo, bruñido y comales de Tzompantepec**: I10.
+- **17. San Andrés Ahuashuatepec: el cerro de los ahuehuetes**: SA, I10, I20.
+- **18. San Juan Quetzalcoapan: nombre, templo y población**: SJ, I10, I20.
+- **19. Xaltianquisco: en el mercado del arenal**: X.
+- **20. Tzompantepec en cifras: de 2010 a 2020**: I10, I20.

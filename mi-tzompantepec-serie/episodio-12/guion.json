@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "DOS CELEBRACIONES, DOS AMBIENTES",
+    "dato": "CARNAVAL + FIESTA",
+    "pantalla": "La reseña describe música en ambos momentos.",
+    "narracion": "En Tzompantepec, las reseñas describen música tanto en el carnaval como en la fiesta del Divino Salvador. Cada celebración construye un ambiente distinto."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "EL SONIDO DEL BAILE COLECTIVO",
+    "dato": "CUADRILLAS",
+    "pantalla": "La música acompaña una danza organizada en grupo.",
+    "narracion": "Durante el carnaval, la música acompaña a las cuadrillas. El movimiento de los danzantes se desarrolla dentro de una organización colectiva y un acompañamiento sonoro."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LAS CASTAÑUELAS TAMBIÉN CUENTAN",
+    "dato": "CASTAÑUELAS",
+    "pantalla": "Un accesorio del traje que produce sonido.",
+    "narracion": "Las castañuelas forman parte del vestuario descrito para los huehues. Además de ser visibles, producen sonidos que pueden acompañar los movimientos del baile."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "NO HAY UN ÚNICO GÉNERO",
+    "dato": "REPERTORIO DIVERSO",
+    "pantalla": "La reseña menciona canciones y melodías populares.",
+    "narracion": "El repertorio carnavalesco aparece descrito como diverso. Se mencionan canciones y melodías populares, incluidas piezas conocidas a través de la radio y la televisión."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LAS CINCO DE LA MAÑANA",
+    "dato": "5:00 h",
+    "pantalla": "El comienzo musical de la celebración patronal.",
+    "narracion": "En la fiesta del Divino Salvador, la reseña sitúa a las cinco de la mañana el canto de las Mañanitas dedicadas al patrono."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "UN MARIACHI ACOMPAÑA EL CANTO",
+    "dato": "MARIACHI",
+    "pantalla": "Así se describe el acompañamiento de las Mañanitas.",
+    "narracion": "Los habitantes aparecen acompañados por un mariachi en ese momento. A diferencia del baile carnavalesco, aquí la música forma parte de un homenaje religioso."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "UN NOMBRE Y UNA DEDICATORIA",
+    "dato": "EL DIVINO SALVADOR",
+    "pantalla": "El canto se dirige al patrono de la comunidad.",
+    "narracion": "La dedicatoria del canto es importante: se realiza en honor al Divino Salvador, relacionando la experiencia musical con la advocación de la cabecera."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "EL CUERPO Y LA VOZ",
+    "dato": "BAILAR + CANTAR",
+    "pantalla": "Dos formas de participar en las celebraciones.",
+    "narracion": "El carnaval pone en primer plano el baile en grupo; las Mañanitas reúnen el canto y su acompañamiento. Son dos formas diferentes de participación descritas."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "SONIDOS CON SU PROPIO CONTEXTO",
+    "dato": "MEMORIA SONORA",
+    "pantalla": "Danza y homenaje no son el mismo momento.",
+    "narracion": "Estas referencias permiten distinguir celebraciones y momentos concretos. No se trata de atribuir una sola música al municipio, sino de conocer sus usos documentados."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "CULTURA QUE SE ESCUCHA",
+    "pantalla": "Los sonidos también forman parte de nuestra identidad.",
+    "narracion": "Por eso, conocer Tzompantepec también significa reconocer cómo se relacionan la música, la danza, las voces y las celebraciones en la vida de su comunidad."
+  }
+]

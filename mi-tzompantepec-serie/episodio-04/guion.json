@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "SEPTIEMBRE DE 1519",
+    "dato": "1519",
+    "pantalla": "Antes de la alianza hubo enfrentamientos.",
+    "narracion": "En mil quinientos diecinueve, la llegada de Hernán Cortés a Tlaxcala no comenzó con una alianza inmediata: primero hubo resistencia y enfrentamientos."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "DOS PROTAGONISTAS DEL RELATO",
+    "dato": "CORTÉS",
+    "pantalla": "Xicoténcatl el Joven dirigió fuerzas tlaxcaltecas.",
+    "narracion": "Las narraciones de aquellos combates mencionan a Hernán Cortés y a Xicoténcatl el Joven, quien dirigió fuerzas tlaxcaltecas en la resistencia."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "EL DOS DE SEPTIEMBRE",
+    "dato": "2 SEP",
+    "pantalla": "Los relatos sitúan un combate cerca de Tzompantepec.",
+    "narracion": "La síntesis histórica consultada sitúa el dos de septiembre un enfrentamiento en las cercanías de Tzompantepec, durante la marcha de la expedición."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "UNA CAÑADA EN EL COMBATE",
+    "dato": "EL TERRENO",
+    "pantalla": "La cañada dificultó usar caballería y artillería.",
+    "narracion": "Según esos relatos, la persecución de una retirada condujo a la expedición hacia una cañada, un terreno difícil para maniobrar caballos y artillería."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "LA MANIOBRA TLAXCALTECA",
+    "dato": "RESISTENCIA",
+    "pantalla": "El espacio fue parte de la estrategia.",
+    "narracion": "La ubicación y las maniobras de las fuerzas tlaxcaltecas fueron decisivas para poner en dificultades a sus adversarios; el territorio también participó en la estrategia."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "NO SOLO PARTICIPARON ESPAÑOLES",
+    "dato": "ALIADOS INDÍGENAS",
+    "pantalla": "La expedición llevaba otros contingentes indígenas.",
+    "narracion": "La expedición de Cortés también incluía aliados indígenas. Por eso, aquel proceso no puede describirse únicamente como una lucha entre españoles e indígenas."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "LAS ARMAS ERAN DISTINTAS",
+    "dato": "CABALLOS",
+    "pantalla": "También artillería, ballestas y armas de fuego.",
+    "narracion": "Los relatos destacan diferencias de armamento: caballería, artillería, ballestas y armas de fuego formaban parte del equipo de la expedición de Cortés."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LAS CIFRAS NO COINCIDEN",
+    "dato": "DISTINTAS CRÓNICAS",
+    "pantalla": "Los autores ofrecieron cantidades diferentes de combatientes.",
+    "narracion": "Las crónicas discrepan sobre el número de combatientes. Lo importante aquí es reconocer la resistencia y la mención de Tzompantepec en esos acontecimientos."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "DESPUÉS LLEGÓ LA ALIANZA",
+    "dato": "UN PROCESO",
+    "pantalla": "Las relaciones cambiaron después de los combates.",
+    "narracion": "Después de los enfrentamientos se estableció la alianza entre los tlaxcaltecas y Cortés, una relación que sería fundamental en la conquista de México."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "MEMORIA DE 1519",
+    "pantalla": "Nuestro territorio aparece en una historia decisiva.",
+    "narracion": "Por eso, cuando hablamos de Tzompantepec, también hablamos de un territorio mencionado en uno de los procesos más importantes de la historia mexicana."
+  }
+]

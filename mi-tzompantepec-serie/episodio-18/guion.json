@@ -1,0 +1,82 @@
+[
+  {
+    "inicio": 0,
+    "fin": 9,
+    "titulo": "SAN JUAN QUETZALCOAPAN",
+    "dato": "QUETZALCOAPAN",
+    "pantalla": "Una comunidad del municipio de Tzompantepec.",
+    "narracion": "San Juan Quetzalcoapan forma parte del municipio de Tzompantepec. Su nombre, su población y su templo permiten acercarnos a una historia local con referencias concretas."
+  },
+  {
+    "inicio": 9,
+    "fin": 18,
+    "titulo": "UNA INTERPRETACIÓN DEL NOMBRE",
+    "dato": "QUETZALCÓATL",
+    "pantalla": "La reseña lo relaciona con esta deidad mesoamericana.",
+    "narracion": "La reseña toponímica consultada interpreta Quetzalcoapan como lugar del dios Quetzalcóatl, relacionando el nombre con esa figura de las creencias mesoamericanas."
+  },
+  {
+    "inicio": 18,
+    "fin": 27,
+    "titulo": "LA DENOMINACIÓN SAN JUAN",
+    "dato": "JUAN BAUTISTA",
+    "pantalla": "El nombre religioso acompaña a Quetzalcoapan.",
+    "narracion": "La parte San Juan hace referencia a Juan el Bautista, señalado como patrono de la localidad. Así conviven en su nombre dos referencias culturales diferentes."
+  },
+  {
+    "inicio": 27,
+    "fin": 36,
+    "titulo": "SU POBLACIÓN EN 2020",
+    "dato": "1 354",
+    "pantalla": "Habitantes registrados por el censo.",
+    "narracion": "En el Censo de dos mil veinte, San Juan Quetzalcoapan registró mil trescientos cincuenta y cuatro habitantes y estuvo entre las localidades más pobladas del municipio."
+  },
+  {
+    "inicio": 36,
+    "fin": 45,
+    "titulo": "UN TEMPLO DEL SIGLO XVIII",
+    "dato": "SIGLO XVIII",
+    "pantalla": "El compendio registra su antigüedad.",
+    "narracion": "Su templo está registrado como una construcción del siglo dieciocho. La descripción señala una fachada de aplanado y una estructura de piedra con cubierta abovedada."
+  },
+  {
+    "inicio": 45,
+    "fin": 54,
+    "titulo": "LA FORMA DE SU PLANTA",
+    "dato": "CRUZ LATINA",
+    "pantalla": "Una nave larga y brazos transversales.",
+    "narracion": "La planta arquitectónica tiene forma de cruz latina: una nave longitudinal y brazos transversales que organizan el espacio del edificio alrededor de esa figura."
+  },
+  {
+    "inicio": 54,
+    "fin": 63,
+    "titulo": "EL ESPESOR DE LOS MUROS",
+    "dato": "90 cm",
+    "pantalla": "La fuente describe muros de piedra.",
+    "narracion": "La descripción registra muros de piedra de noventa centímetros de espesor y una cubierta también de piedra, identificada como una bóveda de arista."
+  },
+  {
+    "inicio": 63,
+    "fin": 72,
+    "titulo": "LA PUERTA Y LA VENTANA",
+    "dato": "MEDIO PUNTO",
+    "pantalla": "Una ventana superior permite iluminar el coro.",
+    "narracion": "La entrada tiene arco de medio punto. Sobre ella se encuentra una ventana que ilumina el coro, un detalle que relaciona la fachada con el interior."
+  },
+  {
+    "inicio": 72,
+    "fin": 81,
+    "titulo": "LOS TRES CUERPOS DE LA TORRE",
+    "dato": "3",
+    "pantalla": "La parte superior culmina en una cúpula.",
+    "narracion": "La torre aparece descrita con tres cuerpos: dos de forma cuadrangular y un remate de cúpula esférica con tambor, además de elementos en sus esquinas."
+  },
+  {
+    "inicio": 81,
+    "fin": 90,
+    "titulo": "MI TZOMPANTEPEC",
+    "dato": "SAN JUAN",
+    "pantalla": "Un nombre y una arquitectura que merecen conocerse.",
+    "narracion": "La toponimia, los datos censales y estos detalles del templo permiten conocer mejor a San Juan Quetzalcoapan como parte de la diversidad de Mi Tzompantepec."
+  }
+]

@@ -1,10 +1,5 @@
-# Episodio 05 · Mirar el periodo virreinal
+# 05. 1681, siglo XVIII y siglo XIX: capas de historia — Fuentes
 
-Consultar [fuentes y alcance de la serie](../FUENTES-Y-ALCANCE.md).
+- [INEGI, Compendio de información geográfica municipal 2010, Tzompantepec 29038](https://www.inegi.org.mx/contenidos/app/mexicocifras/datos_geograficos/29/29038.pdf)
 
-# Fuentes y alcance
-
-- archivo de investigación: tema-2.txt
-- archivo de investigación: inegi-29038.txt
-
-Las ilustraciones son recursos gráficos simbólicos, no fotografías documentales. INEGI 2010 y Censo 2020 se identifican por año; no se presentan como datos de 2026. Fuentes secundarias se distinguen de las primarias en el índice general.
+Consultar también FUENTES-Y-ALCANCE.md para las fechas, interpretaciones y límites de las fuentes.
