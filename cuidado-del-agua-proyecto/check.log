@@ -1,0 +1,53 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check --at 4,12,19,27,35,42,49,56
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking agua-motion
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ◇ 0 errors, 0 warnings
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ⚠ t=8.25, 8.375s content_overlap p.institution.enter inside #s1 > div:nth-of-type(2) > div:nth-of-type(1) "El Gobierno con Sentido Humano de Tzompantepec, a través de la Coordinación d..." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=39.25, 39.375s content_overlap #s4 > div:nth-of-type(2) > h1:nth-of-type(1) inside #s5 > div:nth-of-type(2) > div:nth-of-type(1) "FUGA QUE VES, FUGA QUE REPARAS" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.375s content_overlap #s1 > div:nth-of-type(2) > div:nth-of-type(1) inside #s2 > div:nth-of-type(2) > div:nth-of-type(1) "Cada gota cuenta" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.375s content_overlap #s1 > div:nth-of-type(2) > h1:nth-of-type(1) inside #s2 > div:nth-of-type(2) > h1:nth-of-type(1) "CIERRA LA LLAVE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=23.375s content_overlap #s2 > div:nth-of-type(2) > h1:nth-of-type(1) inside #s3 > div:nth-of-type(2) > h1:nth-of-type(1) "MÁXIMO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.375s content_overlap #s3 > div:nth-of-type(2) > div:nth-of-type(1) inside #s4 > div:nth-of-type(2) > div:nth-of-type(1) "Aprovecha mejor cada lavado" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.375s content_overlap #s3 > div:nth-of-type(2) > h1:nth-of-type(1) inside #s4 > div:nth-of-type(2) > h1:nth-of-type(1) "CARGAS COMPLETAS" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=46.375s content_overlap #s5 > div:nth-of-type(2) > h1:nth-of-type(1) inside #s6 > div:nth-of-type(2) > h1:nth-of-type(1) "RIEGA A LA HORA CORRECTA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=52.375s content_overlap #s6 > div:nth-of-type(2) > h1:nth-of-type(1) inside #s7 > div:nth-of-type(2) > div:nth-of-type(1) "PEQUEÑOS CAMBIOS. GRAN DIFERENCIA." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  0 error(s), 2 warning(s), 7 info(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 31/31 text checks pass WCAG AA
+
+Snapshots
+  ◇ disabled
+
+◇  Check passed

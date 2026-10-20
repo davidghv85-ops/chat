@@ -1,0 +1,100 @@
+[
+  {
+    "start": 0,
+    "end": 8,
+    "theme": "dark",
+    "label": "Una invitación para ti",
+    "title": "CUIDEMOS EL AGUA",
+    "kind": "hero",
+    "intro": "El Gobierno con Sentido Humano de Tzompantepec, a través de la Coordinación de Ecología, te invita:",
+    "cards": [
+      "Campaña de Concientización sobre el Cuidado del Agua",
+      "Abierta a toda la ciudadanía"
+    ]
+  },
+  {
+    "start": 8,
+    "end": 16,
+    "theme": "dark",
+    "label": "Cada gota cuenta",
+    "title": "CIERRA LA LLAVE",
+    "kind": "tap",
+    "cards": [
+      "Al lavarte los dientes.",
+      "Al rasurarte o enjabonarte."
+    ],
+    "ribbon": "Ábrela solo cuando la necesites."
+  },
+  {
+    "start": 16,
+    "end": 23,
+    "theme": "light",
+    "label": "Duchas breves",
+    "title": "MÁXIMO",
+    "kind": "shower",
+    "big": "5 MIN",
+    "cards": [
+      "Cuida el agua en cada ducha."
+    ],
+    "ribbon": "Menos tiempo, más cuidado."
+  },
+  {
+    "start": 23,
+    "end": 32,
+    "theme": "dark",
+    "label": "Aprovecha mejor cada lavado",
+    "title": "CARGAS COMPLETAS",
+    "kind": "washer",
+    "cards": [
+      "Usa la lavadora solo con cargas completas.",
+      "Reutiliza el agua del enjuague para pisos o el sanitario."
+    ]
+  },
+  {
+    "start": 32,
+    "end": 39,
+    "theme": "light",
+    "label": "Revisa tu casa",
+    "title": "FUGA QUE VES, FUGA QUE REPARAS",
+    "kind": "leak",
+    "cards": [
+      "Detecta y repara cualquier fuga de inmediato."
+    ],
+    "ribbon": "Una pequeña fuga también desperdicia agua."
+  },
+  {
+    "start": 39,
+    "end": 46,
+    "theme": "dark",
+    "label": "Tus plantas también cuentan",
+    "title": "RIEGA A LA HORA CORRECTA",
+    "kind": "plant",
+    "cards": [
+      "Por la noche o muy temprano.",
+      "Así evitas que el agua se evapore."
+    ]
+  },
+  {
+    "start": 46,
+    "end": 52,
+    "theme": "dark",
+    "label": "Cada acción cuenta",
+    "title": "PEQUEÑOS CAMBIOS. GRAN DIFERENCIA.",
+    "kind": "together",
+    "cards": [
+      "Cuidar el agua es compromiso de todos."
+    ]
+  },
+  {
+    "start": 52,
+    "end": 60,
+    "theme": "yellow",
+    "label": "¡Súmate al compromiso!",
+    "title": "EL AGUA ES VIDA",
+    "kind": "hero",
+    "cards": [
+      "Y nos necesita a todos.",
+      "¿Qué hábito cambiarás hoy para cuidar el agua?"
+    ]
+  }
+]
