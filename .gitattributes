@@ -3,3 +3,5 @@ mi-tzompantepec-serie/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
 mi-tzompantepec-01-90s.mp4 filter=lfs diff=lfs merge=lfs -text
 MI-TZOMPANTEPEC-20-TEMAS-CON-PREGUNTAS.zip filter=lfs diff=lfs merge=lfs -text
 tzompantepec-cuidado-del-agua-60s.mp4 filter=lfs diff=lfs merge=lfs -text
+relleno-audio-proyecto/assets/cierrerelleno.wav filter=lfs diff=lfs merge=lfs -text
+BORRADOR-SIN-BANNER-relleno.mp4 filter=lfs diff=lfs merge=lfs -text
