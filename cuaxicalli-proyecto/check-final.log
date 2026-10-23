@@ -1,0 +1,72 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check --at 11,26,34 --snapshots
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking muertos-motion
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ◇ 0 errors, 0 warnings
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ⚠ t=3.991, 4.115s content_overlap #s0 > div:nth-of-type(3) > div:nth-of-type(1) inside #s1 > div:nth-of-type(3) > div:nth-of-type(1) "GOBIERNO CON SENTIDO HUMANO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=8.979, 9.104s content_overlap #s1 > div:nth-of-type(3) > div:nth-of-type(1) inside #s2 > div:nth-of-type(3) > div:nth-of-type(1) "DIRECCIÓN DE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=28.808, 28.933s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(1) inside #s6 > div:nth-of-type(3) > div:nth-of-type(1) "OBRA DE TEATRO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=28.808, 28.933s content_overlap #s5 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s6 > div:nth-of-type(3) > h1:nth-of-type(1) "LAS CUATRO CARAS DEL MIEDO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=32.051, 32.175s content_overlap #s6 > div:nth-of-type(3) > div:nth-of-type(1) inside #s7 > div:nth-of-type(3) > div:nth-of-type(1) "CULTURA PARA COMPARTIR" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=4.115s content_overlap #s0 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s1 > div:nth-of-type(3) > h1:nth-of-type(1) "TZOMPANTEPEC" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=9.104s content_overlap #s1 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s2 > div:nth-of-type(3) > h1:nth-of-type(1) "EDUCACIÓN, CULTURA, TURISMO Y JUVENTUD" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.088, 16.212s content_overlap #s2 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s3 > div:nth-of-type(3) > div:nth-of-type(1) "CUAXICALLI" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.212s content_overlap #s2 > div:nth-of-type(3) > div:nth-of-type(1) inside #s3 > div:nth-of-type(3) > div:nth-of-type(1) "GRAN FESTIVAL" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=19.704s content_overlap #s3 > div:nth-of-type(3) > div:nth-of-type(1) inside #s4 > div:nth-of-type(3) > div:nth-of-type(1) "PARTICIPA EN LOS CONCURSOS" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=19.704s content_overlap #s3 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s4 > div:nth-of-type(3) > h1:nth-of-type(1) "OFRENDAS Y DISFRACES" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=23.446s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(1) "PODRÁS GANAR" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=23.446s content_overlap #s4 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s5 > div:nth-of-type(3) > h1:nth-of-type(1) "PREMIOS EN EFECTIVO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.175s content_overlap #s6 > div:nth-of-type(3) > h1:nth-of-type(1) inside div.date-card.enter > strong:nth-of-type(1) "PARA TODAS LAS EDADES" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=37.288s content_overlap #s7 > div:nth-of-type(3) > div:nth-of-type(1) inside #s8 > div:nth-of-type(3) > div:nth-of-type(1) "APARTA LA FECHA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=37.288s content_overlap div.date-card.enter > strong:nth-of-type(1) inside #s8 > div:nth-of-type(3) > h1:nth-of-type(1) "28" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=37.288s content_overlap div.date-card.enter > span:nth-of-type(1) inside #s8 > div:nth-of-type(3) > h1:nth-of-type(1) "OCTUBRE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  0 error(s), 5 warning(s), 12 info(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 13/13 text checks pass WCAG AA
+
+Snapshots
+  ◇ 3 PNG(s) saved
+    snapshots/frame-00-at-11.0s.png
+    snapshots/frame-01-at-26.0s.png
+    snapshots/frame-02-at-34.0s.png
+
+◇  Check passed

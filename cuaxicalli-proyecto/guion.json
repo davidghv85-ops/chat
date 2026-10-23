@@ -1,0 +1,84 @@
+[
+  {
+    "a": 0,
+    "b": 3.7,
+    "kind": "intro",
+    "art": "intro",
+    "label": "GOBIERNO CON SENTIDO HUMANO",
+    "title": "TZOMPANTEPEC",
+    "body": ""
+  },
+  {
+    "a": 3.7,
+    "b": 8.7,
+    "kind": "institution",
+    "art": "skulls",
+    "label": "DIRECCIÓN DE",
+    "title": "EDUCACIÓN, CULTURA, TURISMO Y JUVENTUD",
+    "body": "Te invita a celebrar nuestras tradiciones."
+  },
+  {
+    "a": 8.7,
+    "b": 15.82,
+    "kind": "festival",
+    "art": "altar",
+    "label": "GRAN FESTIVAL",
+    "title": "CUAXICALLI",
+    "body": "Tradición y diversión."
+  },
+  {
+    "a": 15.82,
+    "b": 19.36,
+    "kind": "contest",
+    "art": "contest",
+    "label": "PARTICIPA EN LOS CONCURSOS",
+    "title": "OFRENDAS Y DISFRACES",
+    "body": "¡Demuestra tu creatividad!"
+  },
+  {
+    "a": 19.36,
+    "b": 23.14,
+    "kind": "prize",
+    "art": "prize",
+    "label": "PODRÁS GANAR",
+    "title": "PREMIOS EN EFECTIVO",
+    "body": "Participa y vive la tradición."
+  },
+  {
+    "a": 23.14,
+    "b": 28.5,
+    "kind": "theatre",
+    "art": "theatre",
+    "label": "OBRA DE TEATRO",
+    "title": "LAS CUATRO CARAS DEL MIEDO",
+    "body": "Una experiencia que no te puedes perder."
+  },
+  {
+    "a": 28.5,
+    "b": 31.82,
+    "kind": "family",
+    "art": "family",
+    "label": "CULTURA PARA COMPARTIR",
+    "title": "PARA TODAS LAS EDADES",
+    "body": "Tradición que nos reúne."
+  },
+  {
+    "a": 31.82,
+    "b": 36.98,
+    "kind": "date",
+    "art": "date",
+    "label": "APARTA LA FECHA",
+    "title": "28",
+    "body": "Presidencia Municipal",
+    "month": "OCTUBRE"
+  },
+  {
+    "a": 36.98,
+    "b": 40.530958,
+    "kind": "final",
+    "art": "final",
+    "label": "¡SÉ PARTE DE LA CELEBRACIÓN!",
+    "title": "¡TE ESPERAMOS!",
+    "body": "¿Ofrenda o disfraz? ¡Cuéntanos!"
+  }
+]

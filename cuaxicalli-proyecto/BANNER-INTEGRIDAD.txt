@@ -1,0 +1,3 @@
+Archivo institucional original: uno.png, extraído de uno.zip. 2053 × 279 RGBA.
+SHA-256: 80cc19bec02e7b45b3b4c82f5bce37c71ded8b411b7378f9951ea3940be88629
+Se usa intacto. Solo ajuste proporcional de presentación y traslación vertical de la intro a la franja inferior. Sin filtros, recortes, deformación, recoloración ni redibujo.
