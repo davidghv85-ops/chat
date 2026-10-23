@@ -1,0 +1,104 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check --at 5,29,42,50,54 --snapshots
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking motion-audio-23
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ⚠ duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    /workspace/motion-audio-23/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    /workspace/motion-audio-23/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ negative_z_index: `z-index: -1` paints the element behind its nearest stacking context's own content. With no stacking-context ancestor that context is the composition root itself, so an opaque background there hides it entirely: in the DOM, laid out, and absent from the picture. A transparent root leaves it visible. Siblings at `z-index: 0` or above are unaffected.
+    /workspace/motion-audio-23/index.html .intro-orbits t=0s
+    Fix: Give the element's parent a stacking context - `isolation: isolate` is the cheapest, and `transform`, `filter`, `opacity` below 1, `contain: paint` and `will-change` all work too. The negative-z child then paints above that parent's background and renders normally. Or express paint order through DOM order - an earlier sibling paints behind a later one - and raise the elements that should sit in front rather than lowering this one.
+  ⚠ negative_z_index: `z-index: -1` paints the element behind its nearest stacking context's own content. With no stacking-context ancestor that context is the composition root itself, so an opaque background there hides it entirely: in the DOM, laid out, and absent from the picture. A transparent root leaves it visible. Siblings at `z-index: 0` or above are unaffected.
+    /workspace/motion-audio-23/index.html .medical-ring t=0s
+    Fix: Give the element's parent a stacking context - `isolation: isolate` is the cheapest, and `transform`, `filter`, `opacity` below 1, `contain: paint` and `will-change` all work too. The negative-z child then paints above that parent's background and renders normally. Or express paint order through DOM order - an earlier sibling paints behind a later one - and raise the elements that should sit in front rather than lowering this one.
+  0 error(s), 4 warning(s), 0 info(s)
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ⚠ t=19.4, 19.528s content_overlap #s3 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s4 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) "PLANIFICACIÓN FAMILIAR" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=32.035, 32.163s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(1) "PRIMERA FECHA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=32.035, 32.163s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) "15" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=52.456, 52.584s content_overlap #s6 > div:nth-of-type(3) > div:nth-of-type(1) inside #s7 > div:nth-of-type(3) > div:nth-of-type(1) "CITA PREVIA INDISPENSABLE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=56.923, 57.051s content_overlap #s7 > div:nth-of-type(3) > div:nth-of-type(1) inside #s8 > div:nth-of-type(3) > div:nth-of-type(1) "TAMBIÉN PUEDES LLAMAR AL" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=73.388, 73.515s content_overlap #s10 > div:nth-of-type(3) > div:nth-of-type(1) inside #s11 > div:nth-of-type(3) > div:nth-of-type(1) "APOYO Y TRASLADO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=4.084s content_overlap #s0 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s1 > div:nth-of-type(3) > h1:nth-of-type(1) "SALUD Y BIENESTAR" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=10.849s content_overlap #s1 > div:nth-of-type(3) > div:nth-of-type(1) inside #s2 > div:nth-of-type(3) > div:nth-of-type(1) "COORDINACIÓN DE SALUD" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=10.849s content_overlap #s1 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s2 > div:nth-of-type(3) > h1:nth-of-type(1) "TRABAJAMOS EN CONJUNTO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=14.933s content_overlap #s2 > div:nth-of-type(3) > div:nth-of-type(1) inside #s3 > div:nth-of-type(3) > div:nth-of-type(1) "JORNADA DE SALUD" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=14.933s content_overlap #s2 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s3 > div:nth-of-type(3) > h1:nth-of-type(1) "VASECTOMÍA SIN BISTURÍ" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.035, 32.163s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > strong:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > span:nth-of-type(1) "NOVIEMBRE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.035, 32.163s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > span:nth-of-type(2) inside #s5 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > strong:nth-of-type(1) "2026" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.163s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > span:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > span:nth-of-type(1) "DOMINGO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=44.543s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(1) inside #s6 > div:nth-of-type(3) > div:nth-of-type(1) "SEGUNDA FECHA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=44.543s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) inside #s6 > div:nth-of-type(3) > h1:nth-of-type(1) "06" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=44.543s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > span:nth-of-type(1) inside #s6 > div:nth-of-type(3) > h1:nth-of-type(1) "DOMINGO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=44.543s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > strong:nth-of-type(1) inside #s6 > div:nth-of-type(3) > h1:nth-of-type(1) "DICIEMBRE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=52.584s content_overlap #s6 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s7 > div:nth-of-type(3) > h1:nth-of-type(1) "AGENDA TU CITA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=57.051s content_overlap #s7 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s8 > div:nth-of-type(3) > h1:nth-of-type(1) "AGENDA TU CITA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=62.794s content_overlap #s8 > div:nth-of-type(3) > div:nth-of-type(3) > span:nth-of-type(1) inside #s9 > div:nth-of-type(3) > div:nth-of-type(1) "✓" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=62.794s content_overlap #s8 > div:nth-of-type(3) > div:nth-of-type(3) > p:nth-of-type(1) inside #s9 > div:nth-of-type(3) > div:nth-of-type(1) "Baño corporal normal." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=62.922s content_overlap #s8 > div:nth-of-type(3) > div:nth-of-type(1) inside #s9 > div:nth-of-type(3) > div:nth-of-type(1) "ANTES DE ACUDIR" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=62.922s content_overlap #s8 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s9 > div:nth-of-type(3) > h1:nth-of-type(1) "PREPÁRATE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=66.113s content_overlap #s9 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s10 > div:nth-of-type(3) > h1:nth-of-type(1) "RASURADO PREVIO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=73.515s content_overlap #s10 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s11 > div:nth-of-type(3) > h1:nth-of-type(1) "ASISTE ACOMPAÑADO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  0 error(s), 6 warning(s), 20 info(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 30/30 text checks pass WCAG AA
+
+Snapshots
+  ◇ 5 PNG(s) saved
+    snapshots/frame-00-at-5.0s.png
+    snapshots/frame-01-at-29.0s.png
+    snapshots/frame-02-at-42.0s.png
+    snapshots/frame-03-at-50.0s.png
+    snapshots/frame-04-at-54.0s.png
+
+◇  Check passed

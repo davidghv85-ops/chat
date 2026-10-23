@@ -5,3 +5,6 @@ MI-TZOMPANTEPEC-20-TEMAS-CON-PREGUNTAS.zip filter=lfs diff=lfs merge=lfs -text
 tzompantepec-cuidado-del-agua-60s.mp4 filter=lfs diff=lfs merge=lfs -text
 relleno-audio-proyecto/assets/cierrerelleno.wav filter=lfs diff=lfs merge=lfs -text
 BORRADOR-SIN-BANNER-relleno.mp4 filter=lfs diff=lfs merge=lfs -text
+tzompantepec-vasectomia-con-audio.mp4 filter=lfs diff=lfs merge=lfs -text
+tzompantepec-separacion-residuos-con-audio.mp4 filter=lfs diff=lfs merge=lfs -text
+vasectomia-audio-proyecto/assets/audio-original.wav filter=lfs diff=lfs merge=lfs -text

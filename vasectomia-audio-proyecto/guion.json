@@ -1,0 +1,134 @@
+[
+  {
+    "a": 0,
+    "b": 3.68,
+    "kind": "intro",
+    "label": "TZOMPANTEPEC",
+    "title": "SALUD Y BIENESTAR",
+    "body": "",
+    "theme": "dark"
+  },
+  {
+    "a": 3.68,
+    "b": 10.5,
+    "kind": "institution",
+    "label": "COORDINACIÓN DE SALUD",
+    "title": "TRABAJAMOS EN CONJUNTO",
+    "body": "Jurisdicción Sanitaria N.º 2 · Huamantla",
+    "theme": "white"
+  },
+  {
+    "a": 10.5,
+    "b": 14.58,
+    "kind": "photo",
+    "label": "JORNADA DE SALUD",
+    "title": "VASECTOMÍA SIN BISTURÍ",
+    "body": "Una decisión informada.",
+    "image": "hero.png",
+    "theme": "dark"
+  },
+  {
+    "a": 14.58,
+    "b": 19.1,
+    "kind": "photo",
+    "label": "PARA HOMBRES",
+    "title": "PLANIFICACIÓN FAMILIAR",
+    "body": "Método permanente.",
+    "image": "hero.png",
+    "theme": "white"
+  },
+  {
+    "a": 19.1,
+    "b": 31.7,
+    "kind": "date",
+    "label": "PRIMERA FECHA",
+    "title": "15",
+    "month": "NOVIEMBRE",
+    "year": "2026",
+    "time": 24.32,
+    "place": 27.88,
+    "body": "Hospital General de Huamantla",
+    "image": "citas.png",
+    "theme": "dark"
+  },
+  {
+    "a": 31.7,
+    "b": 44.2,
+    "kind": "date",
+    "label": "SEGUNDA FECHA",
+    "title": "06",
+    "month": "DICIEMBRE",
+    "year": "2026",
+    "time": 36.82,
+    "place": 40.34,
+    "body": "Hospital General de Huamantla",
+    "image": "citas.png",
+    "theme": "white"
+  },
+  {
+    "a": 44.2,
+    "b": 52.14,
+    "kind": "phone",
+    "label": "CITA PREVIA INDISPENSABLE",
+    "title": "AGENDA TU CITA",
+    "phone": "247 106 1760",
+    "body": "Llama para agendar.",
+    "image": "citas.png",
+    "theme": "dark"
+  },
+  {
+    "a": 52.14,
+    "b": 56.64,
+    "kind": "phone",
+    "label": "TAMBIÉN PUEDES LLAMAR AL",
+    "title": "AGENDA TU CITA",
+    "phone": "246 128 9905",
+    "body": "Guarda este número.",
+    "image": "citas.png",
+    "theme": "yellow"
+  },
+  {
+    "a": 56.64,
+    "b": 62.58,
+    "kind": "prep",
+    "label": "ANTES DE ACUDIR",
+    "title": "PREPÁRATE",
+    "body": "Baño corporal normal.",
+    "extra": "Desayuno ligero.",
+    "extra_at": 60.64,
+    "image": "preparacion.png",
+    "theme": "white"
+  },
+  {
+    "a": 62.58,
+    "b": 65.7,
+    "kind": "photo",
+    "label": "PREPARACIÓN PREVIA",
+    "title": "RASURADO PREVIO",
+    "body": "Zona anterior del escroto.",
+    "image": "preparacion.png",
+    "theme": "dark"
+  },
+  {
+    "a": 65.7,
+    "b": 73.12,
+    "kind": "support",
+    "label": "APOYO Y TRASLADO",
+    "title": "ASISTE ACOMPAÑADO",
+    "body": "Para el traslado posterior al procedimiento.",
+    "extra": "Lleva un suspensorio.",
+    "extra_at": 70.46,
+    "image": "acompanamiento.png",
+    "theme": "dark"
+  },
+  {
+    "a": 73.12,
+    "b": 76.450958,
+    "kind": "closing",
+    "label": "TU SALUD Y BIENESTAR FAMILIAR",
+    "title": "DECIDE INFORMADO",
+    "body": "¿Ya agendaste tu cita?",
+    "image": "acompanamiento.png",
+    "theme": "white"
+  }
+]

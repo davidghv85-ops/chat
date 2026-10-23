@@ -1,0 +1,44 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'renders/tzompantepec-vasectomia-con-audio.mp4':
+  Metadata:
+    minor_version   : 512
+    major_brand     : isom
+    compatible_brands: isomiso2avc1mp41
+    hyperframes_version: 0.8.144
+    hyperframes_renderer: hyperframes
+    encoder         : Lavf61.7.103
+  Duration: 00:01:16.47, start: 0.000000, bitrate: 4239 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 4039 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 191 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+[Parsed_volumedetect_0 @ 0x557eb567cb00] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    minor_version   : 512
+    major_brand     : isom
+    compatible_brands: isomiso2avc1mp41
+    hyperframes_version: 0.8.144
+    hyperframes_renderer: hyperframes
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 pcm_s16le
+[Parsed_volumedetect_0 @ 0x7f96f8002400] n_samples: 7342080
+[Parsed_volumedetect_0 @ 0x7f96f8002400] mean_volume: -18.4 dB
+[Parsed_volumedetect_0 @ 0x7f96f8002400] max_volume: -1.3 dB
+[Parsed_volumedetect_0 @ 0x7f96f8002400] histogram_1db: 20
+[Parsed_volumedetect_0 @ 0x7f96f8002400] histogram_2db: 146
+[Parsed_volumedetect_0 @ 0x7f96f8002400] histogram_3db: 1119
+[Parsed_volumedetect_0 @ 0x7f96f8002400] histogram_4db: 3321
+[Parsed_volumedetect_0 @ 0x7f96f8002400] histogram_5db: 8882
+[out#0/null @ 0x557eb56d7680] video:0KiB audio:14340KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:01:16.48 bitrate=N/A speed=1.23e+03x    
