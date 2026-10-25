@@ -2,6 +2,10 @@
 
 Preferencia explícita del usuario, establecida el 24 de octubre de 2026 (hora de Ciudad de México), a partir de nueve videos de referencia. Aplicar en los próximos encargos de motion, junto con las indicaciones específicas de cada nuevo pedido. No supone rehacer videos anteriores sin que el usuario lo solicite.
 
+## Estilo específico: minimalista
+
+Cuando el usuario pida **«minimalista»** o aluda al ejemplo de WhatsApp de las **7.23.38 PM**, aplicar [MOTION-MINIMALISTA.md](MOTION-MINIMALISTA.md). Su dirección es cálida, limpia, con objetos de volumen, sombras suaves, espacio de respiración y cámara continua. Ese modo adapta el ritmo y la densidad de la guía general para el encargo concreto.
+
 ## Resultado visual que busca el usuario
 
 Motion ágil, llamativo y profesional: tipografía protagonista, objetos con volumen, paneles que se reorganizan, transformaciones de formas y continuidad entre escenas. La atención se conduce mediante encuadre, escala, aceleración y jerarquía. El contenido debe seguir siendo fácil de entender en un teléfono.
