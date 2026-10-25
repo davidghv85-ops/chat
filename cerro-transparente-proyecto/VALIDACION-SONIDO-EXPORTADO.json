@@ -1,0 +1,141 @@
+{
+  "audio_final": "AAC estéreo",
+  "voz_original_completa": true,
+  "mezcla_final_coincide_con_WAV": true,
+  "musica_inspiracion_prehispanica": true,
+  "alineacion": [
+    {
+      "ventana": [
+        10,
+        13
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.82178,
+      "correlacion_mezcla": 0.99817,
+      "correlacion_efectos_y_musica": 0.94777
+    },
+    {
+      "ventana": [
+        65.3,
+        68.3
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.82584,
+      "correlacion_mezcla": 0.99902,
+      "correlacion_efectos_y_musica": 0.98082
+    },
+    {
+      "ventana": [
+        99,
+        103
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.82909,
+      "correlacion_mezcla": 0.99936,
+      "correlacion_efectos_y_musica": 0.9837
+    },
+    {
+      "ventana": [
+        108,
+        112
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.82741,
+      "correlacion_mezcla": 0.99958,
+      "correlacion_efectos_y_musica": 0.9935
+    },
+    {
+      "ventana": [
+        158,
+        162
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.82704,
+      "correlacion_mezcla": 0.99955,
+      "correlacion_efectos_y_musica": 0.9909
+    },
+    {
+      "ventana": [
+        196,
+        199
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.82738,
+      "correlacion_mezcla": 0.99957,
+      "correlacion_efectos_y_musica": 0.97894
+    },
+    {
+      "ventana": [
+        250,
+        253
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.81723,
+      "correlacion_mezcla": 0.99846,
+      "correlacion_efectos_y_musica": 0.78306
+    },
+    {
+      "ventana": [
+        280,
+        283
+      ],
+      "desfase_ms": 0.0,
+      "ganancia_exportacion": 0.81998,
+      "correlacion_mezcla": 0.99868,
+      "correlacion_efectos_y_musica": 0.88789
+    }
+  ],
+  "musica_verificada_en_pausas": [
+    {
+      "segundo": 28.3,
+      "correlacion_musica": 0.99943,
+      "ganancia": 0.82986
+    },
+    {
+      "segundo": 51.6,
+      "correlacion_musica": 0.99952,
+      "ganancia": 0.8284
+    },
+    {
+      "segundo": 70.0,
+      "correlacion_musica": 0.97247,
+      "ganancia": 0.82325
+    },
+    {
+      "segundo": 81.6,
+      "correlacion_musica": 0.99762,
+      "ganancia": 0.82838
+    },
+    {
+      "segundo": 130.0,
+      "correlacion_musica": 0.99955,
+      "ganancia": 0.82992
+    },
+    {
+      "segundo": 163.3,
+      "correlacion_musica": 0.99783,
+      "ganancia": 0.83343
+    },
+    {
+      "segundo": 171.6,
+      "correlacion_musica": 0.99975,
+      "ganancia": 0.83119
+    },
+    {
+      "segundo": 201.6,
+      "correlacion_musica": 0.99971,
+      "ganancia": 0.82841
+    },
+    {
+      "segundo": 261.6,
+      "correlacion_musica": 0.99977,
+      "ganancia": 0.83004
+    },
+    {
+      "segundo": 270.0,
+      "correlacion_musica": 0.99978,
+      "ganancia": 0.82836
+    }
+  ],
+  "pico_exportado_dBFS": -2.73
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "id": 0,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_24 a.m-1-Photoroom.png",
+    "archivo": "variante-00.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1375
+    ],
+    "sha256": "87d7a86284f47e9f8d4f9698e285a41029b5786ae064c29e064de16917259c82"
+  },
+  {
+    "id": 1,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_25 a.m-2-Photoroom.png",
+    "archivo": "variante-01.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1402
+    ],
+    "sha256": "a6e92d7e53bb13ecd80c64964b4d677139acd8fac7442a2addad8d8be64a53bc"
+  },
+  {
+    "id": 2,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_27 a.m-3-Photoroom.png",
+    "archivo": "variante-02.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1367
+    ],
+    "sha256": "affc09446f702cb875c18c1c2f5da5b82541c0e2bf32ddd853b5d266395b704a"
+  },
+  {
+    "id": 3,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_28 a.m-4-Photoroom.png",
+    "archivo": "variante-03.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1351
+    ],
+    "sha256": "7dc37de2f324191b4e69d52ebc28c77cd0faf36806ac23ab6687af6b8499fd8e"
+  },
+  {
+    "id": 4,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_29 a.m-5-Photoroom.png",
+    "archivo": "variante-04.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1385
+    ],
+    "sha256": "2c632c18e440a56e4ce8adbf722576168203fbfefea20b707a3667aa77b4f411"
+  },
+  {
+    "id": 5,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_31 a.m-6-Photoroom.png",
+    "archivo": "variante-05.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1366
+    ],
+    "sha256": "f895ca7519e105cf8f5bcf17f4174d7fc79139c5fda0594f5652fa58e65f8079"
+  },
+  {
+    "id": 6,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_34 a.m-1-Photoroom.png",
+    "archivo": "variante-06.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1353
+    ],
+    "sha256": "bea06d9c382c7b79bc0ceaee45c8c1e07a25916f1da78d8264c3cfaa95aa0807"
+  },
+  {
+    "id": 7,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_37 a.m-2-Photoroom.png",
+    "archivo": "variante-07.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1402
+    ],
+    "sha256": "1a8aad33012aff797dfad5eddf14f51bd3c8752f192c0095225a0fa039a33a2b"
+  },
+  {
+    "id": 8,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_38 a.m-3-Photoroom.png",
+    "archivo": "variante-08.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1402
+    ],
+    "sha256": "8191b096585601482320958dccf0e4b28a851ea9da1c0cbd0e1ccc30634617f8"
+  },
+  {
+    "id": 9,
+    "original": "Imagen de ChatGPT 13 oct 2026, 08_56_41 a.m-5-Photoroom.png",
+    "archivo": "variante-09.png",
+    "dimensiones": [
+      1122,
+      1402
+    ],
+    "modo": "RGBA",
+    "bbox": [
+      0,
+      0,
+      1122,
+      1402
+    ],
+    "sha256": "6aa84d32426e63773cdd0319d0df157c24d7d48cc33fb486ba55fb622fafc3b0"
+  }
+]

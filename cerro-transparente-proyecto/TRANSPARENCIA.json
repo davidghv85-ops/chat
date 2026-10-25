@@ -1,0 +1,410 @@
+[
+  {
+    "id": 0,
+    "archivo": "escena-00.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.375,
+    "bbox_contenido": [
+      0,
+      29,
+      1238,
+      1254
+    ],
+    "sha256": "f49d3104c340cf306897ff2d3f49aecbf47f144729e08dbd60c9e0283c15ed41"
+  },
+  {
+    "id": 1,
+    "archivo": "alfareros.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.286,
+    "bbox_contenido": [
+      0,
+      55,
+      1254,
+      1254
+    ],
+    "sha256": "e26013310d3355a7a410bbd35e49680ac80faea44220d78a8f0dae411a4e24fa"
+  },
+  {
+    "id": 2,
+    "archivo": "cerro.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.309,
+    "bbox_contenido": [
+      0,
+      32,
+      1236,
+      1220
+    ],
+    "sha256": "4c2c48c7c69bf8ab144737dac13e6aeb05087c381c4f8286c2fa28e22825201f"
+  },
+  {
+    "id": 3,
+    "archivo": "escena-03.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.285,
+    "bbox_contenido": [
+      0,
+      29,
+      1244,
+      1254
+    ],
+    "sha256": "3da5d1d99f4169fc2096cf5b260eaef6c9201cd0254f4c2944ffc1f0f46836d4"
+  },
+  {
+    "id": 4,
+    "archivo": "espanoles.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.28,
+    "bbox_contenido": [
+      25,
+      19,
+      1234,
+      1192
+    ],
+    "sha256": "4245caa5d1fbb5451ed931110475c7c5183fde4b84a318218da84a72f0504022"
+  },
+  {
+    "id": 5,
+    "archivo": "guerreros-detalle.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.318,
+    "bbox_contenido": [
+      0,
+      11,
+      1253,
+      1226
+    ],
+    "sha256": "8a8d3616218560944b2aa8b448c4ecb4d47192a10bc4eed58aff9801d47d085d"
+  },
+  {
+    "id": 6,
+    "archivo": "escena-06.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.31,
+    "bbox_contenido": [
+      0,
+      21,
+      1254,
+      1254
+    ],
+    "sha256": "61a85328e9df8ad67ee203c91a57fe7ea73c4c8857b8ad62db75306a67ecd9d0"
+  },
+  {
+    "id": 7,
+    "archivo": "comandante.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.275,
+    "bbox_contenido": [
+      0,
+      4,
+      1238,
+      1209
+    ],
+    "sha256": "962f67a459a9b363ad9453b220f3e543dae2981b740b35a8d741df5e716d5c29"
+  },
+  {
+    "id": 8,
+    "archivo": "escena-08.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.291,
+    "bbox_contenido": [
+      0,
+      25,
+      1254,
+      1220
+    ],
+    "sha256": "1502e8507da0a112bcf9f957cd06377e014178c3416fa26c207279f1d8d894de"
+  },
+  {
+    "id": 9,
+    "archivo": "bergantines.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.371,
+    "bbox_contenido": [
+      0,
+      19,
+      1234,
+      1234
+    ],
+    "sha256": "a085263cec4a6b9a677f2fcbb31cdcb9d9e9176909c8f8fec1d5b84869990efe"
+  },
+  {
+    "id": 10,
+    "archivo": "escena-10.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.292,
+    "bbox_contenido": [
+      0,
+      4,
+      1254,
+      1228
+    ],
+    "sha256": "b7d3577b5d020a847bd44b044c07622678b8ec624770e3640c36d77b1d7336ee"
+  },
+  {
+    "id": 11,
+    "archivo": "escena-11.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.299,
+    "bbox_contenido": [
+      0,
+      4,
+      1246,
+      1234
+    ],
+    "sha256": "cab69f1f6e834c926b22171e720c7bd685b8aeea67c212251967d6d00893614b"
+  },
+  {
+    "id": 12,
+    "archivo": "escena-12.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.303,
+    "bbox_contenido": [
+      0,
+      21,
+      1240,
+      1254
+    ],
+    "sha256": "08b79d07880634318ef043a2bdff0d4cad2a7e8861c7141bd00031d5a371bbbc"
+  },
+  {
+    "id": 13,
+    "archivo": "escena-13.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.307,
+    "bbox_contenido": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "sha256": "ce5f4031de408d83721347583f2032b97e93d86ebe46e54a6c569f65749ca94d"
+  },
+  {
+    "id": 14,
+    "archivo": "escena-14.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.293,
+    "bbox_contenido": [
+      0,
+      3,
+      1253,
+      1254
+    ],
+    "sha256": "b7a270695791d7cbb85120fcfbaa62d82f21406cd59952b1b9d7bfe9b0bd9635"
+  },
+  {
+    "id": 15,
+    "archivo": "escena-15.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.305,
+    "bbox_contenido": [
+      0,
+      0,
+      1241,
+      1224
+    ],
+    "sha256": "6b48bc0f697642a4e74ea11237e49b8dcf58743e20046a780844f5ed1c5f7bbf"
+  },
+  {
+    "id": 16,
+    "archivo": "escena-16.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.325,
+    "bbox_contenido": [
+      0,
+      0,
+      1238,
+      1254
+    ],
+    "sha256": "ca4ae78a55ddbe0eb5e76730a25bde394ba7607025dcd1acc8ecd5e52fc178eb"
+  },
+  {
+    "id": 17,
+    "archivo": "escena-17.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.322,
+    "bbox_contenido": [
+      0,
+      0,
+      1234,
+      1228
+    ],
+    "sha256": "e99fd6fdac544528eb23a4667ca561fe12112df87982c8cc41f5ef0428b3f5d1"
+  },
+  {
+    "id": 18,
+    "archivo": "escena-18.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.301,
+    "bbox_contenido": [
+      0,
+      21,
+      1253,
+      1254
+    ],
+    "sha256": "bdcf5acee43d096f9fd5bf74d0df14f1e0ca83a7ce9775b4eb03010701fbad1f"
+  },
+  {
+    "id": 19,
+    "archivo": "escena-19.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.285,
+    "bbox_contenido": [
+      0,
+      20,
+      1254,
+      1224
+    ],
+    "sha256": "541c8a13b3131641af83377f0073cdcf154cbdb156a12d817462f324c04360e0"
+  },
+  {
+    "id": 20,
+    "archivo": "nuevo-barro.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.256,
+    "bbox_contenido": [
+      0,
+      15,
+      1254,
+      1224
+    ],
+    "sha256": "d978fdb3b121262d37eb4ec70bfe6359c3b60a56c5bf65272ee9ee31b872e3cc"
+  },
+  {
+    "id": 21,
+    "archivo": "nuevo-batalla.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.34,
+    "bbox_contenido": [
+      0,
+      4,
+      1253,
+      1220
+    ],
+    "sha256": "11df1f349d74d3138479c9e4214d554416a06944bcf9bc44e35a0a16e5fde5d3"
+  },
+  {
+    "id": 22,
+    "archivo": "nuevo-alianza.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.335,
+    "bbox_contenido": [
+      0,
+      0,
+      1250,
+      1226
+    ],
+    "sha256": "51191fb3dc3107a0d0cf81a7905cdcbe3d1d25713b61faa86463b5a5ee40b4c4"
+  },
+  {
+    "id": 23,
+    "archivo": "nuevo-herencia.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "fraccion_transparente": 0.27,
+    "bbox_contenido": [
+      0,
+      9,
+      1254,
+      1254
+    ],
+    "sha256": "fd07bc1adf2c1b36be4a2b5f4473cb7dab406c80614e0e337e44a1a3823a7af8"
+  }
+]
