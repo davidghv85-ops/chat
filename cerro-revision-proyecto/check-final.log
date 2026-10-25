@@ -1,0 +1,451 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking cerro-revision
+[HyperFrames] Not inlining "assets/ilustraciones/primer-plano.png" (2.3 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alfareros.png" (2.8 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/bergantines.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/bergantines.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/bergantines.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alfareros.png" (2.8 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/primer-plano.png" (2.3 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alfareros.png" (2.8 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/espanoles.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/comandante.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/bergantines.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/bergantines.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/bergantines.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/guerreros-detalle.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alianzas.png" (3.1 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/alfareros.png" (2.8 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/origenes.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/memoria.png" (3.2 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/cerro.png" (2.9 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/ilustraciones/legado.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ⚠ duplicate_media_discovery_risk: Detected 13 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 22 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 16 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 12 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 8 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 11 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 9 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ composition_file_too_large: This HTML composition file has 583 lines. Smaller sub-compositions are easier to read, iterate on, and diff.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Split coherent scenes or layers into separate .html files under compositions/, then mount them from the parent with data-composition-src so each file stays small enough to inspect, revise, and validate independently.
+  ⚠ composition_heavy_overlay_count_high: This composition has 282 elements carrying "heavy overlay" CSS (filter:blur, radial-gradient, or clip-path). Field signal: a composition with ~40 such elements — including opacity:0 / visibility:hidden ones — captures solid-black for the first ~half of the render, recovering near the end. Reproduces identically via drawElement, forced screenshot capture, and snapshot, so the capture layer itself is the offender (not encoder/mux). Independent of duration. Presence alone matters; only display:none elements are excluded here.
+    /workspace/cerro-revision/index.html [data-composition-id] t=0s
+    Fix: Split coherent scenes / transitions into separate .html files under compositions/ and concat the pieces (FFmpeg or the runtime's slideshow) so each capture only sees a small subset of heavy overlays at once. Even hidden overlays (opacity:0 / visibility:hidden) contribute — either remove truly unused ones from the source or scope them into their own per-transition sub-composition. If an overlay is genuinely inert for the whole clip, use display:none so it never enters the render tree. Field ref ts=1784040753 (#hyperframes-cli-feedback).
+  0 error(s), 10 warning(s), 0 info(s)
+
+Runtime
+  ⚠ console_warning: GSAP target #s1 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s3 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s4 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s6 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s7 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s9 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s10 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s12 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s17 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s18 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s20 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s21 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s23 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s25 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s27 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s29 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s31 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s32 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s34 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s35 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s37 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s38 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s40 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s41 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s43 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s44 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s48 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s56 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s58 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s59 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s61 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s63 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s64 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s66 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s68 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s69 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s71 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s72 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s74 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s75 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s77 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s79 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s81 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s82 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s83 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s85 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s86 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s88 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target #s90 p not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: GSAP target  not found. https://gsap.com
+    index.html [data-composition-id] t=0s
+  0 error(s), 98 warning(s), 0 info(s)
+
+Layout
+  ◇ 0 issues across 9 sample(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 7/7 text checks pass WCAG AA
+
+Snapshots
+  ◇ disabled
+
+◇  Check passed

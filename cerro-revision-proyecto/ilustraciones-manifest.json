@@ -1,0 +1,50 @@
+[
+  {
+    "archivo": "assets/ilustraciones/alfareros.png",
+    "sha256": "1c9fc5d0e449d6459ebad77b260d4050eb3a744133819b023ad6428b0b06389e"
+  },
+  {
+    "archivo": "assets/ilustraciones/alianzas.png",
+    "sha256": "4dde7ea553e72c99c1c48498d18c3a295a615fa2528d411f23bd285d29f0562b"
+  },
+  {
+    "archivo": "assets/ilustraciones/bergantines.png",
+    "sha256": "25aa90ee216c5029739941ed54407cc1bc36940e6d18a51ccbae5c4e10b44456"
+  },
+  {
+    "archivo": "assets/ilustraciones/cerro.png",
+    "sha256": "4ee6410a492f8e743150f2ea62d79522283a0564798c185d9d9e51a58ef34db4"
+  },
+  {
+    "archivo": "assets/ilustraciones/comandante.png",
+    "sha256": "804c07056e777c070994dc267a7455262431fda3759b7bffbf66fbc085f5770c"
+  },
+  {
+    "archivo": "assets/ilustraciones/espanoles.png",
+    "sha256": "43eeaa98e4eb587c93f8759cfe2529613f7077c00989c66e2560aa1059568897"
+  },
+  {
+    "archivo": "assets/ilustraciones/guerreros-detalle.png",
+    "sha256": "3ac4b118dca0a183d7fc94371ba290359ea16e96193d64bc786bc13d12908e80"
+  },
+  {
+    "archivo": "assets/ilustraciones/guerreros.png",
+    "sha256": "ac6078a23daea0ba2290e5d168d51a0586fa307baca4664975527a5bd5cc9a10"
+  },
+  {
+    "archivo": "assets/ilustraciones/legado.png",
+    "sha256": "d21762b9030bb2be6c3045f5612ff3ef4c0f3714f09621f716163a5048195611"
+  },
+  {
+    "archivo": "assets/ilustraciones/memoria.png",
+    "sha256": "940cafecf642bad63be871c5f84e55870fbcbbfb45572bc856b85ae19e7dbff2"
+  },
+  {
+    "archivo": "assets/ilustraciones/origenes.png",
+    "sha256": "d724bc77e36ba3192f1fa48a5251bd2dc3c4f32f18474ce9b7965f75c133534c"
+  },
+  {
+    "archivo": "assets/ilustraciones/primer-plano.png",
+    "sha256": "ef1f70744ec43199aadd689c8350e434672b140fc173c7b9c06acf820f8809e8"
+  }
+]

@@ -43,3 +43,10 @@ Los rangos de tiempo se decidirán según la nueva narración y la complejidad d
 - Mantener las preferencias generales sobre formato vertical, claridad, audio sincronizado y diferencias de diseño y sonido entre encargos.
 
 **Resumen de producción:** luz cálida y suave, paleta contenida, objetos con volumen, tipografía sobria, espacio de respiración y una cámara que conecta las escenas mediante un recorrido continuo.
+
+## Corrección expresa del usuario · Cerro del Chichimecateútli
+El usuario rechazó la primera entrega con plataformas blancas, casas cúbicas y símbolos genéricos: la calidad no correspondía a las miniaturas detalladas de la referencia y faltaban alfareros, guerreros y españoles durante sus pasajes narrados. Para futuras piezas, la presencia de volumen por sí sola no cumple el estilo. Exigir materiales, figuras, vestuario y escenarios claramente reconocibles, con acciones alusivas al audio. No sustituir personajes históricos por un escudo o un libro repetido.
+
+El usuario también pide muchos más cambios y movimiento: para esta narración se adoptan planos de aproximadamente 2–4 segundos, alternando vista general, acción y detalle. Mantener ese criterio cuando la lectura lo permita; ninguna idea debe quedar detenida durante varios segundos sin desarrollo visual. Revisar rostros y figuras en los acercamientos para que no queden cortados.
+
+Los efectos deben ser perceptibles, incluidos los de transición. Cuando se narren combates, agregar batalla tenue y pertinente —pasos, caballos, escudos— por debajo de la voz; no limitar toda la mezcla a un aire casi inaudible. Diseñar sonidos propios para barro, papel, madera y otros actos representados. Mantener el audio original completo y la claridad de la narración.

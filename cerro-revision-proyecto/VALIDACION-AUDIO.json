@@ -1,0 +1,45 @@
+{
+  "duracion_original": 293.45095833333335,
+  "duracion_mezcla": 293.45095833333335,
+  "narracion_completa": true,
+  "sin_musica": true,
+  "alineacion": [
+    {
+      "segundo": 10,
+      "desfase_ms": 0.0,
+      "correlacion": 0.97498
+    },
+    {
+      "segundo": 66,
+      "desfase_ms": 0.0,
+      "correlacion": 0.98511
+    },
+    {
+      "segundo": 108,
+      "desfase_ms": 0.0,
+      "correlacion": 0.98604
+    },
+    {
+      "segundo": 160,
+      "desfase_ms": 0.0,
+      "correlacion": 0.98902
+    },
+    {
+      "segundo": 196,
+      "desfase_ms": 0.0,
+      "correlacion": 0.99355
+    },
+    {
+      "segundo": 250,
+      "desfase_ms": 0.0,
+      "correlacion": 0.99216
+    },
+    {
+      "segundo": 280,
+      "desfase_ms": 0.0,
+      "correlacion": 0.98351
+    }
+  ],
+  "pico_mezcla_dBFS": -1.01,
+  "RMS_efectos_dBFS": -32.36
+}
