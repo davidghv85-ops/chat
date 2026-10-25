@@ -1,0 +1,69 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check --at 20,48,145,196,290 --snapshots
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking cerro-minimalista
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ⚠ duplicate_media_discovery_risk: Detected 9 matching img entries with the same source/start/duration.
+    /workspace/cerro-minimalista/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 18 matching img entries with the same source/start/duration.
+    /workspace/cerro-minimalista/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 12 matching img entries with the same source/start/duration.
+    /workspace/cerro-minimalista/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 6 matching img entries with the same source/start/duration.
+    /workspace/cerro-minimalista/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 7 matching img entries with the same source/start/duration.
+    /workspace/cerro-minimalista/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ negative_z_index: `z-index: -1` paints the element behind its nearest stacking context's own content. With no stacking-context ancestor that context is the composition root itself, so an opaque background there hides it entirely: in the DOM, laid out, and absent from the picture. A transparent root leaves it visible. Siblings at `z-index: 0` or above are unaffected.
+    /workspace/cerro-minimalista/index.html .contact-shadow t=0s
+    Fix: Give the element's parent a stacking context - `isolation: isolate` is the cheapest, and `transform`, `filter`, `opacity` below 1, `contain: paint` and `will-change` all work too. The negative-z child then paints above that parent's background and renders normally. Or express paint order through DOM order - an earlier sibling paints behind a later one - and raise the elements that should sit in front rather than lowering this one.
+  ⚠ composition_heavy_overlay_count_high: This composition has 36 elements carrying "heavy overlay" CSS (filter:blur, radial-gradient, or clip-path). Field signal: a composition with ~40 such elements — including opacity:0 / visibility:hidden ones — captures solid-black for the first ~half of the render, recovering near the end. Reproduces identically via drawElement, forced screenshot capture, and snapshot, so the capture layer itself is the offender (not encoder/mux). Independent of duration. Presence alone matters; only display:none elements are excluded here.
+    /workspace/cerro-minimalista/index.html [data-composition-id] t=0s
+    Fix: Split coherent scenes / transitions into separate .html files under compositions/ and concat the pieces (FFmpeg or the runtime's slideshow) so each capture only sees a small subset of heavy overlays at once. Even hidden overlays (opacity:0 / visibility:hidden) contribute — either remove truly unused ones from the source or scope them into their own per-transition sub-composition. If an overlay is genuinely inert for the whole clip, use display:none so it never enters the render tree. Field ref ts=1784040753 (#hyperframes-cli-feedback).
+  0 error(s), 7 warning(s), 0 info(s)
+
+Runtime
+  ⚠ console_warning: [.WebGL-0x256400130400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+    index.html [data-composition-id] t=0s
+  ⚠ console_warning: [.WebGL-0x256400130400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+    index.html [data-composition-id] t=20s
+  ⚠ console_warning: [.WebGL-0x256400130400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+    index.html [data-composition-id] t=48s
+  ⚠ console_warning: [.WebGL-0x256400130400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+    index.html [data-composition-id] t=145s
+  0 error(s), 4 warning(s), 0 info(s)
+
+Layout
+  ◇ 0 issues across 5 sample(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 11/11 text checks pass WCAG AA
+
+Snapshots
+  ◇ 5 PNG(s) saved
+    snapshots/frame-00-at-20.0s.png
+    snapshots/frame-01-at-48.0s.png
+    snapshots/frame-02-at-145.0s.png
+    snapshots/frame-03-at-196.0s.png
+    snapshots/frame-04-at-290.0s.png
+
+◇  Check passed

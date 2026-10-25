@@ -1,0 +1,326 @@
+[
+  {
+    "a": 0,
+    "b": 4.44,
+    "kind": "hill",
+    "title": "La tierra guarda su historia",
+    "body": "Mi Tzompantepec",
+    "p1": 0,
+    "p2": 3
+  },
+  {
+    "a": 4.44,
+    "b": 14.66,
+    "kind": "hill",
+    "title": "Memoria de generaciones",
+    "body": "Un paisaje que conserva el pasado",
+    "p1": 8,
+    "p2": 6
+  },
+  {
+    "a": 14.66,
+    "b": 25.9,
+    "kind": "hill",
+    "title": "Cerro del Chichimecateútli",
+    "body": "Tzompantepec · Tlaxcala",
+    "p1": 0,
+    "p2": 3
+  },
+  {
+    "a": 25.9,
+    "b": 37.32,
+    "kind": "book",
+    "title": "Señor chichimeca",
+    "body": "Raíz náhuatl · Autoridad y liderazgo",
+    "p1": 7,
+    "p2": 4
+  },
+  {
+    "a": 37.32,
+    "b": 42.28,
+    "kind": "hourglass",
+    "title": "Antes de la llegada española",
+    "body": "Una historia que viene de lejos",
+    "p1": 6,
+    "p2": 3
+  },
+  {
+    "a": 42.28,
+    "b": 52.08,
+    "kind": "farm",
+    "title": "1700–1200",
+    "body": "a. n. e. · Primeras comunidades agrícolas",
+    "p1": 4,
+    "p2": 8
+  },
+  {
+    "a": 52.08,
+    "b": 61.96,
+    "kind": "farm",
+    "title": "Fase Tzompantepec",
+    "body": "Un periodo temprano del desarrollo cultural",
+    "p1": 3,
+    "p2": 7
+  },
+  {
+    "a": 61.96,
+    "b": 71.68,
+    "kind": "pots",
+    "title": "Cultivar, crear, habitar",
+    "body": "Agricultura · Cerámica · Comunidad",
+    "p1": 0,
+    "p2": 3
+  },
+  {
+    "a": 71.68,
+    "b": 79.24,
+    "kind": "hourglass",
+    "title": "Un territorio decisivo",
+    "body": "Acontecimientos que transformaron Mesoamérica",
+    "p1": 6,
+    "p2": 8
+  },
+  {
+    "a": 79.24,
+    "b": 83.14,
+    "kind": "timeline",
+    "title": "1519",
+    "body": "El encuentro de distintos pueblos",
+    "p1": 4,
+    "p2": 3
+  },
+  {
+    "a": 83.14,
+    "b": 90.68,
+    "kind": "route",
+    "title": "Rumbo a Tenochtitlan",
+    "body": "Hernán Cortés, soldados y aliados indígenas",
+    "p1": 8,
+    "p2": 3
+  },
+  {
+    "a": 90.68,
+    "b": 98.1,
+    "kind": "shield",
+    "title": "Tlaxcala y su autonomía",
+    "body": "Frente al poder mexica",
+    "p1": 5,
+    "p2": 4
+  },
+  {
+    "a": 98.1,
+    "b": 105.94,
+    "kind": "shield",
+    "title": "Primero, resistencia",
+    "body": "Los primeros encuentros con los recién llegados",
+    "p1": 4,
+    "p2": 5
+  },
+  {
+    "a": 105.94,
+    "b": 113.96,
+    "kind": "shield",
+    "title": "Septiembre de 1519",
+    "body": "Enfrentamientos en territorio tlaxcalteca",
+    "p1": 8,
+    "p2": 3
+  },
+  {
+    "a": 113.96,
+    "b": 123.08,
+    "kind": "hill",
+    "title": "La memoria del cerro",
+    "body": "Tradición histórica y alrededores",
+    "p1": 0,
+    "p2": 6
+  },
+  {
+    "a": 123.08,
+    "b": 131.3,
+    "kind": "book",
+    "title": "Un protagonista indígena",
+    "body": "Su importancia trascendió Tlaxcala",
+    "p1": 3,
+    "p2": 4
+  },
+  {
+    "a": 131.3,
+    "b": 141.32,
+    "kind": "shield",
+    "title": "Chichimecateútli",
+    "body": "Autoridad y liderazgo militar",
+    "p1": 5,
+    "p2": 8
+  },
+  {
+    "a": 141.32,
+    "b": 149.06,
+    "kind": "people",
+    "title": "≈10 000",
+    "body": "Combatientes · Un contingente aproximado",
+    "p1": 7,
+    "p2": 4
+  },
+  {
+    "a": 149.06,
+    "b": 155.64,
+    "kind": "book",
+    "title": "Tradición regional",
+    "body": "Memoria de los enfrentamientos",
+    "p1": 6,
+    "p2": 3
+  },
+  {
+    "a": 155.64,
+    "b": 164.4,
+    "kind": "horse",
+    "title": "El relato de Pedro Morón",
+    "body": "Tradición regional de las jornadas de guerra",
+    "p1": 6,
+    "p2": 4
+  },
+  {
+    "a": 164.4,
+    "b": 172.42,
+    "kind": "research",
+    "title": "Memoria e investigación",
+    "body": "Los detalles del episodio siguen en estudio",
+    "p1": 7,
+    "p2": 6
+  },
+  {
+    "a": 172.42,
+    "b": 177.42,
+    "kind": "hourglass",
+    "title": "La historia continuó",
+    "body": "Más allá de aquellos combates",
+    "p1": 8,
+    "p2": 3
+  },
+  {
+    "a": 177.42,
+    "b": 186.2,
+    "kind": "bridge",
+    "title": "Negociaciones y alianzas",
+    "body": "Decisiones entre distintos pueblos",
+    "p1": 3,
+    "p2": 0
+  },
+  {
+    "a": 186.2,
+    "b": 192.54,
+    "kind": "shield",
+    "title": "Capitán de la coalición",
+    "body": "Chichimecateútli",
+    "p1": 5,
+    "p2": 4
+  },
+  {
+    "a": 192.54,
+    "b": 202.3,
+    "kind": "boat",
+    "title": "Los bergantines",
+    "body": "Organización y traslado de materiales",
+    "p1": 8,
+    "p2": 3
+  },
+  {
+    "a": 202.3,
+    "b": 207.72,
+    "kind": "people",
+    "title": "Trabajo colectivo",
+    "body": "Miles de trabajadores y guerreros tlaxcaltecas",
+    "p1": 0,
+    "p2": 3
+  },
+  {
+    "a": 207.72,
+    "b": 217.68,
+    "kind": "boat",
+    "title": "1521",
+    "body": "La caída de México-Tenochtitlan",
+    "p1": 5,
+    "p2": 8
+  },
+  {
+    "a": 217.68,
+    "b": 227.84,
+    "kind": "bridge",
+    "title": "Una época compleja",
+    "body": "Resistencia · Decisiones · Alianzas",
+    "p1": 6,
+    "p2": 3
+  },
+  {
+    "a": 227.84,
+    "b": 237.78,
+    "kind": "village",
+    "title": "Siglos de transformación",
+    "body": "Nuevas instituciones, tradiciones y formas de vida",
+    "p1": 0,
+    "p2": 8
+  },
+  {
+    "a": 237.78,
+    "b": 243.88,
+    "kind": "tree",
+    "title": "Raíces que permanecen",
+    "body": "Memoria indígena en el territorio",
+    "p1": 7,
+    "p2": 5
+  },
+  {
+    "a": 243.88,
+    "b": 249.92,
+    "kind": "hill",
+    "title": "Mucho más que un cerro",
+    "body": "Un símbolo de identidad",
+    "p1": 3,
+    "p2": 0
+  },
+  {
+    "a": 249.92,
+    "b": 262,
+    "kind": "memory",
+    "title": "Generaciones conectadas",
+    "body": "Comunidades, guerreros y memoria",
+    "p1": 8,
+    "p2": 3
+  },
+  {
+    "a": 262,
+    "b": 271.06,
+    "kind": "book",
+    "title": "Conocer para valorar",
+    "body": "Reconocer · Comprender · Valorar",
+    "p1": 6,
+    "p2": 7
+  },
+  {
+    "a": 271.06,
+    "b": 278.12,
+    "kind": "hill",
+    "title": "Testigo del tiempo",
+    "body": "El cerro permanece",
+    "p1": 5,
+    "p2": 0
+  },
+  {
+    "a": 278.12,
+    "b": 282.98,
+    "kind": "route",
+    "title": "Más que un lugar en el mapa",
+    "body": "Tzompantepec",
+    "p1": 8,
+    "p2": 3
+  },
+  {
+    "a": 282.98,
+    "b": 293.450958,
+    "kind": "village",
+    "title": "Mi Tzompantepec",
+    "body": "Una historia para transmitir",
+    "p1": 2,
+    "p2": 9
+  }
+]

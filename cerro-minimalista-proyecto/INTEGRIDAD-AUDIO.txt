@@ -1,0 +1,4 @@
+Audio original del usuario, completo y sin recortes ni aceleración.
+Archivo: EL_CERRO_DEL_CHICHIMECATEÚTLI.wav
+Duración: 293.450958 s
+SHA-256: 84d92da88398c5a0d2802174638c7da1a4f497b4df6b3776e3715bfabb606bba
