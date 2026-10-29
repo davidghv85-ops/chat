@@ -1,0 +1,16 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "duration": "33.877000"
+  },
+  "audio": {
+    "correlacion_con_mezcla_voz_original_y_efectos": 0.99941244864837,
+    "pico_dBFS": -1.6630221605300903
+  },
+  "banner_sha256": "80cc19bec02e7b45b3b4c82f5bce37c71ded8b411b7378f9951ea3940be88629",
+  "observacion_layout": "Aviso del analizador en 27.356–27.48s: superposición intencional de escenas durante el barrido de 0.38s. Fotogramas asentados revisados sin texto recortado.",
+  "escenas": 9,
+  "animaciones": 99
+}

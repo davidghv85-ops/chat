@@ -1,0 +1,53 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking motion-oct29
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ◇ 0 errors, 0 warnings
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ⚠ t=27.356, 27.48s content_overlap #s6 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s7 > div:nth-of-type(3) > div:nth-of-type(1) "Un horario para cuidarte" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=5.996s content_overlap #s1 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s2 > div:nth-of-type(3) > h1:nth-of-type(1) "Te invita" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=10.118s content_overlap #s2 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s3 > div:nth-of-type(3) > div:nth-of-type(1) "VACUNACIÓN" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.488s content_overlap #s3 > div:nth-of-type(3) > div:nth-of-type(1) inside #s4 > div:nth-of-type(3) > h1:nth-of-type(1) "PROTECCIÓN PARA TI" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.488s content_overlap #s3 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s4 > div:nth-of-type(3) > h1:nth-of-type(1) "Vacunas disponibles" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=19.111s content_overlap #s4 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(1) "GRATUITO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=23.483s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(1) inside #s6 > div:nth-of-type(3) > h1:nth-of-type(1) "MAÑANA VIERNES" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=23.483s content_overlap #s5 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s6 > div:nth-of-type(3) > h1:nth-of-type(1) "Jornada de salud" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=30.104s content_overlap #s7 > div:nth-of-type(3) > h1:nth-of-type(1) inside #s8 > div:nth-of-type(3) > h1:nth-of-type(1) "Presidencia Municipal" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  0 error(s), 1 warning(s), 8 info(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 13/13 text checks pass WCAG AA
+
+Snapshots
+  ◇ disabled
+
+◇  Check passed

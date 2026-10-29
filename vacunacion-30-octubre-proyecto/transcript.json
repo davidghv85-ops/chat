@@ -1,0 +1,565 @@
+{
+  "text": " El Gobierno con sentido humano de Sompantepek, a través del DIF Municipal, te invita a la jornada de vacunación para cuidar tu salud y la de tu familia. Contaremos con vacunas como Neumococo, Sarampion, Tétanos, Influenza y COVID, un servicio completamente gratuito. Fecha, mañana viernes 30 de octubre de 2026. Horario, de las 9 de la mañana a las 2 de la tarde. Lugar, presidencia municipal. No pierbas esta oportunidad de proteger tu salud y la de tus seres queridos.",
+  "chunks": [
+    {
+      "text": " El",
+      "timestamp": [
+        0.38,
+        0.76
+      ]
+    },
+    {
+      "text": " Gobierno",
+      "timestamp": [
+        0.76,
+        1.1
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        1.1,
+        1.34
+      ]
+    },
+    {
+      "text": " sentido",
+      "timestamp": [
+        1.34,
+        1.82
+      ]
+    },
+    {
+      "text": " humano",
+      "timestamp": [
+        1.82,
+        2
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        2,
+        2.1
+      ]
+    },
+    {
+      "text": " Sompantepek,",
+      "timestamp": [
+        2.1,
+        2.98
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        3.04,
+        3.34
+      ]
+    },
+    {
+      "text": " través",
+      "timestamp": [
+        3.34,
+        3.56
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        3.56,
+        3.72
+      ]
+    },
+    {
+      "text": " DIF",
+      "timestamp": [
+        3.72,
+        4.02
+      ]
+    },
+    {
+      "text": " Municipal,",
+      "timestamp": [
+        4.02,
+        4.7
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        4.8,
+        4.96
+      ]
+    },
+    {
+      "text": " invita",
+      "timestamp": [
+        4.96,
+        5.38
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        5.38,
+        5.64
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        5.64,
+        5.64
+      ]
+    },
+    {
+      "text": " jornada",
+      "timestamp": [
+        5.88,
+        6.26
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        6.26,
+        6.5
+      ]
+    },
+    {
+      "text": " vacunación",
+      "timestamp": [
+        6.5,
+        7.18
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        7.18,
+        7.42
+      ]
+    },
+    {
+      "text": " cuidar",
+      "timestamp": [
+        7.42,
+        7.74
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        7.74,
+        8.06
+      ]
+    },
+    {
+      "text": " salud",
+      "timestamp": [
+        8.06,
+        8.4
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        8.4,
+        8.5
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        8.5,
+        8.64
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        8.64,
+        8.76
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        8.76,
+        9.12
+      ]
+    },
+    {
+      "text": " familia.",
+      "timestamp": [
+        9.12,
+        9.62
+      ]
+    },
+    {
+      "text": " Contaremos",
+      "timestamp": [
+        9.82,
+        10.4
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        10.4,
+        10.58
+      ]
+    },
+    {
+      "text": " vacunas",
+      "timestamp": [
+        10.58,
+        10.88
+      ]
+    },
+    {
+      "text": " como",
+      "timestamp": [
+        11.24,
+        11.6
+      ]
+    },
+    {
+      "text": " Neumococo,",
+      "timestamp": [
+        11.6,
+        12.52
+      ]
+    },
+    {
+      "text": " Sarampion,",
+      "timestamp": [
+        12.62,
+        13.54
+      ]
+    },
+    {
+      "text": " Tétanos,",
+      "timestamp": [
+        13.62,
+        14.36
+      ]
+    },
+    {
+      "text": " Influenza",
+      "timestamp": [
+        14.5,
+        15.3
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        15.3,
+        15.58
+      ]
+    },
+    {
+      "text": " COVID,",
+      "timestamp": [
+        15.58,
+        15.98
+      ]
+    },
+    {
+      "text": " un",
+      "timestamp": [
+        16.12,
+        16.52
+      ]
+    },
+    {
+      "text": " servicio",
+      "timestamp": [
+        16.52,
+        17.2
+      ]
+    },
+    {
+      "text": " completamente",
+      "timestamp": [
+        17.2,
+        17.66
+      ]
+    },
+    {
+      "text": " gratuito.",
+      "timestamp": [
+        17.66,
+        18.5
+      ]
+    },
+    {
+      "text": " Fecha,",
+      "timestamp": [
+        18.8,
+        19.3
+      ]
+    },
+    {
+      "text": " mañana",
+      "timestamp": [
+        19.54,
+        19.94
+      ]
+    },
+    {
+      "text": " viernes",
+      "timestamp": [
+        19.94,
+        20.52
+      ]
+    },
+    {
+      "text": " 30",
+      "timestamp": [
+        20.52,
+        20.78
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        20.78,
+        20.92
+      ]
+    },
+    {
+      "text": " octubre",
+      "timestamp": [
+        20.92,
+        21.36
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        21.36,
+        21.56
+      ]
+    },
+    {
+      "text": " 2026.",
+      "timestamp": [
+        21.56,
+        23.04
+      ]
+    },
+    {
+      "text": " Horario,",
+      "timestamp": [
+        23.2,
+        23.72
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        23.88,
+        24.06
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        24.06,
+        24.26
+      ]
+    },
+    {
+      "text": " 9",
+      "timestamp": [
+        24.26,
+        24.46
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        24.46,
+        24.58
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        24.58,
+        24.88
+      ]
+    },
+    {
+      "text": " mañana",
+      "timestamp": [
+        24.88,
+        25.32
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        25.32,
+        25.48
+      ]
+    },
+    {
+      "text": " las",
+      "timestamp": [
+        25.48,
+        25.66
+      ]
+    },
+    {
+      "text": " 2",
+      "timestamp": [
+        25.66,
+        25.82
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        25.82,
+        25.92
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        25.92,
+        26.2
+      ]
+    },
+    {
+      "text": " tarde.",
+      "timestamp": [
+        26.2,
+        26.3
+      ]
+    },
+    {
+      "text": " Lugar,",
+      "timestamp": [
+        27.08,
+        27.66
+      ]
+    },
+    {
+      "text": " presidencia",
+      "timestamp": [
+        27.86,
+        28.74
+      ]
+    },
+    {
+      "text": " municipal.",
+      "timestamp": [
+        28.74,
+        29
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        29.8,
+        30.02
+      ]
+    },
+    {
+      "text": " pierbas",
+      "timestamp": [
+        30.02,
+        30.4
+      ]
+    },
+    {
+      "text": " esta",
+      "timestamp": [
+        30.4,
+        30.82
+      ]
+    },
+    {
+      "text": " oportunidad",
+      "timestamp": [
+        30.82,
+        31.2
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        31.2,
+        31.44
+      ]
+    },
+    {
+      "text": " proteger",
+      "timestamp": [
+        31.44,
+        31.86
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        31.86,
+        32.14
+      ]
+    },
+    {
+      "text": " salud",
+      "timestamp": [
+        32.14,
+        32.52
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        32.52,
+        32.62
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        32.62,
+        32.76
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        32.76,
+        32.9
+      ]
+    },
+    {
+      "text": " tus",
+      "timestamp": [
+        32.9,
+        33.14
+      ]
+    },
+    {
+      "text": " seres",
+      "timestamp": [
+        33.14,
+        33.42
+      ]
+    },
+    {
+      "text": " queridos.",
+      "timestamp": [
+        33.42,
+        33.8
+      ]
+    }
+  ]
+}

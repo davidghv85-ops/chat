@@ -1,0 +1,1402 @@
+{
+  "duration": 33.850958,
+  "tweens": [
+    {
+      "start": 0,
+      "duration": 3.15,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.1,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.13,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.15,
+      "duration": 0.4,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.22,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.31,
+      "duration": 0.5,
+      "targets": [
+        "intro-disc enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.4,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.4,
+      "duration": 2.6,
+      "targets": [
+        "intro-disc enter"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2,
+      "duration": 1.05,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.15,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 3.15,
+      "duration": 0.38,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.15,
+      "duration": 2.5,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.25,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.28,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.37,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.46,
+      "duration": 0.5,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.54,
+      "duration": 0,
+      "targets": [
+        "s0"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 3.55,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.05,
+      "duration": 1.55,
+      "targets": [
+        "scene-content"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.1,
+      "duration": 1.5,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 5.65,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 5.65,
+      "duration": 0.38,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 5.65,
+      "duration": 4.15,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 5.75,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 5.78,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 5.87,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 5.96,
+      "duration": 0.5,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.04,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 6.05,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.55,
+      "duration": 3.2,
+      "targets": [
+        "scene-content"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.6,
+      "duration": 3.15,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 9.8,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 9.8,
+      "duration": 0.38,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 9.8,
+      "duration": 6.32,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 9.9,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 9.93,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.02,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.19,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 10.56,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.6,
+      "duration": 0.5,
+      "targets": [
+        "vaccine enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 12.62,
+      "duration": 0.5,
+      "targets": [
+        "vaccine enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 13.62,
+      "duration": 0.5,
+      "targets": [
+        "vaccine enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.5,
+      "duration": 0.5,
+      "targets": [
+        "vaccine enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.58,
+      "duration": 0.5,
+      "targets": [
+        "vaccine enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.12,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 16.12,
+      "duration": 0.38,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.12,
+      "duration": 2.68,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.22,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.25,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.34,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.43,
+      "duration": 0.5,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.51,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 16.52,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 17.02,
+      "duration": 1.73,
+      "targets": [
+        "scene-content"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 17.07,
+      "duration": 1.68,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 18.8,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 18.8,
+      "duration": 0.38,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 18.8,
+      "duration": 4.4,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 18.9,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 18.93,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.02,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.11,
+      "duration": 0.5,
+      "targets": [
+        "calendar enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.19,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 19.2,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.7,
+      "duration": 3.45,
+      "targets": [
+        "scene-content"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.2,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 23.2,
+      "duration": 0.38,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.2,
+      "duration": 3.88,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.3,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.33,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.42,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.51,
+      "duration": 0.5,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.59,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 23.6,
+      "duration": 0.5,
+      "targets": [
+        "hours enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.69,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.1,
+      "duration": 2.93,
+      "targets": [
+        "scene-content"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.15,
+      "duration": 2.88,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.08,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 27.08,
+      "duration": 0.38,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.08,
+      "duration": 2.72,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.18,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.21,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.3,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.39,
+      "duration": 0.5,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.47,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 27.48,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 27.98,
+      "duration": 1.77,
+      "targets": [
+        "scene-content"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.03,
+      "duration": 1.72,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.8,
+      "duration": 0,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 29.8,
+      "duration": 0.38,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.8,
+      "duration": 4.051,
+      "targets": [
+        "halo"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.9,
+      "duration": 0.9,
+      "targets": [
+        "arc"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.93,
+      "duration": 0.5,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.02,
+      "duration": 0.5,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.11,
+      "duration": 0.5,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.19,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 30.2,
+      "duration": 0.5,
+      "targets": [
+        "body enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.7,
+      "duration": 3.101,
+      "targets": [
+        "scene-content"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.75,
+      "duration": 3.051,
+      "targets": [
+        "object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    }
+  ],
+  "shots": 9,
+  "maxShotDuration": 6.32,
+  "cameraCoverage": [
+    [
+      0.4,
+      3.13
+    ],
+    [
+      3.55,
+      5.63
+    ],
+    [
+      6.05,
+      9.78
+    ],
+    [
+      10.2,
+      16.1
+    ],
+    [
+      16.52,
+      18.78
+    ],
+    [
+      19.2,
+      23.18
+    ],
+    [
+      23.6,
+      27.06
+    ],
+    [
+      27.48,
+      29.78
+    ],
+    [
+      30.2,
+      33.831
+    ]
+  ]
+}
