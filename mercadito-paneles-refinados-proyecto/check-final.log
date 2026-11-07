@@ -1,0 +1,91 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking mercadito-refinado
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ◇ 0 errors, 0 warnings
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ⚠ t=3.37, 3.495s content_overlap #s0 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s1 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "TZOMPANTEPEC" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=3.37, 3.495s content_overlap #s0 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s1 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "Sentido humano." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=6.616, 6.74s content_overlap #s1 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s2 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Sindicatura" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=10.735, 10.859s content_overlap #s2 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s3 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Mercadito" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=10.735, 10.859s content_overlap #s2 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "Económico." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=14.729, 14.854s content_overlap #s3 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s4 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Este domingo" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=16.352, 16.476s content_overlap #s4 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s5 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Auditorio" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=22.593, 22.718s content_overlap #s6 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s7 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Frescura" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=25.339, 25.464s content_overlap #s7 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s8 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Frescura" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=25.339, 25.464s content_overlap #s7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "para tu mesa." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=30.082, 30.207s content_overlap #s8 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s9 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Ahorros" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=30.082, 30.207s content_overlap #s8 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s9 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "que se sienten." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=34.7, 34.825s content_overlap #s9 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s10 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Mercadito" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=38.32, 38.445s content_overlap #s10 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s11 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "¿Tienes dudas?" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ⚠ t=42.065, 42.19s content_overlap #s11 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s12 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Resolvemos" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=6.74s content_overlap #s1 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s2 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "Municipal." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=14.854s content_overlap #s3 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s4 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "8 de noviembre." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=14.854s content_overlap div.month inside div.glass.window > h2:nth-of-type(1) "NOVIEMBRE 2026" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.476s content_overlap #s4 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s5 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "Municipal." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=16.476s content_overlap div.glass.window > h2:nth-of-type(1) inside div.time-grid > div:nth-of-type(1) > p:nth-of-type(1) "Auditorio Municipal" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=19.223s content_overlap #s5 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s6 > div:nth-of-type(1) > div:nth-of-type(1) > h1:nth-of-type(1) "Un horario" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=19.223s content_overlap #s5 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "para ti." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=22.405s escaped_container #s7 inside #stage "Frescura para tu mesa. Frutas Verduras Legumbres Verduras y legumbres." — Positioned element renders far outside its offset parent — its coordinates were likely computed in a different frame (canvas/viewport pixels).
+        Fix: Compute left/top in the offset parent's frame (subtract its rect), or mark intentional placement with data-layout-allow-overflow.
+  ℹ t=22.718s content_overlap #s6 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s7 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "para tu mesa." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=25.464s content_overlap #s7 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2:nth-of-type(1) inside div.saving-grid > div:nth-of-type(1) > h2:nth-of-type(1) "Frutas" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=34.825s content_overlap #s9 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s10 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "Económico." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=38.445s content_overlap #s10 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s11 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "Llámanos." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=42.19s content_overlap #s11 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) inside #s12 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) "tus dudas." — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  0 error(s), 15 warning(s), 13 info(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 26/26 text checks pass WCAG AA
+
+Snapshots
+  ◇ disabled
+
+◇  Check passed

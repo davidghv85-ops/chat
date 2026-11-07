@@ -1,0 +1,1740 @@
+{
+  "duration": 44.710958,
+  "tweens": [
+    {
+      "start": 0.15,
+      "duration": 0.4,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.15,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.245,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.34,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.9,
+      "duration": 2.05,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2.05,
+      "duration": 1,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.05,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 3.05,
+      "duration": 0.4,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.2,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.295,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.39,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter invite-card"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.47,
+      "duration": 0,
+      "targets": [
+        "s0"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 3.485,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.95,
+      "duration": 2.29,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.34,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 6.34,
+      "duration": 0.4,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.49,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.585,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.68,
+      "duration": 0.55,
+      "targets": [
+        "glass central enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.76,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 6.775,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter left"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.87,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter right"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.965,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.24,
+      "duration": 3.12,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.34,
+      "duration": 3.02,
+      "targets": [
+        "glass tile enter left"
+      ],
+      "properties": [
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.34,
+      "duration": 3.02,
+      "targets": [
+        "glass tile enter right"
+      ],
+      "properties": [
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.46,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 10.46,
+      "duration": 0.4,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.61,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.66,
+      "duration": 0.65,
+      "targets": [
+        "orbit"
+      ],
+      "properties": [
+        "scale",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.705,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.8,
+      "duration": 0.55,
+      "targets": [
+        "glass calendar-card enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.86,
+      "duration": 3.48,
+      "targets": [
+        "orbit"
+      ],
+      "properties": [
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.88,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 10.895,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.36,
+      "duration": 2.98,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.44,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 14.44,
+      "duration": 0.4,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.59,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.685,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.78,
+      "duration": 0.55,
+      "targets": [
+        "glass window enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.86,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 14.875,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.34,
+      "duration": 0.64,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.08,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 16.08,
+      "duration": 0.4,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.23,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.325,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.42,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter first"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.5,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 16.515,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter second"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.61,
+      "duration": 0.55,
+      "targets": [
+        "time-link enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.705,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.98,
+      "duration": 1.8,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 18.88,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 18.88,
+      "duration": 0.4,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.03,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.125,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.22,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter fruit"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.3,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 19.315,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter vegetable"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.41,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter beans"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.505,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.78,
+      "duration": 2.46,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.34,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 22.34,
+      "duration": 0.4,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.49,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.585,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.68,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter fruit"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.76,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 22.775,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter vegetable"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.87,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter beans"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.965,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.24,
+      "duration": 1.68,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.02,
+      "duration": 0,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 25.02,
+      "duration": 0.4,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.17,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.265,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.36,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter saving-first"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.44,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 25.455,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter saving-second"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.55,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.92,
+      "duration": 3.78,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.8,
+      "duration": 0,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 29.8,
+      "duration": 0.4,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.95,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.045,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.14,
+      "duration": 0.55,
+      "targets": [
+        "glass central enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.22,
+      "duration": 0,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 30.235,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter left"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.33,
+      "duration": 0.55,
+      "targets": [
+        "glass tile enter right"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.425,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.7,
+      "duration": 3.68,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.8,
+      "duration": 3.58,
+      "targets": [
+        "glass tile enter left"
+      ],
+      "properties": [
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.8,
+      "duration": 3.58,
+      "targets": [
+        "glass tile enter right"
+      ],
+      "properties": [
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.48,
+      "duration": 0,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 34.48,
+      "duration": 0.4,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.63,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.725,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.82,
+      "duration": 0.55,
+      "targets": [
+        "glass contacts-card enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.9,
+      "duration": 0,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 34.915,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 35.38,
+      "duration": 2.6,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.08,
+      "duration": 0,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 38.08,
+      "duration": 0.4,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.23,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.28,
+      "duration": 0.65,
+      "targets": [
+        "orbit"
+      ],
+      "properties": [
+        "scale",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.325,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.42,
+      "duration": 0.55,
+      "targets": [
+        "glass contact-focus enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.48,
+      "duration": 3.22,
+      "targets": [
+        "orbit"
+      ],
+      "properties": [
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.5,
+      "duration": 0,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 38.515,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.98,
+      "duration": 2.72,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.8,
+      "duration": 0,
+      "targets": [
+        "s12"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 41.8,
+      "duration": 0.4,
+      "targets": [
+        "s12"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.95,
+      "duration": 0.55,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42,
+      "duration": 0.65,
+      "targets": [
+        "orbit"
+      ],
+      "properties": [
+        "scale",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.045,
+      "duration": 0.55,
+      "targets": [
+        "subtitle enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.14,
+      "duration": 0.55,
+      "targets": [
+        "glass contact-focus enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.2,
+      "duration": 2.511,
+      "targets": [
+        "orbit"
+      ],
+      "properties": [
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.22,
+      "duration": 0,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 42.235,
+      "duration": 0.55,
+      "targets": [
+        "bottom enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.7,
+      "duration": 2.011,
+      "targets": [
+        "hero"
+      ],
+      "properties": [
+        "y",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    }
+  ],
+  "shots": 13,
+  "maxShotDuration": 4.780000000000001,
+  "cameraCoverage": [
+    [
+      0.4,
+      3.03
+    ],
+    [
+      3.45,
+      6.32
+    ],
+    [
+      6.74,
+      10.44
+    ],
+    [
+      10.86,
+      14.42
+    ],
+    [
+      14.84,
+      16.06
+    ],
+    [
+      16.48,
+      18.86
+    ],
+    [
+      19.28,
+      22.32
+    ],
+    [
+      22.74,
+      25
+    ],
+    [
+      25.42,
+      29.78
+    ],
+    [
+      30.2,
+      34.46
+    ],
+    [
+      34.88,
+      38.06
+    ],
+    [
+      38.48,
+      41.78
+    ],
+    [
+      42.2,
+      44.791
+    ]
+  ]
+}

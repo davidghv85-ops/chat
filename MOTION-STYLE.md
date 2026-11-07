@@ -96,3 +96,6 @@ Esta guía es una dirección de producción para los próximos pedidos. La aprob
 
 ## Materiales y volumen — preferencia añadida
 El usuario solicita, en adelante, paneles y figuras de acabado 3D más realista: grosor, biseles, vidrio o acrílico, materiales mate o metálicos, reflejos e iluminación coherente y sombras suaves. Los movimientos deben transmitir peso y profundidad. Mantener texto legible y logos intactos. Aplicar al nuevo encargo según su paleta y contenido.
+
+## Corrección visual — capturas de paneles refinados
+La petición de mayor realismo se refiere al acabado refinado de interfaz de las cinco capturas aportadas: paneles morados translúcidos, borde fino iluminado, brillo diagonal tenue, sombras suaves, tarjetas superpuestas con leves inclinaciones, iconos blancos de línea y tipografía blanca/lila. Esta referencia corrige la interpretación previa de pedestales, anillos metálicos, cerámica blanca y productos fotorrealistas como protagonistas. Usar la referencia de tarjetas para rehacer el Mercadito y como guía futura cuando el usuario pida estos paneles.
