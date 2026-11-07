@@ -1,0 +1,48 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "duration": "44.833333",
+    "fps": "30/1"
+  },
+  "audio": {
+    "correlacion_mezcla": 0.9993031258063929,
+    "ganancia_exportada": 1.4050002098083496,
+    "pico_dbfs": -0.5102633833885193
+  },
+  "logo_original_sha256": "80cc19bec02e7b45b3b4c82f5bce37c71ded8b411b7378f9951ea3940be88629",
+  "escenas_verificadas": 13,
+  "fotogramas_sin_pantallas_negras": true,
+  "colores_verificados": [
+    {
+      "escena": 3,
+      "naranja": 55455,
+      "amarillo": 27383
+    },
+    {
+      "escena": 5,
+      "naranja": 70943,
+      "amarillo": 72577
+    },
+    {
+      "escena": 6,
+      "naranja": 84353,
+      "amarillo": 40784
+    },
+    {
+      "escena": 7,
+      "naranja": 83839,
+      "amarillo": 40666
+    },
+    {
+      "escena": 10,
+      "naranja": 32515,
+      "amarillo": 37354
+    }
+  ],
+  "contactos": {
+    "fuente": "Confirmación expresa del usuario durante esta producción",
+    "telefono_1": "2411157000",
+    "telefono_2": "2412404290"
+  }
+}

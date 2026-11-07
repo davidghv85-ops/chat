@@ -1,0 +1,733 @@
+{
+  "text": " El Gobierno con sentido humano de Sompantepek, a través del Asíndico, licenciada a Vanessa Tapia Ramos, te invita al Mercadito Económico. Prepara tus bolsas este próximo domingo 8 de noviembre de 2026 y caile al Auditorio Municipal de 2.30 a 4.30 de la tarde. Va a ser una oportunidad padrísima para surtirte con frutas, verduras y legumbres súper frescas, con ahorros increíbles que van del 30% al 70%. Date la vuelta y apoya la economía de tu agar con esta gran iniciativa. Y si tienes cualquier duda, échanos una llamada a los teléfonos 241-115-7000 o 241-240-4290.",
+  "chunks": [
+    {
+      "text": " El",
+      "timestamp": [
+        0.42,
+        0.82
+      ]
+    },
+    {
+      "text": " Gobierno",
+      "timestamp": [
+        0.82,
+        1.14
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        1.14,
+        1.4
+      ]
+    },
+    {
+      "text": " sentido",
+      "timestamp": [
+        1.4,
+        1.78
+      ]
+    },
+    {
+      "text": " humano",
+      "timestamp": [
+        1.78,
+        2
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        2,
+        2.12
+      ]
+    },
+    {
+      "text": " Sompantepek,",
+      "timestamp": [
+        2.12,
+        3
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        3.02,
+        3.28
+      ]
+    },
+    {
+      "text": " través",
+      "timestamp": [
+        3.28,
+        3.52
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        3.52,
+        3.66
+      ]
+    },
+    {
+      "text": " Asíndico,",
+      "timestamp": [
+        3.66,
+        4.3
+      ]
+    },
+    {
+      "text": " licenciada",
+      "timestamp": [
+        4.44,
+        4.92
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        4.92,
+        5.16
+      ]
+    },
+    {
+      "text": " Vanessa",
+      "timestamp": [
+        5.16,
+        5.28
+      ]
+    },
+    {
+      "text": " Tapia",
+      "timestamp": [
+        5.5,
+        5.8
+      ]
+    },
+    {
+      "text": " Ramos,",
+      "timestamp": [
+        5.8,
+        6.24
+      ]
+    },
+    {
+      "text": " te",
+      "timestamp": [
+        6.34,
+        6.5
+      ]
+    },
+    {
+      "text": " invita",
+      "timestamp": [
+        6.5,
+        7.12
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        7.12,
+        7.36
+      ]
+    },
+    {
+      "text": " Mercadito",
+      "timestamp": [
+        7.36,
+        7.96
+      ]
+    },
+    {
+      "text": " Económico.",
+      "timestamp": [
+        7.96,
+        8.92
+      ]
+    },
+    {
+      "text": " Prepara",
+      "timestamp": [
+        9.14,
+        9.56
+      ]
+    },
+    {
+      "text": " tus",
+      "timestamp": [
+        9.56,
+        9.78
+      ]
+    },
+    {
+      "text": " bolsas",
+      "timestamp": [
+        9.78,
+        10.18
+      ]
+    },
+    {
+      "text": " este",
+      "timestamp": [
+        10.18,
+        10.46
+      ]
+    },
+    {
+      "text": " próximo",
+      "timestamp": [
+        10.46,
+        10.84
+      ]
+    },
+    {
+      "text": " domingo",
+      "timestamp": [
+        10.84,
+        11.5
+      ]
+    },
+    {
+      "text": " 8",
+      "timestamp": [
+        11.5,
+        11.68
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        11.68,
+        11.78
+      ]
+    },
+    {
+      "text": " noviembre",
+      "timestamp": [
+        11.78,
+        12.26
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        12.26,
+        12.46
+      ]
+    },
+    {
+      "text": " 2026",
+      "timestamp": [
+        12.46,
+        13.84
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        13.84,
+        14.08
+      ]
+    },
+    {
+      "text": " caile",
+      "timestamp": [
+        14.08,
+        14.44
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        14.44,
+        14.62
+      ]
+    },
+    {
+      "text": " Auditorio",
+      "timestamp": [
+        14.62,
+        15.16
+      ]
+    },
+    {
+      "text": " Municipal",
+      "timestamp": [
+        15.16,
+        15.88
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        16.08,
+        16.26
+      ]
+    },
+    {
+      "text": " 2",
+      "timestamp": [
+        16.26,
+        16.44
+      ]
+    },
+    {
+      "text": ".30",
+      "timestamp": [
+        16.44,
+        16.98
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        16.98,
+        17.24
+      ]
+    },
+    {
+      "text": " 4",
+      "timestamp": [
+        17.24,
+        17.48
+      ]
+    },
+    {
+      "text": ".30",
+      "timestamp": [
+        17.48,
+        17.8
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        17.8,
+        17.92
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        17.92,
+        18.2
+      ]
+    },
+    {
+      "text": " tarde.",
+      "timestamp": [
+        18.2,
+        18.64
+      ]
+    },
+    {
+      "text": " Va",
+      "timestamp": [
+        18.88,
+        18.94
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        18.94,
+        19.06
+      ]
+    },
+    {
+      "text": " ser",
+      "timestamp": [
+        19.06,
+        19.18
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        19.18,
+        19.6
+      ]
+    },
+    {
+      "text": " oportunidad",
+      "timestamp": [
+        19.6,
+        20.02
+      ]
+    },
+    {
+      "text": " padrísima",
+      "timestamp": [
+        20.02,
+        20.64
+      ]
+    },
+    {
+      "text": " para",
+      "timestamp": [
+        20.64,
+        20.88
+      ]
+    },
+    {
+      "text": " surtirte",
+      "timestamp": [
+        20.88,
+        21.4
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        21.4,
+        21.68
+      ]
+    },
+    {
+      "text": " frutas,",
+      "timestamp": [
+        21.68,
+        22.2
+      ]
+    },
+    {
+      "text": " verduras",
+      "timestamp": [
+        22.34,
+        22.98
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        22.98,
+        23.18
+      ]
+    },
+    {
+      "text": " legumbres",
+      "timestamp": [
+        23.18,
+        23.98
+      ]
+    },
+    {
+      "text": " súper",
+      "timestamp": [
+        23.98,
+        24.3
+      ]
+    },
+    {
+      "text": " frescas,",
+      "timestamp": [
+        24.3,
+        24.86
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        25.02,
+        25.28
+      ]
+    },
+    {
+      "text": " ahorros",
+      "timestamp": [
+        25.28,
+        25.74
+      ]
+    },
+    {
+      "text": " increíbles",
+      "timestamp": [
+        25.74,
+        26.32
+      ]
+    },
+    {
+      "text": " que",
+      "timestamp": [
+        26.32,
+        26.5
+      ]
+    },
+    {
+      "text": " van",
+      "timestamp": [
+        26.5,
+        26.7
+      ]
+    },
+    {
+      "text": " del",
+      "timestamp": [
+        26.7,
+        27.06
+      ]
+    },
+    {
+      "text": " 30",
+      "timestamp": [
+        27.06,
+        27.42
+      ]
+    },
+    {
+      "text": "%",
+      "timestamp": [
+        27.42,
+        27.44
+      ]
+    },
+    {
+      "text": " al",
+      "timestamp": [
+        28,
+        28.48
+      ]
+    },
+    {
+      "text": " 70",
+      "timestamp": [
+        28.48,
+        29
+      ]
+    },
+    {
+      "text": "%.",
+      "timestamp": [
+        29.14,
+        29.16
+      ]
+    },
+    {
+      "text": " Date",
+      "timestamp": [
+        29.8,
+        30
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        30,
+        30.22
+      ]
+    },
+    {
+      "text": " vuelta",
+      "timestamp": [
+        30.22,
+        30.64
+      ]
+    },
+    {
+      "text": " y",
+      "timestamp": [
+        30.64,
+        30.82
+      ]
+    },
+    {
+      "text": " apoya",
+      "timestamp": [
+        30.82,
+        31.14
+      ]
+    },
+    {
+      "text": " la",
+      "timestamp": [
+        31.14,
+        31.4
+      ]
+    },
+    {
+      "text": " economía",
+      "timestamp": [
+        31.4,
+        31.78
+      ]
+    },
+    {
+      "text": " de",
+      "timestamp": [
+        31.78,
+        31.94
+      ]
+    },
+    {
+      "text": " tu",
+      "timestamp": [
+        31.94,
+        32.04
+      ]
+    },
+    {
+      "text": " agar",
+      "timestamp": [
+        32.04,
+        32.46
+      ]
+    },
+    {
+      "text": " con",
+      "timestamp": [
+        32.46,
+        32.7
+      ]
+    },
+    {
+      "text": " esta",
+      "timestamp": [
+        32.7,
+        32.96
+      ]
+    },
+    {
+      "text": " gran",
+      "timestamp": [
+        32.96,
+        33.18
+      ]
+    },
+    {
+      "text": " iniciativa.",
+      "timestamp": [
+        33.18,
+        34
+      ]
+    },
+    {
+      "text": " Y",
+      "timestamp": [
+        34.48,
+        34.56
+      ]
+    },
+    {
+      "text": " si",
+      "timestamp": [
+        34.56,
+        34.84
+      ]
+    },
+    {
+      "text": " tienes",
+      "timestamp": [
+        34.84,
+        35.06
+      ]
+    },
+    {
+      "text": " cualquier",
+      "timestamp": [
+        35.06,
+        35.46
+      ]
+    },
+    {
+      "text": " duda,",
+      "timestamp": [
+        35.46,
+        35.82
+      ]
+    },
+    {
+      "text": " échanos",
+      "timestamp": [
+        35.92,
+        36.32
+      ]
+    },
+    {
+      "text": " una",
+      "timestamp": [
+        36.32,
+        36.5
+      ]
+    },
+    {
+      "text": " llamada",
+      "timestamp": [
+        36.5,
+        36.82
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        36.82,
+        36.94
+      ]
+    },
+    {
+      "text": " los",
+      "timestamp": [
+        36.94,
+        37.12
+      ]
+    },
+    {
+      "text": " teléfonos",
+      "timestamp": [
+        37.12,
+        38.08
+      ]
+    },
+    {
+      "text": " 241",
+      "timestamp": [
+        38.08,
+        39.2
+      ]
+    },
+    {
+      "text": "-115",
+      "timestamp": [
+        39.2,
+        40.3
+      ]
+    },
+    {
+      "text": "-7000",
+      "timestamp": [
+        40.3,
+        41.38
+      ]
+    },
+    {
+      "text": " o",
+      "timestamp": [
+        41.38,
+        41.8
+      ]
+    },
+    {
+      "text": " 241",
+      "timestamp": [
+        41.8,
+        42.78
+      ]
+    },
+    {
+      "text": "-240",
+      "timestamp": [
+        42.78,
+        43.68
+      ]
+    },
+    {
+      "text": "-4290.",
+      "timestamp": [
+        43.68,
+        45
+      ]
+    }
+  ]
+}

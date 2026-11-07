@@ -99,3 +99,6 @@ El usuario solicita, en adelante, paneles y figuras de acabado 3D más realista:
 
 ## Corrección visual — capturas de paneles refinados
 La petición de mayor realismo se refiere al acabado refinado de interfaz de las cinco capturas aportadas: paneles morados translúcidos, borde fino iluminado, brillo diagonal tenue, sombras suaves, tarjetas superpuestas con leves inclinaciones, iconos blancos de línea y tipografía blanca/lila. Esta referencia corrige la interpretación previa de pedestales, anillos metálicos, cerámica blanca y productos fotorrealistas como protagonistas. Usar la referencia de tarjetas para rehacer el Mercadito y como guía futura cuando el usuario pida estos paneles.
+
+## Composición propia y paleta completa
+Las capturas de paneles refinados son referencia de acabado, no una plantilla para reproducir literalmente. En el Mercadito combinar morado oscuro, naranja y amarillo huevo con presencia visible en superficies principales. Crear distribuciones propias. Abrir siempre los videos institucionales con una intro dedicada a los logos originales, antes del contenido; mantener íntegros los archivos y proporciones.
