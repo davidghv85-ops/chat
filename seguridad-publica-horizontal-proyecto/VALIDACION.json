@@ -1,0 +1,23 @@
+{
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "duration": "135.466667",
+    "fps": "30/1"
+  },
+  "audio": {
+    "correlacion_mezcla": 0.9995374780317717,
+    "ganancia_exportada": 1.4062244892120361,
+    "pico_dbfs": -0.7773607969284058
+  },
+  "logo_original_sha256": "80cc19bec02e7b45b3b4c82f5bce37c71ded8b411b7378f9951ea3940be88629",
+  "escenas_verificadas": 32,
+  "fotogramas_sin_pantallas_negras": true,
+  "contactos": {
+    "fuente": "Confirmación expresa del usuario en este chat, durante la producción",
+    "llamadas": "2414152774",
+    "whatsapp": "2414209409",
+    "emergencias": "911",
+    "denuncia_anonima": "089"
+  }
+}

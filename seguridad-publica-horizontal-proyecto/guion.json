@@ -1,0 +1,290 @@
+[
+  [
+    0,
+    3.8,
+    "intro",
+    "TZOMPANTEPEC",
+    "Gobierno con sentido humano",
+    "",
+    ""
+  ],
+  [
+    3.8,
+    7.14,
+    "statement",
+    "DIRECCIÓN DE",
+    "Seguridad Pública",
+    "Cerca de la ciudadanía",
+    "shield"
+  ],
+  [
+    7.14,
+    11.4,
+    "cards",
+    "ACCIONES Y SERVICIOS",
+    "Seguridad que te acompaña",
+    "Atención · Prevención · Protección",
+    "shield"
+  ],
+  [
+    11.4,
+    15.3,
+    "split",
+    "PROTEGEMOS",
+    "Tu familia",
+    "Salvaguardar su integridad",
+    "family"
+  ],
+  [
+    15.3,
+    19.8,
+    "split",
+    "PROTEGEMOS",
+    "Tu patrimonio",
+    "En todo momento",
+    "lock"
+  ],
+  [
+    19.8,
+    24.3,
+    "device",
+    "ATENCIÓN DIRECTA",
+    "¿Necesitas ayuda?",
+    "Canales para emergencias",
+    "phone"
+  ],
+  [
+    24.3,
+    28.16,
+    "cards",
+    "COMUNICACIÓN",
+    "Canales oficiales",
+    "Emergencias · Denuncia · Atención local",
+    "phone"
+  ],
+  [
+    28.16,
+    31.94,
+    "number",
+    "NÚMERO NACIONAL",
+    "Emergencias",
+    "911",
+    "phone"
+  ],
+  [
+    31.94,
+    36.24,
+    "number",
+    "LÍNEA NACIONAL",
+    "Denuncia anónima",
+    "089",
+    "shield"
+  ],
+  [
+    36.24,
+    41.54,
+    "device",
+    "RESPUESTA LOCAL",
+    "Estamos cerca de ti",
+    "Solicita apoyo de Seguridad Pública",
+    "phone"
+  ],
+  [
+    41.54,
+    48.58,
+    "call",
+    "LLAMADAS DIRECTAS",
+    "Atención local",
+    "241 415 27 74",
+    "phone"
+  ],
+  [
+    48.58,
+    55.06,
+    "wa",
+    "LÍNEA OFICIAL",
+    "WhatsApp",
+    "241 420 94 09",
+    "whatsapp"
+  ],
+  [
+    55.06,
+    60.5,
+    "device",
+    "SOLICITA AUXILIO",
+    "Un contacto ágil y cercano",
+    "Llamadas y WhatsApp",
+    "phone"
+  ],
+  [
+    60.5,
+    64.35,
+    "bank",
+    "PROGRAMA ACTIVO",
+    "Acompañamiento bancario",
+    "Prevención y apoyo",
+    "bank"
+  ],
+  [
+    64.35,
+    67.18,
+    "statement",
+    "PROTECCIÓN",
+    "Al ciudadano",
+    "Tu tranquilidad es importante",
+    "shield"
+  ],
+  [
+    67.18,
+    70.4,
+    "split",
+    "PREVENCIÓN",
+    "Áreas públicas",
+    "Cuidamos a las personas",
+    "family"
+  ],
+  [
+    70.4,
+    73.58,
+    "bank",
+    "PREVENCIÓN",
+    "Zonas financieras",
+    "Seguridad cercana",
+    "bank"
+  ],
+  [
+    73.58,
+    77.3,
+    "split",
+    "MÁS VIGILANCIA",
+    "Patrullajes incrementados",
+    "Prevención en cajeros y comercios",
+    "car"
+  ],
+  [
+    77.3,
+    80.32,
+    "cards",
+    "SEGURIDAD",
+    "Cajeros y comercios",
+    "Mayor presencia preventiva",
+    "bank"
+  ],
+  [
+    80.32,
+    84,
+    "bank",
+    "RESGUARDO PRESENCIAL",
+    "Cajeros automáticos",
+    "Atención en puntos clave",
+    "atm"
+  ],
+  [
+    84,
+    88.18,
+    "panic",
+    "RESPUESTA",
+    "Botones de pánico",
+    "Integrados en puntos de alto flujo",
+    "alert"
+  ],
+  [
+    88.18,
+    91.7,
+    "bank",
+    "ACOMPAÑAMIENTO INTEGRAL",
+    "Para tus retiros",
+    "Solicita apoyo",
+    "bank"
+  ],
+  [
+    91.7,
+    94.56,
+    "bank",
+    "ACOMPAÑAMIENTO INTEGRAL",
+    "Y tus depósitos",
+    "Protección durante el traslado",
+    "bank"
+  ],
+  [
+    94.56,
+    97.96,
+    "split",
+    "PRIVACIDAD",
+    "Total confidencialidad",
+    "Tu información se protege",
+    "lock"
+  ],
+  [
+    97.96,
+    103.1,
+    "conditions",
+    "SIN MONTO MÍNIMO",
+    "Sin decir cuánto llevas",
+    "No necesitas especificar la cantidad",
+    "lock"
+  ],
+  [
+    103.1,
+    107.34,
+    "number",
+    "DISPONIBLE",
+    "Días del año",
+    "365",
+    "calendar"
+  ],
+  [
+    107.34,
+    111.35,
+    "statement",
+    "ANTE CUALQUIER EVENTUALIDAD",
+    "Solicita apoyo",
+    "Dirección de Seguridad Pública",
+    "shield"
+  ],
+  [
+    111.35,
+    115.2,
+    "recap",
+    "CONTACTOS INSTITUCIONALES",
+    "Guarda estos números",
+    "Atención local y emergencias",
+    "phone"
+  ],
+  [
+    115.2,
+    120.92,
+    "call",
+    "LLAMADAS DIRECTAS",
+    "Solicita apoyo",
+    "241 415 27 74",
+    "phone"
+  ],
+  [
+    120.92,
+    127.76,
+    "wa",
+    "WHATSAPP OFICIAL",
+    "Estamos para ayudarte",
+    "241 420 94 09",
+    "whatsapp"
+  ],
+  [
+    127.76,
+    131.8,
+    "split",
+    "NUESTRO COMPROMISO",
+    "Tu seguridad",
+    "Las y los ciudadanos son prioridad",
+    "family"
+  ],
+  [
+    131.8,
+    135.450958,
+    "recap",
+    "MÁXIMA PRIORIDAD",
+    "Tú y tu patrimonio",
+    "Seguridad Pública de Tzompantepec",
+    "shield"
+  ]
+]

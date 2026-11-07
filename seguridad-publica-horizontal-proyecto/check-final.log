@@ -1,0 +1,143 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking motion-nov06
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ◇ 0 errors, 0 warnings
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ⚠ t=7.462, 7.525s content_overlap #s1 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s2 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "DIRECCIÓN DE" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=7.525s text_occluded #s1 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s2 "DIRECCIÓN DE" — Text is hidden beneath an opaque element.
+        Fix: Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.
+  ℹ t=7.525s text_occluded #s1 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s2 "Seguridad Pública" — Text is hidden beneath an opaque element.
+        Fix: Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.
+  ℹ t=7.525s text_occluded #s1 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s2 "Cerca de la ciudadanía" — Text is hidden beneath an opaque element.
+        Fix: Give the text its own zone, raise its stacking order above the covering element, or mark intentional layering with data-layout-allow-occlusion.
+  ℹ t=7.525s content_overlap #s1 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s2 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) "Seguridad Pública" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=11.759s content_overlap #s2 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s3 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "Seguridad que te acompaña" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=11.759s content_overlap #s2 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s3 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Atención · Prevención · Protección" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=15.603s content_overlap #s3 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s4 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "PROTEGEMOS" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=15.603s content_overlap #s3 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s4 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Tu familia" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=20.125s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "PROTEGEMOS" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=20.125s content_overlap #s4 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s5 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Tu patrimonio" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=24.648s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s6 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "ATENCIÓN DIRECTA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=24.648s content_overlap #s5 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s6 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) "¿Necesitas ayuda?" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=28.492s content_overlap #s6 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s7 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Canales oficiales" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.336s content_overlap #s7 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s8 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "NÚMERO NACIONAL" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.336s content_overlap #s7 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s8 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Emergencias" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=32.336s content_overlap #s7 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) inside #s8 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) "911" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=36.633s content_overlap #s8 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) inside #s9 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "089" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=41.834s content_overlap #s9 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s10 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "RESPUESTA LOCAL" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=48.844s content_overlap #s10 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s11 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "LLAMADAS DIRECTAS" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=48.844s content_overlap #s10 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s11 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Atención local" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=55.401s content_overlap #s11 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s12 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "WhatsApp" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=55.401s content_overlap #s11 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > strong:nth-of-type(1) inside #s12 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "241 420 94 09" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=60.829s content_overlap #s12 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s13 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "SOLICITA AUXILIO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=60.829s content_overlap #s12 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s13 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Un contacto ágil y cercano" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=64.673s content_overlap #s13 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s14 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "Acompañamiento bancario" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=70.778s content_overlap #s15 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s16 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "PREVENCIÓN" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=70.778s content_overlap #s15 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s16 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Áreas públicas" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=70.778s content_overlap #s15 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s16 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) "Cuidamos a las personas" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=73.944s content_overlap #s16 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s17 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "PREVENCIÓN" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=73.944s content_overlap #s16 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s17 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Zonas financieras" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=73.944s content_overlap #s16 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s17 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Seguridad cercana" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=77.562s content_overlap #s17 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s18 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "MÁS VIGILANCIA" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=80.728s content_overlap #s18 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s19 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "Cajeros y comercios" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=80.728s content_overlap #s18 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s19 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Mayor presencia preventiva" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=80.728s content_overlap #s18 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > small:nth-of-type(1) inside #s19 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) "PATRULLAJES" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=84.346s content_overlap #s19 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s20 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "Cajeros automáticos" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=92.034s content_overlap #s21 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s22 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "ACOMPAÑAMIENTO INTEGRAL" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=92.034s content_overlap #s21 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s22 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Para tus retiros" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=92.034s content_overlap #s21 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s22 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) "Solicita apoyo" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=98.366s content_overlap #s23 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s24 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) "PRIVACIDAD" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=98.366s content_overlap #s23 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s24 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Total confidencialidad" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=98.366s content_overlap #s23 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s24 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) "Tu información se protege" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=103.341s content_overlap #s24 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s25 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "SIN MONTO MÍNIMO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=107.637s content_overlap #s25 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) inside #s26 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "365" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=111.707s content_overlap #s26 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s27 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Solicita apoyo" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=111.707s content_overlap #s26 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) inside #s27 > div:nth-of-type(3) > div:nth-of-type(1) > p:nth-of-type(1) "Dirección de Seguridad Pública" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=115.552s content_overlap #s27 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s28 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "CONTACTOS INSTITUCIONALES" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=115.552s content_overlap #s27 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s28 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Guarda estos números" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=121.205s content_overlap #s28 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s29 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Solicita apoyo" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=127.926s container_overflow #s30 inside #stage overflowed right 1765.42px — Element extends outside a clipping layout container.
+        Fix: Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.
+  ℹ t=127.926s escaped_container #s30 inside #stage "NUESTRO COMPROMISO Tu seguridad Las y los ciudadanos son prioridad" — Positioned element renders far outside its offset parent — its coordinates were likely computed in a different frame (canvas/viewport pixels).
+        Fix: Compute left/top in the offset parent's frame (subtract its rect), or mark intentional placement with data-layout-allow-overflow.
+  ℹ t=132.059s content_overlap #s30 > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) inside #s31 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "NUESTRO COMPROMISO" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  ℹ t=132.059s content_overlap #s30 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) inside #s31 > div:nth-of-type(3) > div:nth-of-type(1) > h1:nth-of-type(1) "Tu seguridad" — Two text blocks overlap and may render unreadable.
+        Fix: Give each block its own zone, or mark intentional layering with data-layout-allow-overlap.
+  0 error(s), 1 warning(s), 53 info(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 28/28 text checks pass WCAG AA
+
+Snapshots
+  ◇ disabled
+
+◇  Check passed

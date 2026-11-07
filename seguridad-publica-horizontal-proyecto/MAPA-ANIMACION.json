@@ -1,0 +1,5604 @@
+{
+  "duration": 135.450958,
+  "tweens": [
+    {
+      "start": 0,
+      "duration": 3.8,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.1,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.14,
+      "duration": 0.48,
+      "targets": [
+        "intro-copy enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.15,
+      "duration": 0.4,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.2,
+      "duration": 3,
+      "targets": [
+        "intro-ring"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2.75,
+      "duration": 0.95,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.8,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 3.8,
+      "duration": 0.38,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.8,
+      "duration": 3.34,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.9,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.94,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.015,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.09,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.165,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.2,
+      "duration": 0,
+      "targets": [
+        "s0"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 4.7,
+      "duration": 2.34,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 4.7,
+      "duration": 2.34,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.14,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 7.14,
+      "duration": 0.38,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.14,
+      "duration": 4.26,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.24,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.28,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.355,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.43,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.505,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.54,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 7.58,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.655,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.69,
+      "duration": 0.84,
+      "targets": [
+        "mini-icon",
+        "mini-icon",
+        "mini-icon"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 8.04,
+      "duration": 3.26,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.4,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 11.4,
+      "duration": 0.38,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.4,
+      "duration": 3.9,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.5,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.54,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.615,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.69,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.765,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.8,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 12.3,
+      "duration": 2.9,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 12.3,
+      "duration": 2.9,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.3,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 15.3,
+      "duration": 0.36,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.3,
+      "duration": 4.5,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.4,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.44,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.515,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.59,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.665,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.7,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 16.2,
+      "duration": 3.5,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.2,
+      "duration": 3.5,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.8,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 19.8,
+      "duration": 0.38,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.8,
+      "duration": 4.5,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.9,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.94,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.015,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.05,
+      "duration": 0.8,
+      "targets": [
+        "phone-frame"
+      ],
+      "properties": [
+        "rotationY",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.09,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.165,
+      "duration": 0.48,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.2,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 20.24,
+      "duration": 0.48,
+      "targets": [
+        "bubble b1 enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.315,
+      "duration": 0.48,
+      "targets": [
+        "bubble b2 enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.39,
+      "duration": 0.48,
+      "targets": [
+        "screen-shield enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.465,
+      "duration": 0.48,
+      "targets": [
+        "screen-label enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 20.7,
+      "duration": 3.5,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 21,
+      "duration": 3.1,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.3,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 24.3,
+      "duration": 0.38,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.3,
+      "duration": 3.86,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.4,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.44,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.515,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.59,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.665,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.7,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 24.74,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.815,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.85,
+      "duration": 0.84,
+      "targets": [
+        "mini-icon",
+        "mini-icon",
+        "mini-icon"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.2,
+      "duration": 2.86,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.16,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 28.16,
+      "duration": 0.38,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.16,
+      "duration": 3.78,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.26,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.3,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.375,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.45,
+      "duration": 0.48,
+      "targets": [
+        "big-number enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.525,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 28.56,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 29.06,
+      "duration": 2.78,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.06,
+      "duration": 2.78,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 31.94,
+      "duration": 0,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 31.94,
+      "duration": 0.36,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 31.94,
+      "duration": 4.3,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 32.04,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 32.08,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 32.155,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 32.23,
+      "duration": 0.48,
+      "targets": [
+        "big-number enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 32.305,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 32.34,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 32.84,
+      "duration": 3.3,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 32.84,
+      "duration": 3.3,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.24,
+      "duration": 0,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 36.24,
+      "duration": 0.38,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.24,
+      "duration": 5.3,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.34,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.38,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.455,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.49,
+      "duration": 0.8,
+      "targets": [
+        "phone-frame"
+      ],
+      "properties": [
+        "rotationY",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.53,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.605,
+      "duration": 0.48,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.64,
+      "duration": 0,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 36.68,
+      "duration": 0.48,
+      "targets": [
+        "bubble b1 enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.755,
+      "duration": 0.48,
+      "targets": [
+        "bubble b2 enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.83,
+      "duration": 0.48,
+      "targets": [
+        "screen-shield enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 36.905,
+      "duration": 0.48,
+      "targets": [
+        "screen-label enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 37.14,
+      "duration": 4.3,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 37.44,
+      "duration": 3.9,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.54,
+      "duration": 0,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 41.54,
+      "duration": 0.38,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.54,
+      "duration": 7.04,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.64,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.68,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.755,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.79,
+      "duration": 0.8,
+      "targets": [
+        "phone-frame"
+      ],
+      "properties": [
+        "rotationY",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.83,
+      "duration": 0.48,
+      "targets": [
+        "contact-panel enter call"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.905,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.94,
+      "duration": 0,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 41.98,
+      "duration": 0.48,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.055,
+      "duration": 0.48,
+      "targets": [
+        "bubble b1 enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.13,
+      "duration": 0.48,
+      "targets": [
+        "bubble b2 enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.205,
+      "duration": 0.48,
+      "targets": [
+        "screen-shield enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.28,
+      "duration": 0.48,
+      "targets": [
+        "screen-label enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.44,
+      "duration": 6.04,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.74,
+      "duration": 5.64,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.58,
+      "duration": 0,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 48.58,
+      "duration": 0.38,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.58,
+      "duration": 6.48,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.68,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.72,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.795,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.83,
+      "duration": 0.8,
+      "targets": [
+        "phone-frame"
+      ],
+      "properties": [
+        "rotationY",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.87,
+      "duration": 0.48,
+      "targets": [
+        "contact-panel enter wa"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.945,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 48.98,
+      "duration": 0,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 49.02,
+      "duration": 0.48,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 49.095,
+      "duration": 0.48,
+      "targets": [
+        "bubble b1 enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 49.17,
+      "duration": 0.48,
+      "targets": [
+        "bubble b2 enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 49.245,
+      "duration": 0.48,
+      "targets": [
+        "screen-shield enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 49.32,
+      "duration": 0.48,
+      "targets": [
+        "screen-label enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 49.48,
+      "duration": 5.48,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 49.78,
+      "duration": 5.08,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.06,
+      "duration": 0,
+      "targets": [
+        "s12"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 55.06,
+      "duration": 0.36,
+      "targets": [
+        "s12"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.06,
+      "duration": 5.44,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.16,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.2,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.275,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.31,
+      "duration": 0.8,
+      "targets": [
+        "phone-frame"
+      ],
+      "properties": [
+        "rotationY",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.35,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.425,
+      "duration": 0.48,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.46,
+      "duration": 0,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 55.5,
+      "duration": 0.48,
+      "targets": [
+        "bubble b1 enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.575,
+      "duration": 0.48,
+      "targets": [
+        "bubble b2 enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.65,
+      "duration": 0.48,
+      "targets": [
+        "screen-shield enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.725,
+      "duration": 0.48,
+      "targets": [
+        "screen-label enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 55.96,
+      "duration": 4.44,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 56.26,
+      "duration": 4.04,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.5,
+      "duration": 0,
+      "targets": [
+        "s13"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 60.5,
+      "duration": 0.38,
+      "targets": [
+        "s13"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.5,
+      "duration": 3.85,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.6,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.64,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.715,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.79,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.865,
+      "duration": 0.48,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.9,
+      "duration": 0,
+      "targets": [
+        "s12"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 60.9,
+      "duration": 0.69,
+      "targets": [
+        "state",
+        "state",
+        "state",
+        "state"
+      ],
+      "properties": [
+        "scaleY",
+        "transformOrigin",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 60.94,
+      "duration": 0.48,
+      "targets": [
+        "security-badge enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 61.4,
+      "duration": 2.85,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 61.4,
+      "duration": 2.85,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.35,
+      "duration": 0,
+      "targets": [
+        "s14"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 64.35,
+      "duration": 0.38,
+      "targets": [
+        "s14"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.35,
+      "duration": 2.83,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.45,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.49,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.565,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.64,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.715,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 64.75,
+      "duration": 0,
+      "targets": [
+        "s13"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 65.25,
+      "duration": 1.83,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 65.25,
+      "duration": 1.83,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.18,
+      "duration": 0,
+      "targets": [
+        "s15"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 67.18,
+      "duration": 0.38,
+      "targets": [
+        "s15"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.18,
+      "duration": 3.22,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.28,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.32,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.395,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.47,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.545,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 67.58,
+      "duration": 0,
+      "targets": [
+        "s14"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 68.08,
+      "duration": 2.22,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 68.08,
+      "duration": 2.22,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.4,
+      "duration": 0,
+      "targets": [
+        "s16"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 70.4,
+      "duration": 0.36,
+      "targets": [
+        "s16"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.4,
+      "duration": 3.18,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.5,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.54,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.615,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.69,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.765,
+      "duration": 0.48,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.8,
+      "duration": 0,
+      "targets": [
+        "s15"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 70.8,
+      "duration": 0.69,
+      "targets": [
+        "state",
+        "state",
+        "state",
+        "state"
+      ],
+      "properties": [
+        "scaleY",
+        "transformOrigin",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 70.84,
+      "duration": 0.48,
+      "targets": [
+        "security-badge enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 71.3,
+      "duration": 2.18,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 71.3,
+      "duration": 2.18,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.58,
+      "duration": 0,
+      "targets": [
+        "s17"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 73.58,
+      "duration": 0.38,
+      "targets": [
+        "s17"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.58,
+      "duration": 3.72,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.68,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.72,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.795,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.87,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.945,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 73.98,
+      "duration": 0,
+      "targets": [
+        "s16"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 74.48,
+      "duration": 2.72,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 74.48,
+      "duration": 2.72,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.3,
+      "duration": 0,
+      "targets": [
+        "s18"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 77.3,
+      "duration": 0.38,
+      "targets": [
+        "s18"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.3,
+      "duration": 3.02,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.4,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.44,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.515,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.59,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.665,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.7,
+      "duration": 0,
+      "targets": [
+        "s17"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 77.74,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.815,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 77.85,
+      "duration": 0.84,
+      "targets": [
+        "mini-icon",
+        "mini-icon",
+        "mini-icon"
+      ],
+      "properties": [
+        "rotation",
+        "scale",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 78.2,
+      "duration": 2.02,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.32,
+      "duration": 0,
+      "targets": [
+        "s19"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 80.32,
+      "duration": 0.38,
+      "targets": [
+        "s19"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.32,
+      "duration": 3.68,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.42,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.46,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.535,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.61,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.685,
+      "duration": 0.48,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.72,
+      "duration": 0,
+      "targets": [
+        "s18"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 80.72,
+      "duration": 0.69,
+      "targets": [
+        "state",
+        "state",
+        "state",
+        "state"
+      ],
+      "properties": [
+        "scaleY",
+        "transformOrigin",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 80.76,
+      "duration": 0.48,
+      "targets": [
+        "security-badge enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 81.22,
+      "duration": 2.68,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 81.22,
+      "duration": 2.68,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84,
+      "duration": 0,
+      "targets": [
+        "s20"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 84,
+      "duration": 0.36,
+      "targets": [
+        "s20"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84,
+      "duration": 4.18,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.1,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.14,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.215,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.29,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.365,
+      "duration": 0.48,
+      "targets": [
+        "panic-object enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.4,
+      "duration": 0,
+      "targets": [
+        "s19"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 84.4,
+      "duration": 0.5,
+      "targets": [
+        "panic-button"
+      ],
+      "properties": [
+        "scale",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.65,
+      "duration": 0.8,
+      "targets": [
+        "panic-ring"
+      ],
+      "properties": [
+        "scale",
+        "repeat",
+        "yoyo",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 84.9,
+      "duration": 3.18,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.18,
+      "duration": 0,
+      "targets": [
+        "s21"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 88.18,
+      "duration": 0.38,
+      "targets": [
+        "s21"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.18,
+      "duration": 3.52,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.28,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.32,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.395,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.47,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.545,
+      "duration": 0.48,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.58,
+      "duration": 0,
+      "targets": [
+        "s20"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 88.58,
+      "duration": 0.69,
+      "targets": [
+        "state",
+        "state",
+        "state",
+        "state"
+      ],
+      "properties": [
+        "scaleY",
+        "transformOrigin",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 88.62,
+      "duration": 0.48,
+      "targets": [
+        "security-badge enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 89.08,
+      "duration": 2.52,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 89.08,
+      "duration": 2.52,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 91.7,
+      "duration": 0,
+      "targets": [
+        "s22"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 91.7,
+      "duration": 0.38,
+      "targets": [
+        "s22"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 91.7,
+      "duration": 2.86,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 91.8,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 91.84,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 91.915,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 91.99,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 92.065,
+      "duration": 0.48,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 92.1,
+      "duration": 0,
+      "targets": [
+        "s21"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 92.1,
+      "duration": 0.69,
+      "targets": [
+        "state",
+        "state",
+        "state",
+        "state"
+      ],
+      "properties": [
+        "scaleY",
+        "transformOrigin",
+        "stagger",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 92.14,
+      "duration": 0.48,
+      "targets": [
+        "security-badge enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 92.6,
+      "duration": 1.86,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 92.6,
+      "duration": 1.86,
+      "targets": [
+        "bank-object enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.56,
+      "duration": 0,
+      "targets": [
+        "s23"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 94.56,
+      "duration": 0.38,
+      "targets": [
+        "s23"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.56,
+      "duration": 3.4,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.66,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.7,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.775,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.85,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.925,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 94.96,
+      "duration": 0,
+      "targets": [
+        "s22"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 95.46,
+      "duration": 2.4,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 95.46,
+      "duration": 2.4,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 97.96,
+      "duration": 0,
+      "targets": [
+        "s24"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 97.96,
+      "duration": 0.36,
+      "targets": [
+        "s24"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 97.96,
+      "duration": 5.14,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 98.06,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 98.1,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 98.175,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 98.25,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 98.325,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 98.36,
+      "duration": 0,
+      "targets": [
+        "s23"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 98.4,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 98.86,
+      "duration": 4.14,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.1,
+      "duration": 0,
+      "targets": [
+        "s25"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 103.1,
+      "duration": 0.38,
+      "targets": [
+        "s25"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.1,
+      "duration": 4.24,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.2,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.24,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.315,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.39,
+      "duration": 0.48,
+      "targets": [
+        "big-number enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.465,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 103.5,
+      "duration": 0,
+      "targets": [
+        "s24"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 104,
+      "duration": 3.24,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 104,
+      "duration": 3.24,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.34,
+      "duration": 0,
+      "targets": [
+        "s26"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 107.34,
+      "duration": 0.38,
+      "targets": [
+        "s26"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.34,
+      "duration": 4.01,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.44,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.48,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.555,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.63,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.705,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 107.74,
+      "duration": 0,
+      "targets": [
+        "s25"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 108.24,
+      "duration": 3.01,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 108.24,
+      "duration": 3.01,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.35,
+      "duration": 0,
+      "targets": [
+        "s27"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 111.35,
+      "duration": 0.38,
+      "targets": [
+        "s27"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.35,
+      "duration": 3.85,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.45,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.49,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.565,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.64,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.715,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.75,
+      "duration": 0,
+      "targets": [
+        "s26"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 111.79,
+      "duration": 0.48,
+      "targets": [
+        "mini enter green"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.865,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 111.94,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 112.25,
+      "duration": 2.85,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.2,
+      "duration": 0,
+      "targets": [
+        "s28"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 115.2,
+      "duration": 0.36,
+      "targets": [
+        "s28"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.2,
+      "duration": 5.72,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.3,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.34,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.415,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.45,
+      "duration": 0.8,
+      "targets": [
+        "phone-frame"
+      ],
+      "properties": [
+        "rotationY",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.49,
+      "duration": 0.48,
+      "targets": [
+        "contact-panel enter call"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.565,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.6,
+      "duration": 0,
+      "targets": [
+        "s27"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 115.64,
+      "duration": 0.48,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.715,
+      "duration": 0.48,
+      "targets": [
+        "bubble b1 enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.79,
+      "duration": 0.48,
+      "targets": [
+        "bubble b2 enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.865,
+      "duration": 0.48,
+      "targets": [
+        "screen-shield enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 115.94,
+      "duration": 0.48,
+      "targets": [
+        "screen-label enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 116.1,
+      "duration": 4.72,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 116.4,
+      "duration": 4.32,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 120.92,
+      "duration": 0,
+      "targets": [
+        "s29"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 120.92,
+      "duration": 0.38,
+      "targets": [
+        "s29"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 120.92,
+      "duration": 6.84,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.02,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.06,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.135,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.17,
+      "duration": 0.8,
+      "targets": [
+        "phone-frame"
+      ],
+      "properties": [
+        "rotationY",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.21,
+      "duration": 0.48,
+      "targets": [
+        "contact-panel enter wa"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.285,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.32,
+      "duration": 0,
+      "targets": [
+        "s28"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 121.36,
+      "duration": 0.48,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.435,
+      "duration": 0.48,
+      "targets": [
+        "bubble b1 enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.51,
+      "duration": 0.48,
+      "targets": [
+        "bubble b2 enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.585,
+      "duration": 0.48,
+      "targets": [
+        "screen-shield enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.66,
+      "duration": 0.48,
+      "targets": [
+        "screen-label enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 121.82,
+      "duration": 5.84,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 122.12,
+      "duration": 5.44,
+      "targets": [
+        "device-wrap enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 126.25,
+      "duration": 0.48,
+      "targets": [
+        "emergency-note enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 127.76,
+      "duration": 0,
+      "targets": [
+        "s30"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 127.76,
+      "duration": 0.38,
+      "targets": [
+        "s30"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 127.76,
+      "duration": 4.04,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 127.86,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 127.9,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 127.975,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 128.05,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 128.125,
+      "duration": 0.48,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 128.16,
+      "duration": 0,
+      "targets": [
+        "s29"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 128.66,
+      "duration": 3.04,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 128.66,
+      "duration": 3.04,
+      "targets": [
+        "monument enter"
+      ],
+      "properties": [
+        "rotation",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 131.8,
+      "duration": 0,
+      "targets": [
+        "s31"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 131.8,
+      "duration": 0.38,
+      "targets": [
+        "s31"
+      ],
+      "properties": [
+        "x",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 131.8,
+      "duration": 3.650958,
+      "targets": [
+        "scene-glow"
+      ],
+      "properties": [
+        "x",
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 131.9,
+      "duration": 0.75,
+      "targets": [
+        "beam"
+      ],
+      "properties": [
+        "x",
+        "rotation",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 131.94,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 132.015,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 132.09,
+      "duration": 0.48,
+      "targets": [
+        "sub enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 132.165,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 132.2,
+      "duration": 0,
+      "targets": [
+        "s30"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 132.24,
+      "duration": 0.48,
+      "targets": [
+        "mini enter green"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 132.315,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 132.39,
+      "duration": 0.48,
+      "targets": [
+        "mini enter "
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 132.7,
+      "duration": 2.650958,
+      "targets": [
+        "copy"
+      ],
+      "properties": [
+        "x",
+        "scale",
+        "overwrite",
+        "delay"
+      ]
+    }
+  ]
+}
