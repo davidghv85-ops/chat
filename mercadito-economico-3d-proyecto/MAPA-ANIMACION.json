@@ -1,0 +1,1269 @@
+{
+  "duration": 44.710958,
+  "tweens": [
+    {
+      "start": 0.15,
+      "duration": 0.4,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 0.18,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2.1,
+      "duration": 1,
+      "targets": [
+        "banner"
+      ],
+      "properties": [
+        "y",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 2.95,
+      "duration": 0.45,
+      "targets": [
+        "wipe1"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.18,
+      "duration": 0,
+      "targets": [
+        "s0"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 3.18,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 3.23,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.31,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.39,
+      "duration": 0.48,
+      "targets": [
+        "hero enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.47,
+      "duration": 0.48,
+      "targets": [
+        "bottom-card enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 3.95,
+      "duration": 2.29,
+      "targets": [
+        "produce-img"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.24,
+      "duration": 0.45,
+      "targets": [
+        "wipe2"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.47,
+      "duration": 0,
+      "targets": [
+        "s1"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 6.47,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 6.52,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.6,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.68,
+      "duration": 0.48,
+      "targets": [
+        "hero enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 6.76,
+      "duration": 0.48,
+      "targets": [
+        "bottom-card enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 7.24,
+      "duration": 3.12,
+      "targets": [
+        "produce-img"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.36,
+      "duration": 0.45,
+      "targets": [
+        "wipe3"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.59,
+      "duration": 0,
+      "targets": [
+        "s2"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 10.59,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 10.64,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.72,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 10.8,
+      "duration": 0.48,
+      "targets": [
+        "plate-copy enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 11.36,
+      "duration": 2.98,
+      "targets": [
+        "plate-copy enter"
+      ],
+      "properties": [
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.34,
+      "duration": 0.45,
+      "targets": [
+        "wipe4"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.57,
+      "duration": 0,
+      "targets": [
+        "s3"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 14.57,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 14.62,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.7,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.78,
+      "duration": 0.48,
+      "targets": [
+        "hero enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 14.86,
+      "duration": 0.48,
+      "targets": [
+        "bottom-card enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.34,
+      "duration": 0.64,
+      "targets": [
+        "produce-img"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 15.98,
+      "duration": 0.45,
+      "targets": [
+        "wipe5"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.21,
+      "duration": 0,
+      "targets": [
+        "s4"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 16.21,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 16.26,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.34,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.42,
+      "duration": 0.48,
+      "targets": [
+        "plate-copy enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 16.98,
+      "duration": 1.8,
+      "targets": [
+        "plate-copy enter"
+      ],
+      "properties": [
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 18.78,
+      "duration": 0.45,
+      "targets": [
+        "wipe6"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.01,
+      "duration": 0,
+      "targets": [
+        "s5"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 19.01,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 19.06,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.14,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.22,
+      "duration": 0.48,
+      "targets": [
+        "hero enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.3,
+      "duration": 0.48,
+      "targets": [
+        "bottom-card enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 19.78,
+      "duration": 2.46,
+      "targets": [
+        "produce-img"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.24,
+      "duration": 0.45,
+      "targets": [
+        "wipe7"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.47,
+      "duration": 0,
+      "targets": [
+        "s6"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 22.47,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 22.52,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.6,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.68,
+      "duration": 0.48,
+      "targets": [
+        "hero enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 22.76,
+      "duration": 0.48,
+      "targets": [
+        "bottom-card enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 23.24,
+      "duration": 1.68,
+      "targets": [
+        "produce-img"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 24.92,
+      "duration": 0.45,
+      "targets": [
+        "wipe8"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.15,
+      "duration": 0,
+      "targets": [
+        "s7"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 25.15,
+      "duration": 0,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 25.2,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.28,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.36,
+      "duration": 0.48,
+      "targets": [
+        "plate-copy discount-copy enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 25.92,
+      "duration": 3.78,
+      "targets": [
+        "plate-copy discount-copy enter"
+      ],
+      "properties": [
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.7,
+      "duration": 0.45,
+      "targets": [
+        "wipe9"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 29.93,
+      "duration": 0,
+      "targets": [
+        "s8"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 29.93,
+      "duration": 0,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 29.98,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.06,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.14,
+      "duration": 0.48,
+      "targets": [
+        "hero enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.22,
+      "duration": 0.48,
+      "targets": [
+        "bottom-card enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 30.7,
+      "duration": 3.68,
+      "targets": [
+        "produce-img"
+      ],
+      "properties": [
+        "scale",
+        "y",
+        "rotation",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.38,
+      "duration": 0.45,
+      "targets": [
+        "wipe10"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.61,
+      "duration": 0,
+      "targets": [
+        "s9"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 34.61,
+      "duration": 0,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 34.66,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.74,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 34.82,
+      "duration": 0.48,
+      "targets": [
+        "plate-copy phone-copy enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 35.38,
+      "duration": 2.6,
+      "targets": [
+        "plate-copy phone-copy enter"
+      ],
+      "properties": [
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 37.98,
+      "duration": 0.45,
+      "targets": [
+        "wipe11"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.21,
+      "duration": 0,
+      "targets": [
+        "s10"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 38.21,
+      "duration": 0,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 38.26,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.34,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.42,
+      "duration": 0.48,
+      "targets": [
+        "plate-copy phone-copy enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 38.98,
+      "duration": 2.72,
+      "targets": [
+        "plate-copy phone-copy enter"
+      ],
+      "properties": [
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.7,
+      "duration": 0.45,
+      "targets": [
+        "wipe12"
+      ],
+      "properties": [
+        "x",
+        "startAt",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 41.93,
+      "duration": 0,
+      "targets": [
+        "s11"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 41.93,
+      "duration": 0,
+      "targets": [
+        "s12"
+      ],
+      "properties": [
+        "opacity",
+        "overwrite",
+        "delay",
+        "repeat"
+      ]
+    },
+    {
+      "start": 41.98,
+      "duration": 0.48,
+      "targets": [
+        "label enter"
+      ],
+      "properties": [
+        "y",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.06,
+      "duration": 0.48,
+      "targets": [
+        "enter"
+      ],
+      "properties": [
+        "x",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.14,
+      "duration": 0.48,
+      "targets": [
+        "plate-copy phone-copy enter"
+      ],
+      "properties": [
+        "scale",
+        "rotation",
+        "opacity",
+        "runBackwards",
+        "overwrite",
+        "delay"
+      ]
+    },
+    {
+      "start": 42.7,
+      "duration": 2.010958,
+      "targets": [
+        "plate-copy phone-copy enter"
+      ],
+      "properties": [
+        "y",
+        "overwrite",
+        "delay"
+      ]
+    }
+  ]
+}

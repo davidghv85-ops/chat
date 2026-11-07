@@ -1,0 +1,73 @@
+{
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "duration": "44.833333",
+    "fps": "30/1"
+  },
+  "audio": {
+    "correlacion_mezcla": 0.9993031258063929,
+    "ganancia_exportada": 1.4050002098083496,
+    "pico_dbfs": -0.5102633833885193
+  },
+  "logo_original_sha256": "80cc19bec02e7b45b3b4c82f5bce37c71ded8b411b7378f9951ea3940be88629",
+  "escenas_verificadas": 13,
+  "fotogramas_sin_pantallas_negras": true,
+  "paneles_3d_verificados": [
+    {
+      "escena": 3,
+      "luminancia_panel": 207.9354976851852
+    },
+    {
+      "escena": 5,
+      "luminancia_panel": 219.85185416666667
+    },
+    {
+      "escena": 8,
+      "luminancia_panel": 225.34520601851852
+    },
+    {
+      "escena": 10,
+      "luminancia_panel": 222.94509722222222
+    },
+    {
+      "escena": 11,
+      "luminancia_panel": 227.88788888888888
+    },
+    {
+      "escena": 12,
+      "luminancia_panel": 227.58070601851853
+    }
+  ],
+  "productos_verificados": [
+    {
+      "escena": 1,
+      "pixeles_verdes_producto": 32771
+    },
+    {
+      "escena": 2,
+      "pixeles_verdes_producto": 30213
+    },
+    {
+      "escena": 4,
+      "pixeles_verdes_producto": 22088
+    },
+    {
+      "escena": 6,
+      "pixeles_verdes_producto": 34137
+    },
+    {
+      "escena": 7,
+      "pixeles_verdes_producto": 33695
+    },
+    {
+      "escena": 9,
+      "pixeles_verdes_producto": 29556
+    }
+  ],
+  "contactos": {
+    "fuente": "Confirmación expresa del usuario durante esta producción",
+    "telefono_1": "2411157000",
+    "telefono_2": "2412404290"
+  }
+}

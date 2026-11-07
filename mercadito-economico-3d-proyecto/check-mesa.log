@@ -1,0 +1,56 @@
+
+> check
+> npx --yes hyperframes@0.8.144 check
+
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB — it governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking motion-3d-nov
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/caja.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/caja.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/caja.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/caja.png" (3.0 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[HyperFrames] Not inlining "assets/bolsas.png" (2.5 MB exceeds the 2 MB inline limit). The bundle may not be self-contained.
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+[hyperframes] browserGpuMode=hardware was requested, but the WebGL probe found no hardware GPU — Chrome will silently fall back to software WebGL and the capture will run at CPU speed. Honouring the explicit request anyway.
+  Inside Docker, the container needs GPU passthrough: `--gpus all` with the NVIDIA Container Toolkit installed, or `--device /dev/dri` for Mesa/AMD/Intel. The image also needs the matching userspace driver + libEGL. Verify with `hyperframes render --browser-gpu` and watch for this warning disappearing.
+  Pass --no-browser-gpu to select deterministic SwiftShader instead of waiting on a hardware path that is not there.
+
+Lint
+  ⚠ duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    /workspace/motion-3d-nov/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    /workspace/motion-3d-nov/index.html [data-composition-id] t=0s
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  0 error(s), 2 warning(s), 0 info(s)
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ◇ 0 issues across 9 sample(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 18/18 text checks pass WCAG AA
+
+Snapshots
+  ◇ disabled
+
+◇  Check passed

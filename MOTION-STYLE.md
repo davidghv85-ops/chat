@@ -93,3 +93,6 @@ Mantener la grafía **Tzompantepec**. Fechas, lugares, teléfonos y requisitos s
 6. Renderizar y verificar el MP4 completo. Entregar por el repositorio como se viene haciendo, con textos y descripción cuando corresponda. Si se prepara una descripción social, iniciar con **#MiTzompantepec #Tzompantepec**.
 
 Esta guía es una dirección de producción para los próximos pedidos. La aprobación de la calidad de cada nueva pieza depende del resultado que el usuario vea; no se presupone por haber completado esta revisión.
+
+## Materiales y volumen — preferencia añadida
+El usuario solicita, en adelante, paneles y figuras de acabado 3D más realista: grosor, biseles, vidrio o acrílico, materiales mate o metálicos, reflejos e iluminación coherente y sombras suaves. Los movimientos deben transmitir peso y profundidad. Mantener texto legible y logos intactos. Aplicar al nuevo encargo según su paleta y contenido.

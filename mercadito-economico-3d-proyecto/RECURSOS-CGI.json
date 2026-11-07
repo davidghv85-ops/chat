@@ -1,0 +1,24 @@
+{
+  "bolsas.png": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels_fraction": 0.31216280152316417,
+    "sha256": "be344f537a09ab3538cbc0e20111f23cce59c7888e52b825120439736c77108a"
+  },
+  "caja.png": {
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_pixels_fraction": 0.3080279032389323,
+    "sha256": "f85c57a9cb63e6587f412ebab6c9cde6d2954f661809e60459f88100688337d2"
+  }
+}

@@ -23,3 +23,4 @@ cerro-transparente-proyecto/assets/personaje/*.png filter=lfs diff=lfs merge=lfs
 mi-tzompantepec-cerro-transparente.mp4 filter=lfs diff=lfs merge=lfs -text
 jornada-vacunacion-30-octubre.mp4 filter=lfs diff=lfs merge=lfs -text
 seguridad-publica-horizontal.mp4 filter=lfs diff=lfs merge=lfs -text
+mercadito-economico-3d.mp4 filter=lfs diff=lfs merge=lfs -text
